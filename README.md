@@ -27,7 +27,7 @@ I have studied in Griffth University in 2017 & also I've been studying in HUFS s
 ### 💫 Experience
 - **JRC** - Circuit Designer, Responsible for designing Robots *(Feb 2017 ~, currently on leave of absence)*
 - **ROBOTICS (AYH)** - Exclusive Manager *(Dec 2017 - JAN 2019)* 
-
+- **IROC** - Silver Award*(2017)*
 <br/>  
 
 ## Language & Tools (Interest)
