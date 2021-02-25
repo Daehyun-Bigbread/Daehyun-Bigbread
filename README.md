@@ -29,8 +29,7 @@ I have studied in Griffth University in 2017 & also I've been studying in HUFS s
 - **JRC** - Circuit Designer, Responsible for designing Robots *(Feb 2017 ~, currently on leave of absence)*
 - **ROBOTICS (AYH)** - Exclusive Manager *(Dec 2017 - JAN 2019)* 
 
-
-br/>  
+<br/>  
 
 <div sttyle='float:left'>
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" />  
@@ -39,7 +38,6 @@ br/>
 </div>
 
 <br/>  
-
 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
