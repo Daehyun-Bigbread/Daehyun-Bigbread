@@ -21,6 +21,10 @@
 ### Hi, I'm Daehyun Kim!
 
 I'm grateful to see you all. 
+
+I'm a Student & Engineer from South Korea 🇰🇷. I am interested in Deep learning & Arduino. also I ave participated and consulted on several projects with Arduino.
+
+I have studied in Griffth University in 2017 & also I've been studying in HUFS since 2020. and my major is Computer Engineering & Data Science.
 <!--
 **Daehyun-Bigbread/Daehyun-Bigbread** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
