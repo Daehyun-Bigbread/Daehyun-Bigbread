@@ -26,7 +26,7 @@ I'm a Student & Engineer from South Korea 🇰🇷. I am interested in Deep lear
 I have studied in Griffth University in 2017 & also I've been studying in HUFS since 2020. and my major is Computer Engineering & Data Science.
 
 ### 💫 Experience
-- **JRC** - Circuit Designer, Responsible for designing Robots *(Feb 2017 ~)*
+- **JRC** - Circuit Designer, Responsible for designing Robots *(Feb 2017 ~, currently on leave of absence)*
 - **ROBOTICS(AYH)** - Exclusive Manager *(Dec 2017 - JAN 2019)* 
 
 
