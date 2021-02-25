@@ -57,7 +57,7 @@ I have studied in Griffth University in 2017 & also I've been studying in HUFS s
 
 <img src="https://github-readme-stats.vercel.app/api?username=Daehyun-Bigbread&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
-</td><td valign="top" width="50%">
+</td><td valign="top" width="100%">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daehyun-Bigbread&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
