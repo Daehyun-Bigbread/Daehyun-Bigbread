@@ -1,4 +1,6 @@
-<br/>  
+<div align="right">
+<img src="https://komarev.com/ghpvc/?username=Daehyun-Bigbread&&style=flat-square" align="right" />
+</div> 
 
 ### Welcome to my Github! 👋
 
@@ -13,10 +15,6 @@
 </a>
 <a href="bigdarkgold@gmail.com" target="_blank">
 <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<div align="right">
-<img src="https://komarev.com/ghpvc/?username=Daehyun-Bigbread&&style=flat-square" align="right" />
-</div>
 
 ### Hi, I'm Daehyun Kim!
 
