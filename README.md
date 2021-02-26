@@ -2,7 +2,7 @@
 <img src="https://komarev.com/ghpvc/?username=Daehyun-Bigbread&&style=flat-square" align="right" />
 </div> 
 
-### Welcome to my Github! 👋
+### Welcome to my Github!👋 (Now I'm taking a break..)
 
 <a href="https://github.com/Daehyun-Bigbread" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
