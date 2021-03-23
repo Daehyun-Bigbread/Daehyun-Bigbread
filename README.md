@@ -51,7 +51,7 @@ I have studied in Griffth University in 2017 & also I've been studying in HUFS s
 
 ## Now I'm Studying..
 <div sttyle='float:left'>
-<img alt="Raspberry Pi" src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"/>" />
+<img alt="Raspberry Pi" src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"/>"
 </a>
 <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch%20-%23EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white" />
 
