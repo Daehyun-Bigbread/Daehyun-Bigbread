@@ -30,7 +30,7 @@ I have studied in Griffth University in 2017 & also I've been studying in HUFS s
 - **Griffith University (Gold Coast Campus)** - Engineering Tec *(2017 Oct, Conference)*
 - **IROC** - Silver Award *(2017)*
 - **HUFS (Hankuk University of Foreign Studies)**
- - Department of Computer Science & Data Science (Convergence major) *(2020~)* 
+  - Department of Computer Science & Data Science (Convergence major) *(2020~)* 
 <br/>  
 
 ## Language & Tools (Interest & Studied)
