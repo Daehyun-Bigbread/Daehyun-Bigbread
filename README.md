@@ -27,7 +27,7 @@ I have studied in Griffth University in 2017 & also I've been studying in HUFS s
 ### 💫 Experience
 - **JRC** - Circuit Designer, Responsible for designing Robots *(Feb 2017 ~, currently on leave of absence(Oct 2018~))*
 - **ROBOTICS (AYH)** - Exclusive Manager *(Dec 2017 - JAN 2019)*
-- **Griffith University Gold Coast *(2017 Oct, Conference)* - **
+- **Griffith University (Gold Coast Campus)** *(2017 Oct, Conference)* - **
 - **IROC** - Silver Award *(2017)*
 - **HUFS** - Department of Computer Science *(2020~)*
 <br/>  
