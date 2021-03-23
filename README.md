@@ -30,7 +30,7 @@ I have studied in Griffth University in 2017 & also I've been studying in HUFS s
 - **IROC** - Silver Award *(2017)*
 <br/>  
 
-## Language & Tools (Interest)
+## Language & Tools (Interest & Studied)
 
 <div sttyle='float:left'>
 <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
@@ -49,7 +49,7 @@ I have studied in Griffth University in 2017 & also I've been studying in HUFS s
 </a>
 <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
 
-## Now I'm Studying..
+## Now I'm Studying.. (Deep Learning..?)
 <div sttyle='float:left'>
 <img alt="Raspberry Pi" src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"/>
 </a>
