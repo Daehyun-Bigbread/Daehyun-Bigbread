@@ -20,7 +20,7 @@
 
 I'm grateful to see you all. 
 
-I'm a Student & Junior Engineer from South Korea 🇰🇷. I am interested in Deep learning & Arduino. also I have participated and consulted on several projects with Arduino & Other Projects.
+I'm a Student & Junior Engineer from South Korea 🇰🇷. I am interested in Deep learning. also I have participated and consulted on several projects with Arduino & Other Projects.
 
 I have studied in Griffth University in 2017 & also I've been studying in HUFS since 2020. and my major is Computer Engineering & Data Science.
 
