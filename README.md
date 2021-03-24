@@ -25,7 +25,7 @@ I'm a Student & Junior Engineer from South Korea 🇰🇷. I am interested in De
 I have studied in Griffth University in 2017 & also I've been studying in HUFS since 2020. and my major is Computer Engineering & Data Science.
 
 ### 💫 Experience
-- **JRC** - Circuit Designer, Responsible for designing Robots *(Feb 2017 ~ Oct 2018)*
+- **JRC** - Circuit Designer, Designing Robots *(Feb 2017 ~ Oct 2018)*
 - **ROBOTICS (AYH)** - Exclusive Manager *(Dec 2017 - JAN 2019)*
 - **Griffith University (Gold Coast Campus)**
   - Engineering Tec *(2017 Oct, Conference)*
