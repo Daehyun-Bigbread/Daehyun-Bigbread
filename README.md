@@ -53,7 +53,7 @@ I have studied in Griffth University in 2017 & also I've been studying in HUFS s
 </a>
 <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
 
-## Now I'm Studying.. (Deep Learning..?)
+## Now I'm Studying..
 <div sttyle='float:left'>
 <img alt="Raspberry Pi" src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"/>
 </a>
