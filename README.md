@@ -57,11 +57,11 @@
 <br/>  
 
 ## Github Stats  
-<table><tr><td valign="top" width="60%">
+<table><tr><td valign="top" width="55%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Daehyun-Bigbread&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 120%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Daehyun-Bigbread&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 110%" />
 
-</td><td valign="top" width="50%">
+</td><td valign="top" width="110%">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daehyun-Bigbread&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
