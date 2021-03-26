@@ -16,14 +16,6 @@
 <a href="bigdarkgold@gmail.com">
 <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 
-### Hi, I'm Daehyun Kim!
-
-I'm grateful to see you all. 
-
-I'm a Student & Junior Engineer from South Korea 🇰🇷. I am interested in Deep learning. also I have participated and consulted on several projects with Arduino & Other Projects.
-
-I have studied in Griffth University in 2017 & also I've been studying in HUFS since 2020. and my major is Computer Engineering & Data Science.
-
 ### 💫 Experience
 - **JRC** - Circuit Designer, Designing Robots *(Feb 2017 ~ Oct 2018)*
 - **ROBOTICS (AYH)** - Exclusive Manager *(Dec 2017 - JAN 2019)*
