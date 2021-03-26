@@ -4,6 +4,7 @@
 
 ### Welcome to my Github!👋 (Now I'm taking a break..)
 
+
 <a href="https://github.com/Daehyun-Bigbread" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -15,6 +16,7 @@
 </a>
 <a href="bigdarkgold@gmail.com">
 <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+
 
 ### 💫 Experience
 - **JRC** - Circuit Designer, Designing Robots *(Feb 2017 ~ Oct 2018)*
