@@ -61,7 +61,7 @@
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Daehyun-Bigbread&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=highcontrast" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Daehyun-Bigbread&show_icons=true&theme=highcontrast" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
