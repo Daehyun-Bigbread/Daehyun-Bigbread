@@ -28,7 +28,7 @@
   - Department of Computer Engineering & Data Science (Convergence major) *(2020~)* 
 <br/>  
 
-## Language & Tools (Interest & Studied)
+## Language & Tools (Interest & Techs that i've used at least once)
 
 <div sttyle='float:left'>
 <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
