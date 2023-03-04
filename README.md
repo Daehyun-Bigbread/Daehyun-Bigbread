@@ -65,6 +65,7 @@
 </a>
 <a href="s">
   <img src="https://raw.githubusercontent.com/Daehyun-Bigbread/github-stats-transparent/output/generated/languages.svg" width="50%" />
+  </a>
 </td></tr></table>  
 
 <br/>  
