@@ -64,7 +64,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=Daehyun-Bigbread&show_icons=true&theme=highcontrast" align="left" style="width: 100%" />
 
-</td><td valign="top" width="75%">
+</td><td valign="top" width="85%">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daehyun-Bigbread&hide_border=true&layout=compact&theme=highcontrast" align="left" style="width: 50%" />
 
