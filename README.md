@@ -26,7 +26,7 @@
 - **ROBOTICS (AYH)** - Exclusive Manager *(Dec 2017 - JAN 2019)*
 - **Griffith University (Gold Coast Campus)**
   - Engineering Tec *(2017)*
-- **IROC** - Silver Award *(2017)*
+- **IROC (International Robot Olympiad)** - Silver Award *(2017)*
 - **HUFS (Hankuk University of Foreign Studies)**
   - Department of Computer Engineering & Data Science (Convergence major) *(Mar 2020~)*
   - Passion & Pioneer Academic Society of Computer Engineering *(Mar 2020~)*
