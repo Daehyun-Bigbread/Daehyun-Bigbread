@@ -1,6 +1,5 @@
 <div align="right">
 <img src="https://komarev.com/ghpvc/?username=Daehyun-Bigbread&&style=flat-square" align="right" />
-</div> 
 </a>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=capsule%20render&fontSize=50" />
 
