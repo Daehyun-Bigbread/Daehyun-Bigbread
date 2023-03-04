@@ -23,7 +23,7 @@
 
 ## 💫 Experience
 - **JRC** - Circuit Designer, Designing Robots *(Feb 2017 ~ Oct 2018)*
-- **ROBOTICS Team (Anyang High School)**
+- **Team Robotics (Anyang High School)**
   - Exclusive Manager *(Dec 2017 - JAN 2019)*
   - KRC FLL Competition as Team Leader *(2017, 2018)*
 - **Team Insecure**
