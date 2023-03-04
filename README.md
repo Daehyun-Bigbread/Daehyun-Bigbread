@@ -77,7 +77,7 @@
 <a href="s">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kritika-pattalam&theme=tokyonight&hide_border=true" width="50%" > 
 </a>
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Daehyun-Bigbread&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repository-per-language?username=Daehyun-Bigbread&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Daehyun-Bigbread&theme=tokyonight&utcOffset=8)
 <!--
 **Daehyun-Bigbread/Daehyun-Bigbread** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
