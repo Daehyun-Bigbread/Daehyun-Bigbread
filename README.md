@@ -71,8 +71,12 @@
 
 ## 🌱 Github Stats  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Daehyun-Bigbread&theme=tokyonight)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daehyun-Bigbread&show_icons=true&theme=tokyonight&hide_border=true)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Daehyun-Bigbread&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api?username=Daehyun-Bigbread&theme=tokyonight&show_icons=true&hide_border=true" width="47%" />
+</a>
+<a href="s">
+<img src="https://raw.githubusercontent.com/dkssud8150/github-stats-transparent/output/generated/languages.svg" width="49%" />
+</a>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Daehyun-Bigbread&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Daehyun-Bigbread&theme=tokyonight&utcOffset=8)
 <!--
