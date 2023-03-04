@@ -60,13 +60,13 @@
 <br/>  
 
 ## Github Stats  
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkssud8150&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
-</a>
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=dkssud8150&theme=tokyonight&show_icons=true" width="42%" />
-</a>
+<table><tr><td valign="top" width="50%">
 
+<img src="https://github-readme-stats.vercel.app/api?username=Daehyun-Bigbread&show_icons=true&theme=highcontrast" align="left" style="width: 100%" />
+
+</td><td valign="top" width="95%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daehyun-Bigbread&hide_border=true&layout=compact&theme=highcontrast" align="left" style="width: 74%" />
 
   
 </td></tr></table>  
