@@ -79,6 +79,7 @@
 <a href="s">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kritika-pattalam&theme=tokyonight&hide_border=true" width="47%" > 
 </a>
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kdh1834)](https://solved.ac/kdh1834)
 <!--
 **Daehyun-Bigbread/Daehyun-Bigbread** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
