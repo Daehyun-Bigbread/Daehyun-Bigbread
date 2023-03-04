@@ -74,8 +74,8 @@
 </a>
 <a href="s">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kritika-pattalam&theme=tokyonight&hide_border=true" width="47%" > 
-<a href="https://github.com/jstrieb/github-stats">
-<img src="https://github.com/jstrieb/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<a href="s">
+<img src="https://github.com/Daehyun-Bigbread/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
 
 <!--
 **Daehyun-Bigbread/Daehyun-Bigbread** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
