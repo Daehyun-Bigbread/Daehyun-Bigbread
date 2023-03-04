@@ -71,16 +71,14 @@
 
 ## 🌱 Github Stats  
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=Daehyun-Bigbread&theme=tokyonight&show_icons=true&hide_border=true" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Daehyun-Bigbread&theme=tokyonight&show_icons=true&hide_border=true" width="100%" />
 </a>
 <a href="s">
-<img src="https://raw.githubusercontent.com/dkssud8150/github-stats-transparent/output/generated/languages.svg" width="49.2%" />
+<img src="https://raw.githubusercontent.com/dkssud8150/github-stats-transparent/output/generated/languages.svg" width="100%" />
 </a>
 <a href="s">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kritika-pattalam&theme=tokyonight&hide_border=true" width="47%" > 
-<a href="s">
-<img src="https://github.com/Daehyun-Bigbread/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only&hide_border=true" width="47%" />
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kritika-pattalam&theme=tokyonight&hide_border=true" width="100%" > 
+</a>
 <!--
 **Daehyun-Bigbread/Daehyun-Bigbread** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
