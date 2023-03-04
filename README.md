@@ -74,11 +74,6 @@
 </a>
 <a href="s">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kritika-pattalam&theme=tokyonight&hide_border=true" width="47%" > 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kdh1834)](https://solved.ac/kdh1834/)
-<br/>  
-
-
-
 
 
 <!--
