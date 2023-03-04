@@ -75,7 +75,6 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Daehyun-Bigbread&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vn7n24fzkq&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vn7n24fzkq&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=tokyonight&)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vn7n24fzkq&theme=tokyonight&utcOffset=8)
 <!--
 **Daehyun-Bigbread/Daehyun-Bigbread** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
