@@ -66,7 +66,7 @@
 
 </td><td valign="top" width="95%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daehyun-Bigbread&hide_border=true&layout=compact&theme=highcontrast" align="left" style="width: 80%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daehyun-Bigbread&hide_border=true&layout=compact&theme=highcontrast" align="left" style="width: 78%" />
 
   
 </td></tr></table>  
