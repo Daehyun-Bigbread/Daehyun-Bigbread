@@ -25,7 +25,7 @@
 - **JRC** - Circuit Designer, Designing Robots *(Feb 2017 ~ Oct 2018)*
 - **ROBOTICS Team (Anyang High School)**
   - Exclusive Manager *(Dec 2017 - JAN 2019)*
-  - KRC FLL Competition as Team Leader (2017,18)
+  - KRC FLL Competition as Team Leader *(2017, 2018)*
 - **Team Insecure**
   - International Robot Olympiad - Silver Award (4th) *(2017)*
   - The 4th Australian Robotics Challenge - Creative Concept Award *(2017)*
