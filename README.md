@@ -28,7 +28,7 @@
   - Department of Computer Engineering & Data Science (Convergence major) *(2020~)* 
 <br/>  
 
-## Language & Tools
+## STACK
 
 <div sttyle='float:left'>
 <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
@@ -36,6 +36,8 @@
 <img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white" style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
 </a>
 <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
+</a>
+<img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white"/>
 </a>
 <img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud%20-%234285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white"/>
 </a>
