@@ -27,7 +27,7 @@
   - Exclusive Manager *(Dec 2017 - JAN 2019)*
   - KRC FLL Competition as Team Leader *(2017, 2018)*
 - **Team Insecure**
-  - International Robot Olympiad - Silver Award (4th) *(2017)*
+  - International Robot Olympiad (IROC) - Silver Award (4th) *(2017)*
   - The 4th Australian Robotics Challenge - Creative Concept Award *(2017)*
 - **Griffith University (Gold Coast Campus)**
   - Engineering Tec *(2017)*
