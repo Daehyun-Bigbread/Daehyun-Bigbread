@@ -28,8 +28,8 @@
   - Engineering Tec *(2017)*
 - **IROC** - Silver Award *(2017)*
 - **HUFS (Hankuk University of Foreign Studies)**
-  - Department of Computer Engineering & Data Science (Convergence major) *(2020~)*
-  - Passion & Pioneer Academic Society of Computer Engineering *(2020~)*
+  - Department of Computer Engineering & Data Science (Convergence major) *(Mar 2020~)*
+  - Passion & Pioneer Academic Society of Computer Engineering *(Mar 2020~)*
 <br/>  
 
 ## 🖥️ Tech & STACK
