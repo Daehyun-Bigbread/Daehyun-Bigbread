@@ -29,6 +29,7 @@
   - Engineering Tec *(2017)*
 - **Team Insecure**
   - International Robot Olympiad - Silver Award (4th) *(2017)*
+  - The 4th Australian Robotics Challenge - Creative Concept Award *(2017)*
 - **HUFS (Hankuk University of Foreign Studies)**
   - Department of Computer Engineering & Data Science (Convergence major) *(Mar 2020~)*
   - Passion & Pioneer Academic Society of Computer Engineering *(Mar 2020~)*
