@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=capsule%20render&fontSize=50" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=capsule%20render&fontSize=50" />
 
 <div align="right">
 <img src="https://komarev.com/ghpvc/?username=Daehyun-Bigbread&&style=flat-square" align="right" />
