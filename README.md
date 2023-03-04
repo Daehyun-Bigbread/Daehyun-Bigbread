@@ -74,7 +74,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Daehyun-Bigbread&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 <img src="https://raw.githubusercontent.com/dkssud8150/github-stats-transparent/output/generated/languages.svg" width="46%"/>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kdh1834)](https://solved.ac/kdh1834/)
-http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username={Daehyun-Bigbread}&theme={tokyonight}&utcOffset={utcOffset}
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username={Daehyun-Bigbread}&theme={tokyonight}&utcOffset={utcOffset})
 <!--
 **Daehyun-Bigbread/Daehyun-Bigbread** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
