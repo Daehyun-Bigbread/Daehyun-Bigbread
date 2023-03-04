@@ -66,9 +66,8 @@
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daehyun-Bigbread&hide_border=true&layout=compact&theme=highcontrast" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daehyun-Bigbread&hide_border=true&layout=compact&theme=highcontrast" align="left" style="width: 50%" />
 
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=kritika-pattalam&theme=dark" width="48%" > 
   
 </td></tr></table>  
 
