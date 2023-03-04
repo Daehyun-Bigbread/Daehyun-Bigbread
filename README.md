@@ -22,8 +22,10 @@
 
 
 ## 💫 Experience
-- **JRC** - Circuit Designer, Designing Robots *(Feb 2017 ~ Oct 2018)*
-- **ROBOTICS Team (Anyang High School)** - Exclusive Manager *(Dec 2017 - JAN 2019)*
+- **JRC Co.**
+  - Circuit Designer, Designing Robots *(Feb 2017 ~ Oct 2018)*
+- **ROBOTICS Team (Anyang High School)**
+  - Exclusive Manager *(Dec 2017 - JAN 2019)*
 - **Griffith University (Gold Coast Campus)**
   - Engineering Tec *(2017)*
 - **IROC (International Robot Olympiad)** - Silver Award (in Insecure Team) *(2017)*
