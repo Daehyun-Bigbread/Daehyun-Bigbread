@@ -2,7 +2,7 @@
 <img src="https://komarev.com/ghpvc/?username=Daehyun-Bigbread&&style=flat-square" align="right" />
 </a>
 <div align="left">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=f720db&height=200&section=header&text=Bigbread's%20Github&fontSize=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=c779d0&height=200&section=header&text=Bigbread's%20Github&fontSize=50" />
 
 ## Let me Introduce Myself!👋
 
