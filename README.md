@@ -71,6 +71,7 @@
 
 ## 🌱 Github Stats  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daehyun-Bigbread&show_icons=true&theme=tokyonight&hide_border=true&width="47%)
+![Anurag's GitHub stats]("https://raw.githubusercontent.com/dkssud8150/github-stats-transparent/output/generated/languages.svg"width="49%")
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Daehyun-Bigbread&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Daehyun-Bigbread/Daehyun-Bigbread** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
