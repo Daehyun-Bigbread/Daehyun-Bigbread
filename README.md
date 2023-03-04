@@ -31,7 +31,7 @@
   - Department of Computer Engineering & Data Science (Convergence major) *(2020~)* 
 <br/>  
 
-## Tech & STACK
+## 🖥️ Tech & STACK
 
 <div sttyle='float:left'>
 <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
@@ -50,7 +50,7 @@
 </a>
 <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
 
-## Interested in
+## 🤔 Interested in
 <div sttyle='float:left'>
 <img alt="Raspberry Pi" src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"/>
 </a>
@@ -65,7 +65,7 @@
 <img alt="NumPy" src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" />
 <br/>  
 
-## Github Stats  
+## 🌱 Github Stats  
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=Daehyun-Bigbread&theme=tokyonight&show_icons=true&hide_border=true" width="47%" />
 </a>
