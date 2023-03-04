@@ -74,7 +74,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daehyun-Bigbread&show_icons=true&theme=tokyonight&hide_border=true)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Daehyun-Bigbread&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Daehyun-Bigbread&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Daehyun-Bigbread&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Daehyun-Bigbread&theme=tokyonight&utcOffset=8)
 <!--
 **Daehyun-Bigbread/Daehyun-Bigbread** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
