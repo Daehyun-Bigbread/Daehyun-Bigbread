@@ -66,8 +66,9 @@
 <a href="s">
   <img src="https://raw.githubusercontent.com/Daehyun-Bigbread/github-stats-transparent/output/generated/languages.svg" width="50%" />
 </a>
+<a href="s">
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Daehyun-Bigbread&theme=tokyonight)](https://git.io/streak-stats)
-
+</a>
 </td></tr></table>  
 
 <br/>  
