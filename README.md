@@ -64,7 +64,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Daehyun-Bigbread&theme=tokyonight&show_icons=true&hide_border=true" width="47%" />
 </a>
 <a href="s">
-  <img src="https://raw.githubusercontent.com/Daehyun-Bigbread/github-stats-transparent/output/generated/languages.svg" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/username=dkssud8150&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
+</a>
   </a>
 </td></tr></table>  
 
