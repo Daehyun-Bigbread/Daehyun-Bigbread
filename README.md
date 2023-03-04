@@ -2,7 +2,7 @@
 <img src="https://komarev.com/ghpvc/?username=Daehyun-Bigbread&&style=flat-square" align="right" />
 </div> 
 
-### Welcome to my Github!👋
+## Welcome to my Github!👋
 
 <div sttyle='float:left'>
 <a href="https://Daehyun-Bigbread.github.io" target="_blank">
@@ -19,7 +19,7 @@
 
 
 
-### 💫 Experience
+## 💫 Experience
 - **JRC** - Circuit Designer, Designing Robots *(Feb 2017 ~ Oct 2018)*
 - **ROBOTICS (AYH)** - Exclusive Manager *(Dec 2017 - JAN 2019)*
 - **Griffith University (Gold Coast Campus)**
