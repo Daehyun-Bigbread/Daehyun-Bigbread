@@ -61,11 +61,10 @@
 
 ## Github Stats  
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=Daehyun-Bigbread&theme=tokyonight&show_icons=true&hide_border=true" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DaehyunBigbread&theme=tokyonight&show_icons=true&hide_border=true" width="47%" />
 </a>
 <a href="s">
   <img src="https://raw.githubusercontent.com/Daehyun-Bigbread/github-stats-transparent/output/generated/languages.svg" width="50%" />
-</a>
 </td></tr></table>  
 
 <br/>  
