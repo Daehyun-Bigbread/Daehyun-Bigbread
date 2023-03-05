@@ -10,7 +10,7 @@
 <div align="left">
   
   
-## Let me Introduce Myself!👋
+## 👋 Hello ~ I'm Daehyun Kim!
 
 <div sttyle='float:left'>
 <a href="https://Daehyun-Bigbread.github.io" target="_blank">
