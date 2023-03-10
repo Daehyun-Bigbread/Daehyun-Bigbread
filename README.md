@@ -11,8 +11,7 @@
 <div align="left">
   
   
-## 👋 Hello ~ I'm Daehyun! 
-### (Stduent & Junior Engineer)
+## 👋 Hello ~ I'm Daehyun! (Stduent & Junior Engineer)
 
 <div sttyle='float:left'>
 <a href="https://Daehyun-Bigbread.github.io" target="_blank">
