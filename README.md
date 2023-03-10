@@ -12,7 +12,7 @@
   
   
 ## 👋 Hello ~ I'm Daehyun! 
-# (Stduent & Junior Engineer)
+### (Stduent & Junior Engineer)
 
 <div sttyle='float:left'>
 <a href="https://Daehyun-Bigbread.github.io" target="_blank">
