@@ -25,8 +25,10 @@
 </a>
 <a href="bigdarkgold@gmail.com">
 <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.notion.so/Bigbread-s-Notion-99f9a98fab9447adb0d4eecd079bb5c4" target="_blank">
+<img alt="Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>
   
-
 ## 💫 Experience
 - **JRC** - Circuit Designer, Designing Robots *(Feb 2017 ~ Oct 2018)*
 - **Team Robotics (Anyang High School)**
@@ -62,8 +64,6 @@
 <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
 </a>
 <img alt="RStudio" src="https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white"/>
-</a>
-<img alt="Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>
 
 ## 🤔 Interested in
 <div sttyle='float:left'>
