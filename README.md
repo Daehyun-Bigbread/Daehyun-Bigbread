@@ -27,6 +27,7 @@
 </a>
 <a href="https://www.notion.so/Bigbread-s-Notion-99f9a98fab9447adb0d4eecd079bb5c4" target="_blank">
 <img alt="Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>
+</a>
   
 ## 💫 Experience
 - **JRC** - Circuit Designer, Designing Robots *(Feb 2017 ~ Oct 2018)*
