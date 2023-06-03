@@ -2,10 +2,7 @@
 <div align="right">
 <img src="https://komarev.com/ghpvc/?username=Daehyun-Bigbread&&style=flat-square" align="right" />
 </a>
-</a>
-</a>
-<div align="center">
-  
+
 ## 👋 Hello ~ I'm Daehyun! (Stduent & Junior Engineer)
 
 <div sttyle='float:left'>
