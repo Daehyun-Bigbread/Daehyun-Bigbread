@@ -5,7 +5,7 @@
 
 ## 👋 Hello ~ I'm Daehyun! (Stduent & Junior Engineer)
 
-<div sttyle='float:left'>
+<div style='float:left'>
 <a href="https://Daehyun-Bigbread.github.io" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
