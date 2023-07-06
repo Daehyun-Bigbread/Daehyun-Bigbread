@@ -84,6 +84,8 @@
 </a>
 <img alt="OpenCV" src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"/>
 </a>
+<img alt="ChatGPT" src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/>
+</a>
 
 ## 🌱 Github Stats  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Daehyun-Bigbread&theme=tokyonight)
