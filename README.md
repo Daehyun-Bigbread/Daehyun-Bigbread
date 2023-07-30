@@ -36,7 +36,7 @@
 - **Hankuk University of Foreign Studies (HUFS)**
   - Department of Computer Engineering & Data Science (Convergence major) *(Mar 2020~)*
   - Passion & Pioneer Academic Society of Computer Engineering *(Mar 2020~)*
-  - Deep Learning Technology Convergence Process Based on Natural Language Processing *(July 2023~)*
+  - Deep Learning Technology Convergence Process Based on Natural Language Processing *(June 2023~)*
     - with Ministry of Science and ICT & Kdata
 <br/>  
 
