@@ -6,9 +6,6 @@
 <div align="left">
   
 ## 👋 Hello ~ I'm Daehyun! (Stduent & Junior Developer)
-
-🌱 Now i"m studying AI, NLP, Deeplearning
-
 <div style='float:left'>
 <a href="https://Daehyun-Bigbread.github.io" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -25,6 +22,8 @@
 <a href="https://www.notion.so/Bigbread-s-Notion-99f9a98fab9447adb0d4eecd079bb5c4" target="_blank">
 <img alt="Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>
 </a>
+
+🌱 Now i"m studying AI, NLP, Deeplearning
   
 ## 💫 Experience
 - **JRC** - Circuit Designer, Designing Robots (Feb 2017 ~ Oct 2018)
