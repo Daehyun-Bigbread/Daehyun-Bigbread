@@ -5,7 +5,8 @@
 
 <div align="left">
   
-## 👋 Hello ~ I'm Daehyun! (Stduent & Junior Developer in AI, MLP, DeepLearning)
+## 👋 Hello ~ I'm Daehyun! (Stduent & Junior Developer)
+
 🌱 Now i"m studying AI, NLP, Deeplearning
 
 <div style='float:left'>
