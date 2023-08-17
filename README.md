@@ -6,7 +6,6 @@
 <div align="left">
   
 ## 👋 Hello ~ I'm Daehyun! (Stduent & Junior Developer)
-- Now I'm Studying AI, NLP, DeepLearning.
 
 <div style='float:left'>
 <a href="https://Daehyun-Bigbread.github.io" target="_blank">
