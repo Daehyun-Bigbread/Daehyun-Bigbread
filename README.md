@@ -35,9 +35,9 @@
   - Engineering Tec *(2017)*
 - **Hankuk University of Foreign Studies (HUFS)**
   - Department of Computer Engineering & Data Science (Convergence major) *(Mar 2020~)*
-  - Passion & Pioneer Academic Society of Computer Engineering *(Mar 2020~)*
   - Deep Learning Technology Convergence Process Based on Natural Language Processing *(June 2023~)*
     - with Ministry of Science and ICT & Kdata
+- **Passion & Pioneer Academic Society of Computer Engineering** *(Mar 2020~)*
 - **Google Developer Student Clubs HUFS**
   - 5th Core Member *(August 2023~)*
 <br/>  
