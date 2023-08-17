@@ -23,8 +23,10 @@
 <img alt="Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>
 </a>
 
+</a>
 🌱 Now i"m studying AI, NLP, Deeplearning
-  
+</a> 
+
 ## 💫 Experience
 - **JRC** - Circuit Designer, Designing Robots (Feb 2017 ~ Oct 2018)
 - **Team Robotics (Anyang High School)**
