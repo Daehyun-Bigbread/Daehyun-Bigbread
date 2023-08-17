@@ -38,6 +38,7 @@
   - Passion & Pioneer Academic Society of Computer Engineering *(Mar 2020~)*
   - Deep Learning Technology Convergence Process Based on Natural Language Processing *(June 2023~)*
     - with Ministry of Science and ICT & Kdata
+- ** GDSC HUFS (5th Core Member)**
 <br/>  
 
 ## 🖥️ Tech & STACK
