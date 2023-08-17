@@ -23,10 +23,6 @@
 <img alt="Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>
 </a>
 
-</a>
-🌱 Now i"m studying AI, NLP, Deeplearning
-</a> 
-
 ## 💫 Experience
 - **JRC** - Circuit Designer, Designing Robots (Feb 2017 ~ Oct 2018)
 - **Team Robotics (Anyang High School)**
@@ -46,7 +42,7 @@
   - 5th Core Member (August 2023~)
 <br/>  
 
-## 🖥️ Tech & STACK
+###  🖥️ Tech & STACK
 
 <div sttyle='float:left'>
 <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
@@ -74,7 +70,7 @@
 <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 </a>
 
-## 🤔 Interested in
+###  🤔 Interested in & Now Studying
 <div sttyle='float:left'>
 <img alt="Raspberry Pi" src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"/>
 </a>
@@ -87,7 +83,7 @@
 <img alt="ChatGPT" src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/>
 </a>
 
-## 🌱 Github Stats  
+### 🌱 Github Stats  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Daehyun-Bigbread&theme=tokyonight)
 <a href="s">
 <img src="https://github-readme-stats.vercel.app/api?username=Daehyun-Bigbread&theme=tokyonight&show_icons=true&hide_border=true" width="47%" />
