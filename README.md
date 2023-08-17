@@ -5,7 +5,7 @@
 
 <div align="left">
   
-## 👋 Hello ~ I'm Daehyun! (Stduent & Junior Developer)
+## 👋 Hello ~ I'm Daehyun! (Stduent & Junior Developer in AI, MLP, DeepLearning)
 
 <div style='float:left'>
 <a href="https://Daehyun-Bigbread.github.io" target="_blank">
