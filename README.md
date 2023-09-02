@@ -32,7 +32,7 @@
   - International Robot Olympiad (IROC) - Silver Award (4th) (2017)
   - The 4th Australian Robotics Challenge - Creative Concept Award (2017)
 - **Griffith University (Gold Coast Campus)**
-  - Engineering Tec *(2017)*
+  - Engineering Tec (2017)
 - **Hankuk University of Foreign Studies (HUFS)**
   - Department of Computer Engineering & Data Science (Convergence major) (Mar 2020~)
   - Deep Learning Technology Convergence Process Based on Natural Language Processing (June ~ August in 2023)
