@@ -38,8 +38,6 @@
   - Deep Learning Technology Convergence Process Based on Natural Language Processing (June ~ August in 2023)
     - with Ministry of Science and ICT & Kdata
 - **Passion & Pioneer Academic Society of Computer Engineering** (Mar 2020~)
-- **Google Developer Student Clubs HUFS**
-  - 5th Core Member (August 2023~)
 <br/>  
 
 ###  🖥️ Tech & STACK
