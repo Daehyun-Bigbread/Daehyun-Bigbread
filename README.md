@@ -37,7 +37,7 @@
   - Department of Computer Engineering & Data Science (Convergence major) (Mar 2020~)
   - Deep Learning Technology Convergence Process Based on Natural Language Processing (June ~ August in 2023)
     - with Ministry of Science and ICT & Kdata
-- **Passion & Pioneer Academic Society of Computer Engineering** (Mar 2020~)
+- **Passion & Pioneer Academic Society of Computer Engineering PnP** (Mar 2020~)
 - **HUFS Data Analysis Academy DAT(Data Analysis & Technology)** (Aug 2023~)
 - **Naver BoostCource Coaching Study 13rd (Data Science)** (Sep 2023~)
 <br/>  
