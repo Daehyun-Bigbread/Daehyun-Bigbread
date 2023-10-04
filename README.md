@@ -24,7 +24,7 @@
 </a>
 
 ## 💫 Experience
-- **JRC** - Circuit Designer, Designing Robots (Feb 2017 ~ Oct 2018)
+- **JRC** - Arduino & Circuit Designer, Designing Robots (Feb 2017 ~ Oct 2018)
 - **Team Robotics (Anyang High School)**
   - Exclusive Manager (2017 - 2019)
   - KRC FLL Competition (Finals) as Team Leader (2017, 2018)
@@ -38,7 +38,7 @@
   - Deep Learning Technology Convergence Process Based on Natural Language Processing (2023)
     - with Ministry of Science and ICT & Kdata
 - **Passion & Pioneer Academic Society of Computer Engineering PnP** (2020~)
-- **HUFS Data Analysis Academy DAT(Data Analysis & Technology)** (2023~)
+- **Data Analysis Academy DAT(Data Analysis & Technology)** (2023~)
 - **Naver BoostCource Coaching Study 13rd (Data Science)** (2023)
 <br/>  
 
