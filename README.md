@@ -39,10 +39,14 @@
 - **Naver BoostCource Coaching Study 13rd (Data Science)** (2023)
 <br/>  
 
-###  🖥️ Tech & STACK
+## 🖥️ Skills
+
+### Tech & STACK
 
 <div sttyle='float:left'>
 <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
+</a>
+<img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
 </a>
 <img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white" style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
 </a>
@@ -74,7 +78,8 @@
 </a>
 <img alt ="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"/>
 
-###  🤔 Interested in & Now Studying
+### Interested in & Now Studying
+
 <div sttyle='float:left'>
 <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch%20-%23EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white" />
 </a>
@@ -89,8 +94,12 @@
 <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
 </a>
 <img alt="Node.JS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-
-### 💬 Communication
+</a>
+<img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" />
+</a>
+<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  
+### Communication
 
 <img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 <img alt="Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />
@@ -100,7 +109,7 @@
 <img alt="Google Meet" src="https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=google-meet&logoColor=white" />
 <img alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
 <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-
+<br/> 
 
 ### 🌱 Github Stats  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Daehyun-Bigbread&theme=tokyonight)
