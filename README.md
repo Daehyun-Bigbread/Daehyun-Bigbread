@@ -21,9 +21,9 @@
 </a>
 
 ## 💫 Experience
-- **JRC** - Arduino & Circuit Designer, Designing Robots (Feb 2017 ~ Oct 2018)
+- **JRC** - Arduino & Circuit Designer, Designing Robots (2017 ~ 2018)
 - **Team Robotics**
-  - Exclusive Manager (2017 - 2019)
+  - Exclusive Manager (2017 ~ 2019)
   - KRC FLL Competition (Finals) as Team Leader (2017, 2018)
 - **Team Insecure**
   - International Robot Olympiad (IROC) - Silver Award (4th) (2017)
@@ -31,11 +31,11 @@
 - **Griffith University (Gold Coast Campus)**
   - Engineering Tec (2017)
 - **Hankuk University of Foreign Studies (HUFS)**
-  - Department of Computer Engineering & Data Science (Convergence major) (2020~)
+  - Department of Computer Engineering & Data Science (Convergence major) (2023 ~ Present)
   - Deep Learning Technology Convergence Process Based on Natural Language Processing (2023)
     - with Ministry of Science and ICT & Kdata
-- **Passion & Pioneer Academic Society of Computer Engineering PnP** (2020~)
-- **Data Analysis Academy DAT(Data Analysis & Technology)** (2023~)
+- **Passion & Pioneer Academic Society of Computer Engineering PnP** (2023 ~ Present)
+- **Data Analysis Academy DAT(Data Analysis & Technology)** (2023 ~ Present)
 - **Naver BoostCource Coaching Study 13rd (Data Science)** (2023)
 <br/>  
 
