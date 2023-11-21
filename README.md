@@ -31,10 +31,10 @@
 - **Griffith University (Gold Coast Campus)**
   - Engineering Tec (2017)
 - **Hankuk University of Foreign Studies (HUFS)**
-  - Department of Computer Engineering & Data Science (Convergence major) (2023 ~ Present)
+  - Department of Computer Engineering & Data Science (Convergence major) (2020 ~ Present)
   - Deep Learning Technology Convergence Process Based on Natural Language Processing (2023)
     - with Ministry of Science and ICT & Kdata
-- **Passion & Pioneer Academic Society of Computer Engineering PnP** (2023 ~ Present)
+- **Passion & Pioneer Academic Society of Computer Engineering PnP** (2020 ~ Present)
 - **Data Analysis Academy DAT(Data Analysis & Technology)** (2023 ~ Present)
 - **Naver BoostCource Coaching Study 13rd (Data Science)** (2023)
 <br/>  
