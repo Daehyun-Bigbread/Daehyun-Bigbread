@@ -32,6 +32,7 @@
   - Engineering Tec (2017)
 - **Hankuk University of Foreign Studies (HUFS)**
   - Department of Computer Engineering & Data Science (Convergence major) (2020 ~ Present)
+- **Team FindAlpha**
   - Deep Learning Technology Convergence Process Based on Natural Language Processing (2023)
     - with Ministry of Science and ICT & Kdata
 - **Passion & Pioneer Academic Society of Computer Engineering PnP** (2020 ~ Present)
