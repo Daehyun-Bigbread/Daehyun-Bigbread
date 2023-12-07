@@ -35,6 +35,8 @@
 - **Team FindAlpha**
   - Deep Learning Technology Convergence Process Based on Natural Language Processing (2023)
     - with Ministry of Science and ICT & Kdata
+- **ICT-Advanced Engineering Society (ICT-AES)**
+  - [Best-paper Award] Issued by ICT-Advanced Engineering Society (2023)
 - **Passion & Pioneer Academic Society of Computer Engineering PnP** (2020 ~ Present)
 - **Data Analysis Academy DAT(Data Analysis & Technology)** (2023 ~ Present)
 - **Naver BoostCource Coaching Study 13rd (Data Science)** (2023)
