@@ -39,7 +39,7 @@
   - [Best-paper Award] Issued by ICT-Advanced Engineering Society (2023)
 - **Passion & Pioneer Academic Society of Computer Engineering PnP** (2020 ~ Present)
 - **Data Analysis Academy DAT(Data Analysis & Technology)** (2023)
-- **Naver BoostCource Coaching Study 13rd (Data Science)** (2023)
+- **Naver BoostCource Coaching Study 13rd (DS, AI)** (2023)
 - **Seoul Ai Hub Participating in training & Project interns** (2023 ~ present)
 <br/>  
 
