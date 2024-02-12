@@ -40,7 +40,7 @@
 - **Passion & Pioneer Academic Society of Computer Engineering PnP** (2020 ~ Present)
 - **Data Analysis Academy DAT(Data Analysis & Technology)** (2023)
 - **Naver BoostCource Coaching Study 13rd, 14th (DS, AI)** (2023)
-- **Seoul Ai Hub Participating in training & Project interns** (2023 ~ present)
+- **Seoul Ai Hub Participating in training** (2023 ~ present)
 <br/>  
 
 ## 🖥️ Skills
