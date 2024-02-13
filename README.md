@@ -33,7 +33,6 @@
 - **Hankuk University of Foreign Studies (HUFS)**
   - Department of Computer Engineering & Data Science (Convergence major) (2020 ~ Present)
   - Participation in SW-Centered University Global Talent Training Program (Nanyang Technical University, VNU University of Engineering & Technology) (2023)
-
 - **Team FindAlpha**
   - Deep Learning Technology Convergence Process Based on Natural Language Processing (2023)
     - with Ministry of Science and ICT & Kdata
