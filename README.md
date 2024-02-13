@@ -32,6 +32,8 @@
   - Engineering Tec (2017)
 - **Hankuk University of Foreign Studies (HUFS)**
   - Department of Computer Engineering & Data Science (Convergence major) (2020 ~ Present)
+  - Participation in SW-Centered University Global Talent Training Program (Nanyang Technical University, VNU University of Engineering & Technology) (2023)
+
 - **Team FindAlpha**
   - Deep Learning Technology Convergence Process Based on Natural Language Processing (2023)
     - with Ministry of Science and ICT & Kdata
@@ -39,6 +41,7 @@
   - [Best-paper Award] Issued by ICT-Advanced Engineering Society (2023)
 - **Passion & Pioneer Academic Society of Computer Engineering PnP** (2020 ~ Present)
 - **Data Analysis Academy DAT(Data Analysis & Technology)** (2023)
+  - Capstone project research, thesis inclusion and award for excellence award, Predicting Actual Transaction Pieces of Top 5 Korea Apartment Brands Using ML
 - **Naver BoostCource Coaching Study 13rd, 14th (DS, AI)** (2023)
 - **Seoul Ai Hub Participating in training** (2023 ~ present)
 <br/>  
