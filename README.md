@@ -39,6 +39,9 @@
 - **ICT-Advanced Engineering Society (ICT-AES)**
   - [Best-paper Award] Issued by ICT-Advanced Engineering Society (2023)
 - **Passion & Pioneer Academic Society of Computer Engineering PnP** (2020 ~ Present)
+  - Study with AI Study Team Part Leader (2023 ~ Present)
+  - Participate in AI study (2020 ~ 2021)
+  - Participate in Data Science Study (2021)
 - **Data Analysis Academy DAT(Data Analysis & Technology)** (2023)
   - Capstone project research, thesis inclusion and award for excellence award, Predicting Actual Transaction Pieces of Top 5 Korea Apartment Brands Using ML
 - **Naver BoostCource Coaching Study 13rd, 14th (DS, AI)** (2023)
