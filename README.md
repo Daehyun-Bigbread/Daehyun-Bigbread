@@ -42,7 +42,9 @@
 - **Data Analysis Academy DAT(Data Analysis & Technology)** (2023)
   - Capstone project research, thesis inclusion and award for excellence award, Predicting Actual Transaction Pieces of Top 5 Korea Apartment Brands Using ML
 - **Naver BoostCource Coaching Study 13rd, 14th (DS, AI)** (2023)
-- **Seoul Ai Hub Participating in training** (2023 ~ present)
+- **Seoul Ai Hub X Modoo.Lab Participating in training** (2023 ~ present)
+  - "Yum Yum" Service Development Tevam is participating in the project as an AI part (2024)
+- **Hack Together: The Microsoft AI Chat App Hack** (2024)
 <br/>  
 
 ## 🖥️ Skills
