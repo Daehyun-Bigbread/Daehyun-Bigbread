@@ -25,6 +25,7 @@
 - **Team Robotics**
   - Exclusive Manager (2017 ~ 2019)
   - KRC FLL Competition (Finals) as Team Leader (2017, 2018)
+    - KRC FLL Final Contest Creative Award Award
 - **Team Insecure**
   - International Robot Olympiad (IROC) - Silver Award (4th) (2017)
   - The 4th Australian Robotics Challenge - Creative Concept Award (2017)
@@ -32,11 +33,12 @@
   - Engineering Tec (2017)
 - **Hankuk University of Foreign Studies (HUFS)**
   - Department of Computer Engineering & Data Science (Convergence major) (2020 ~ Present)
-  - Participation in SW-Centered University Global Talent Training Program (Nanyang Technical University, VNU University of Engineering & Technology) (2023)
+  - Participation in SW-Centered University Global Talent Training Program (Nanyang Technical University, National University of Singapore, VNU University of Engineering & Technology) (2023)
   - 한국외국어대학교 SW 봉사단 (2024)
 - **Team FindAlpha**
   - Deep Learning Technology Convergence Process Based on Natural Language Processing (2023)
     - with Ministry of Science and ICT & Kdata
+  - Participation in the "Mapping 101 Service" development project (Academic connection)
 - **ICT-Advanced Engineering Society (ICT-AES)**
   - [Best-paper Award] Issued by ICT-Advanced Engineering Society (2023)
 - **Passion & Pioneer Academic Society of Computer Engineering PnP** (2020 ~ Present)
