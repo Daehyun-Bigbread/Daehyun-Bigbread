@@ -24,8 +24,8 @@
 - **JRC** - Arduino & Circuit Designer, Designing Robots (2017 ~ 2018)
 - **Team Robotics**
   - Exclusive Manager (2017 ~ 2019)
-  - KRC FLL Competition (Finals) as Team Leader (2017, 2018)
-    - KRC FLL Final Contest Creative Award Award
+  - KRC FLL Competition (Finals) as Team Leader (2017, 18)
+    - KRC FLL Final Contest Creative Award Award (2017, 18)
 - **Team Insecure**
   - International Robot Olympiad (IROC) - Silver Award (4th) (2017)
   - The 4th Australian Robotics Challenge - Creative Concept Award (2017)
