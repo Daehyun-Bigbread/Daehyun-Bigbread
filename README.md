@@ -20,6 +20,13 @@
 <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
+## 🎓 Education
+- **Hankuk University of Foreign Studies (HUFS)** (2020 ~ present)
+  - Major: Department of Computer Engineering | Minor: Data Science
+  - HUFS SW Volunteer (2024 ~ present)
+- **Griffith University (Gold Coast Campus)**
+  - Engineering Tec (2017)
+ 
 ## 💫 Experience
 - **Seoul Ai Hub X Modoo.Lab Participating in training** (2023 ~ present)
   - "Yum Yum" Service Development Tevam is participating in the project as an AI part (2024)
@@ -35,9 +42,6 @@
     - with Ministry of Science and ICT & Kdata
   - Participation in the "Mapping 101 Service" development project (Academic connection)
 - **Naver BoostCource Coaching Study 13rd, 14th (DS, AI)** (2023, 24)
-- **Hankuk University of Foreign Studies (HUFS)**
-  - Department of Computer Engineering & Data Science (Convergence major) (2020 ~ Present)
-  - 한국외국어대학교 SW 봉사단 (2024)
 - **Passion & Pioneer Academic Society of Computer Engineering PnP** (2020 ~ Present)
   - Study with AI Study Team Part Leader (2023 ~ Present)
   - Participate in AI study (2020 ~ 2021)
@@ -46,13 +50,11 @@
 - **Team Insecure** (2017)
   - International Robot Olympiad (IROC)
   - The 4th Australian Robotics Challenge
-- **Griffith University (Gold Coast Campus)**
-  - Engineering Tec (2017)
 - **Team Robotics**
   - Exclusive Manager (2017 ~ 2019)
   - KRC FLL Competition (Finals) as Team Leader (2017, 18)
 
-## 🏆Awards
+## 🏆 Awards
 - [Best-paper Award] Issued by National Conference on Advanced Engineering and ICT-
 Convergence 2023 (NCAEIC-2023), organized by ICT-AES and KSF at Hotel The One, Jeju Island, Korea Republic (Nov. 30-Dec. 2, 2023)
 - [Capstone project research Excellent Award] Issued by 한국외국어대학교 데이터분석학회 DAT, 한국외국어대학교 경상대학 (2023)
