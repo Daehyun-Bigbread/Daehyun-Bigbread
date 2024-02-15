@@ -21,37 +21,49 @@
 </a>
 
 ## 💫 Experience
-- **JRC** - Arduino & Circuit Designer, Designing Robots (2017 ~ 2018)
-- **Team Robotics**
-  - Exclusive Manager (2017 ~ 2019)
-  - KRC FLL Competition (Finals) as Team Leader (2017, 18)
-    - KRC FLL Final Contest Creative Award Award (2017, 18)
-- **Team Insecure**
-  - International Robot Olympiad (IROC) - Silver Award (4th) (2017)
-  - The 4th Australian Robotics Challenge - Creative Concept Award (2017)
-- **Griffith University (Gold Coast Campus)**
-  - Engineering Tec (2017)
-- **Hankuk University of Foreign Studies (HUFS)**
-  - Department of Computer Engineering & Data Science (Convergence major) (2020 ~ Present)
-  - Participation in SW-Centered University Global Talent Training Program (Nanyang Technical University, National University of Singapore, VNU University of Engineering & Technology) (2023)
-  - 한국외국어대학교 SW 봉사단 (2024)
+- **Seoul Ai Hub X Modoo.Lab Participating in training** (2023 ~ present)
+  - "Yum Yum" Service Development Tevam is participating in the project as an AI part (2024)
+- **Hack Together: The Microsoft AI Chat App Hack** (2024)
+- **ICT-Advanced Engineering Society (ICT-AES)**
+  - National Conference on Advanced Engineering and ICT-Convergence 2023 (NCAEIC-2023)
+- **SW/AI University Global Talent Training Program** (2023)
+  - at Nanyang Technical University (SIngapore), National University of Singapore, Hanoi University of Science and Technology (Vietnam) 
+- **Data Analysis Academy DAT(Data Analysis & Technology)** (2023)
+  - Capstone project research, thesis inclusion and award for excellence award, Predicting Actual Transaction Pieces of Top 5 Korea Apartment Brands Using ML
 - **Team FindAlpha**
   - Deep Learning Technology Convergence Process Based on Natural Language Processing (2023)
     - with Ministry of Science and ICT & Kdata
   - Participation in the "Mapping 101 Service" development project (Academic connection)
-- **ICT-Advanced Engineering Society (ICT-AES)**
-  - [Best-paper Award] Issued by ICT-Advanced Engineering Society (2023)
+- **Naver BoostCource Coaching Study 13rd, 14th (DS, AI)** (2023, 24)
+- **Hankuk University of Foreign Studies (HUFS)**
+  - Department of Computer Engineering & Data Science (Convergence major) (2020 ~ Present)
+  - 한국외국어대학교 SW 봉사단 (2024)
 - **Passion & Pioneer Academic Society of Computer Engineering PnP** (2020 ~ Present)
   - Study with AI Study Team Part Leader (2023 ~ Present)
   - Participate in AI study (2020 ~ 2021)
   - Participate in Data Science Study (2021)
-- **Data Analysis Academy DAT(Data Analysis & Technology)** (2023)
-  - Capstone project research, thesis inclusion and award for excellence award, Predicting Actual Transaction Pieces of Top 5 Korea Apartment Brands Using ML
-- **Naver BoostCource Coaching Study 13rd, 14th (DS, AI)** (2023, 24)
-- **Seoul Ai Hub X Modoo.Lab Participating in training** (2023 ~ present)
-  - "Yum Yum" Service Development Tevam is participating in the project as an AI part (2024)
-- **Hack Together: The Microsoft AI Chat App Hack** (2024)
-<br/>  
+- **JRC.Lab** - Arduino & Circuit Designer, Designing Robots (2017 ~ 2018)
+- **Team Insecure** (2017)
+  - International Robot Olympiad (IROC)
+  - The 4th Australian Robotics Challenge
+- **Griffith University (Gold Coast Campus)**
+  - Engineering Tec (2017)
+- **Team Robotics**
+  - Exclusive Manager (2017 ~ 2019)
+  - KRC FLL Competition (Finals) as Team Leader (2017, 18)
+
+## 🏆Awards
+- [Best-paper Award] Issued by National Conference on Advanced Engineering and ICT-
+Convergence 2023 (NCAEIC-2023), organized by ICT-AES and KSF at Hotel The One, Jeju Island, Korea Republic (Nov. 30-Dec. 2, 2023)
+- [Excellent Award] Issued by 한국외국어대학교 데이터분석학회 DAT, 한국외국어대학교 경상대학 (2023)
+- [Bronze Award (4th)] Issued by International Robot Olympiad(IROC), at DDC convention center, Daejeon, Korea Republic (Aug.5-Aug.6, 2017)
+- [Creative Concept Award] The 4th Australian Robotics Challenge Issued by Griffith University, Google Austrailia, Austrailia Robotics Association at Griffith University Gold Coast Campus, ​Brisbane, Austrailia (OCT.26-OCT.27, 2017)
+- [Creative Award] KRC FLL Final Competition Issued by First ​Foundation, LEGO Foundation at KINTEX, Gyeonggi-do, Korea Republic (Jan.26, 2019)
+-  [Creative Award] KRC FLL Final Competition Issued by First ​Foundation, LEGO Foundation at KINTEX, Gyeonggi-do, Korea Republic (Jan.27, 2018)
+
+## 📝 Papers
+- "Investing Mapping 101: Visualization of the Industry through Keywords & Sensitivity Analysis" -  National Conference on Advanced Engineering and ICT-Convergence 2023 (NCAEIC-2023), organized by ICT-AES and KSF at Hotel The One, Jeju Island, Korea Republic (Nov.30-Dec.2, 2023)
+- "Predicting Actual Transaction Prices of Top 5 Korea Apartment Brands Using ML" - Conference Capstone Project Presentation, organized by 한국외국어대학교 데이터분석학회 DAT, 한국외국어대학교 경상대학 (Dec.07, 2023)
 
 ## 🖥️ Skills
 
