@@ -37,7 +37,7 @@
 - **SW/AI University Global Talent Training Program** (2023)
   - at Nanyang Technical University (SIngapore), National University of Singapore, Hanoi University of Science and Technology (Vietnam) 
 - **Data Analysis Academy DAT(Data Analysis & Technology)** (2023)
-  - Capstone project research, thesis inclusion and award for excellence award, Predicting Actual Transaction Pieces of Top 5 Korea Apartment Brands Using ML
+  - Capstone project research, thesis inclusion, Predicting Actual Transaction Pieces of Top 5 Korea Apartment Brands Using ML
 - **Team FindAlpha**
   - Deep Learning Technology Convergence Process Based on Natural Language Processing (2023)
     - with Ministry of Science and ICT & Kdata
