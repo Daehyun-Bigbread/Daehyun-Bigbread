@@ -13,7 +13,7 @@
 <a href="https://www.instagram.com/developer._.bigbread" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=dd2a7b alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="www.linkedin.com/in/대현-김-b6336b291">
+<a href="https://www.linkedin.com/in/%EB%8C%80%ED%98%84-%EA%B9%80-b6336b291" />
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 <a href="https://www.notion.so/bigbread-1129/Hello-I-m-Daehyun-ad5c33377ba74550b94293fd32c7c6d9?pvs=4">
 <img alt="Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />
