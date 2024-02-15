@@ -55,7 +55,7 @@
 ## 🏆Awards
 - [Best-paper Award] Issued by National Conference on Advanced Engineering and ICT-
 Convergence 2023 (NCAEIC-2023), organized by ICT-AES and KSF at Hotel The One, Jeju Island, Korea Republic (Nov. 30-Dec. 2, 2023)
-- [Excellent Award] Issued by 한국외국어대학교 데이터분석학회 DAT, 한국외국어대학교 경상대학 (2023)
+- [Capstone project research Excellent Award] Issued by 한국외국어대학교 데이터분석학회 DAT, 한국외국어대학교 경상대학 (2023)
 - [Bronze Award (4th)] Issued by International Robot Olympiad(IROC), at DDC convention center, Daejeon, Korea Republic (Aug.5-Aug.6, 2017)
 - [Creative Concept Award] The 4th Australian Robotics Challenge Issued by Griffith University, Google Austrailia, Austrailia Robotics Association at Griffith University Gold Coast Campus, ​Brisbane, Austrailia (OCT.26-OCT.27, 2017)
 - [Creative Award] KRC FLL Final Competition Issued by First ​Foundation, LEGO Foundation at KINTEX, Gyeonggi-do, Korea Republic (Jan.26, 2019)
