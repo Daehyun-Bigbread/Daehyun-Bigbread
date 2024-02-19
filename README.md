@@ -29,6 +29,7 @@
 - **Seoul Ai Hub X Modoo.Lab Participating in training** (2023 ~ present)
   - "Yum Yum" Service Development Tevam is participating in the project as an AI part (2024)
 - **Hack Together: The Microsoft AI Chat App Hack** (2024)
+- **SW Venture Startup Academy** (2024)
 - **ICT-Advanced Engineering Society (ICT-AES)**
   - National Conference on Advanced Engineering and ICT-Convergence 2023 (NCAEIC-2023)
 - **SW/AI University Global Talent Training Program** (2023)
