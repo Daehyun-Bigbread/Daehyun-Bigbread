@@ -42,7 +42,7 @@
   - Participation in the "Mapping 101 Service" development project (Academic connection)
 - **Naver BoostCource Coaching Study 13rd, 14th (DS, AI)** (2023, 24)
 - **Passion & Pioneer Academic Society of Computer Engineering PnP** (2020 ~ Present)
-  - Study with AI Study Team Part Leader (2023 ~ Present)
+  - Study with AI Study Team Part Leader (2023 ~ 2024.02)
   - Participate in AI study (2020 ~ 2021)
   - Participate in Data Science Study (2021)
 - **JRC.Lab** - Arduino & Circuit Designer, Designing Robots (2017 ~ 2018)
