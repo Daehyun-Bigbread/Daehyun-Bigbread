@@ -2,7 +2,7 @@
 <div align="right">
 <img src="https://komarev.com/ghpvc/?username=Daehyun-Bigbread&&style=flat-square" align="right" />
 </a>
-
+  
 <div align="left">
   
 ## 👋 Hello ~ I'm Daehyun!
@@ -25,7 +25,7 @@
 - **Griffith University (Gold Coast Campus)**
   - Engineering Tec (2017)
  
-## 💫 Experience
+## ⭐ Experience
 - **Seoul Ai Hub X Modoo.Lab Participating in training** (2023 ~ present)
   - "Yum Yum" Service Development Tevam is participating in the project as an AI part (2024)
 - **Hack Together: The Microsoft AI Chat App Hack** (2024)
@@ -68,7 +68,7 @@ Convergence 2023 (NCAEIC-2023), organized by ICT-AES and KSF at Hotel The One, J
 
 ## 🖥️ Skills
 
-### Tech & STACK
+### 📑 Tech & STACK
 
 <div sttyle='float:left'>
 <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
@@ -105,7 +105,7 @@ Convergence 2023 (NCAEIC-2023), organized by ICT-AES and KSF at Hotel The One, J
 </a>
 <img alt ="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"/>
 
-### Interested in & Now Studying
+### 📚 Interested in & Now Studying
 
 <div sttyle='float:left'>
 <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch%20-%23EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white" />
@@ -130,7 +130,7 @@ Convergence 2023 (NCAEIC-2023), organized by ICT-AES and KSF at Hotel The One, J
 </a>
 <img alt="Chart.js" src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white" />
   
-### Communication
+### 📢 Communication
 
 <img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 <img alt="Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />
