@@ -56,8 +56,8 @@
 ## 🏆 Awards
 - [Grand Award] 2024 AI/SW start-up job fair Issued by Seoul Ai Hub X Modoo.Lab (Feb.23, 2024)
 - [Best-paper Award] Issued by National Conference on Advanced Engineering and ICT-
-Convergence 2023 (NCAEIC-2023), organized by ICT-AES and KSF at Hotel The One, Jeju Island, Korea Republic (Nov. 30-Dec. 2, 2023)
-- [Capstone project research Excellent Award] Issued by HUFS Data Analysis Academy DAT, HUFS School of Economics and Business (2023)
+Convergence 2023 (NCAEIC-2023), organized by ICT-AES and KSF at Hotel The One, Jeju Island, Korea Republic (Nov.30-Dec.2, 2023)
+- [Capstone project research Excellent Award] Issued by HUFS Data Analysis Academy DAT, HUFS School of Economics and Business (Dec.11, 2023)
 - [Bronze Award (4th)] Issued by International Robot Olympiad(IROC), at DDC convention center, Daejeon, Korea Republic (Aug.5-Aug.6, 2017)
 - [Creative Concept Award] The 4th Australian Robotics Challenge Issued by Griffith University, Google Austrailia, Austrailia Robotics Association at Griffith University Gold Coast Campus, ​Brisbane, Austrailia (OCT.26-OCT.27, 2017)
 - [Creative Award] KRC FLL Final Competition Issued by First ​Foundation, LEGO Foundation at KINTEX, Gyeonggi-do, Korea Republic (Jan.26, 2019)
