@@ -27,7 +27,7 @@
  
 ## ⭐ Experience
 - **Seoul Ai Hub X Modoo.Lab Participating in training** (2023.12 ~ 2024.02)
-  - "Yum Yum" Service Development Tevam is participating in the project as an AI part
+  - "Yum Yum" Service Development Team is participating in the project as an AI part
 - **Hack Together: The Microsoft AI Chat App Hack** (2024.01)
 - **SW Venture Startup Academy** (2024)
 - **ICT-Advanced Engineering Society (ICT-AES)**
@@ -54,6 +54,7 @@
   - KRC FLL Competition (Finals) as Team Leader (2017, 18)
 
 ## 🏆 Awards
+- [Grand Award] 2024 AI/SW start-up job fair Issued by Seoul Ai Hub X Modoo.Lab (Feb.23, 2024)
 - [Best-paper Award] Issued by National Conference on Advanced Engineering and ICT-
 Convergence 2023 (NCAEIC-2023), organized by ICT-AES and KSF at Hotel The One, Jeju Island, Korea Republic (Nov. 30-Dec. 2, 2023)
 - [Capstone project research Excellent Award] Issued by HUFS Data Analysis Academy DAT, HUFS School of Economics and Business (2023)
