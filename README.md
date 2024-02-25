@@ -26,9 +26,9 @@
   - Engineering Tec (2017)
  
 ## ⭐ Experience
-- **Seoul Ai Hub X Modoo.Lab Participating in training** (2023 ~ present)
+- **Seoul Ai Hub X Modoo.Lab Participating in training** (2023.12 ~ 2024.02)
   - "Yum Yum" Service Development Tevam is participating in the project as an AI part (2024)
-- **Hack Together: The Microsoft AI Chat App Hack** (2024)
+- **Hack Together: The Microsoft AI Chat App Hack** (2024.01)
 - **SW Venture Startup Academy** (2024)
 - **ICT-Advanced Engineering Society (ICT-AES)**
   - National Conference on Advanced Engineering and ICT-Convergence 2023 (NCAEIC-2023)
