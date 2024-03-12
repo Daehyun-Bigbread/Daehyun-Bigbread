@@ -23,7 +23,7 @@
   - Major: Department of Computer Engineering | Minor: Data Science
   - HUFS SW Volunteer (2024 ~ present)
 - **Griffith University (Gold Coast Campus)**
-  - Engineering Tec (2017)
+  - Engineering Tec | Visiting Student (2017)
  
 ## ⭐ Experience
 - **Seoul Ai Hub X Modoo.Lab Participating in training** (2023.12 ~ 2024.02)
