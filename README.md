@@ -30,7 +30,7 @@
   - "Yum Yum" Service Development Team is participating in the project as an AI part
 - **Hack Together: The Microsoft AI Chat App Hack** (2024.01)
 - **SW Venture Startup Academy** (2024)
-- **Google Developers Group** (2023.09 ~ present)
+- **Google Developers Group** (2024 ~ present)
   - Member of GDG Incheon & Songdo
 - **ICT-Advanced Engineering Society (ICT-AES)**
   - National Conference on Advanced Engineering and ICT-Convergence 2023 (NCAEIC-2023)
