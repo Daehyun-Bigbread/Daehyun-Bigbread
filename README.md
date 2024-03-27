@@ -24,11 +24,10 @@
   - HUFS SW Volunteer (2024 ~ present)
 - **Griffith University (Gold Coast Campus)**
   - Engineering Tec | Visiting Student (2017)
-</a>
----
+##
 <details>
   <summary><h3> ⭐ Experience</h3></summary>
-  <br />
+  
 - **Seoul Ai Hub X Modoo.Lab Participating in training** (2023.12 ~ 2024.02)
   - "Yum Yum" Service Development Team is participating in the project as an AI part
   
@@ -70,12 +69,12 @@
   - Exclusive Manager (2017 ~ 2019)
   - KRC FLL Competition (Finals) as Team Leader (2017, 18)
   
-  <br />
 </details>
-------------
+
+##
+
 <details>
   <summary><h3>🏆 Awards</h3></summary>
-  <br />
 
   - [Grand Award] 2024 AI/SW start-up job fair Issued by Seoul Ai Hub X Modoo.Lab (Feb. 23, 2024)
   - [Best-paper Award] Issued by National Conference on Advanced Engineering and ICT-Convergence 2023 (NCAEIC-2023), organized by ICT-AES and KSF at Hotel The One, Jeju Island, Korea Republic (Nov. 30 - Dec. 2, 2023)
@@ -85,17 +84,16 @@
   - [Creative Award] KRC FLL Final Competition Issued by First Foundation, LEGO Foundation at KINTEX, Gyeonggi-do, Korea Republic (Jan. 26, 2019)
   - [Creative Award] KRC FLL Final Competition Issued by First Foundation, LEGO Foundation at KINTEX, Gyeonggi-do, Korea Republic (Jan. 27, 2018)
 
-  <br />
 </details>
-------------
+
+##
+
 <details>
   <summary><h3>📝 Papers</h3></summary>
-  <br />
 
   - "Investing Mapping 101: Visualization of the Industry through Keywords & Sensitivity Analysis" - National Conference on Advanced Engineering and ICT-Convergence 2023 (NCAEIC-2023), organized by ICT-AES and KSF at Hotel The One, Jeju Island, Korea Republic (Nov. 30 - Dec. 2, 2023)
   - "Predicting Actual Transaction Prices of Top 5 Korea Apartment Brands Using ML" - Conference Capstone Project Presentation, organized by HUFS Data Analysis Academy DAT, HUFS School of Economics and Business (Dec. 07, 2023)
 
-  <br />
 </details>
 
 ## 🖥️ Skills
