@@ -24,50 +24,79 @@
   - HUFS SW Volunteer (2024 ~ present)
 - **Griffith University (Gold Coast Campus)**
   - Engineering Tec | Visiting Student (2017)
- 
-## ⭐ Experience
+</a>
+---
+<details>
+  <summary><h3> ⭐ Experience</h3></summary>
+  <br />
 - **Seoul Ai Hub X Modoo.Lab Participating in training** (2023.12 ~ 2024.02)
   - "Yum Yum" Service Development Team is participating in the project as an AI part
+  
 - **Hack Together: The Microsoft AI Chat App Hack** (2024.01)
+
 - **SW Venture Startup Academy** (2024)
+
 - **Google Developers Group** (2024 ~ present)
   - Member of GDG Incheon & Songdo
+  
 - **ICT-Advanced Engineering Society (ICT-AES)**
   - National Conference on Advanced Engineering and ICT-Convergence 2023 (NCAEIC-2023)
+  
 - **SW/AI University Global Talent Training Program** (2023)
-  - at Nanyang Technical University (SIngapore), National University of Singapore, Hanoi University of Science and Technology (Vietnam) 
+  - at Nanyang Technical University (Singapore), National University of Singapore, Hanoi University of Science and Technology (Vietnam) 
+  
 - **Data Analysis Academy DAT(Data Analysis & Technology)** (2023)
   - Capstone project research, thesis inclusion, Predicting Actual Transaction Pieces of Top 5 Korea Apartment Brands Using ML
+  
 - **Team FindAlpha**
   - Deep Learning Technology Convergence Process Based on Natural Language Processing (2023)
     - with Ministry of Science and ICT & Kdata
   - Participation in the "Mapping 101 Service" development project (Academic connection)
+  
 - **Naver BoostCource Coaching Study 13rd, 14th (DS, AI)** (2023, 24)
+
 - **Passion & Pioneer Academic Society of Computer Engineering PnP** (2020 ~ Present)
   - Study with AI Study Team Part Leader (2023 ~ 2024.02)
   - Participate in AI study (2020 ~ 2021)
   - Participate in Data Science Study (2021)
+  
 - **JRC.Lab** - Arduino & Circuit Designer, Designing Robots (2017 ~ 2018)
+
 - **Team Insecure** (2017)
   - International Robot Olympiad (IROC)
   - The 4th Australian Robotics Challenge
+  
 - **Team Robotics**
   - Exclusive Manager (2017 ~ 2019)
   - KRC FLL Competition (Finals) as Team Leader (2017, 18)
+  
+  <br />
+</details>
+------------
+<details>
+  <summary><h3>🏆 Awards</h3></summary>
+  <br />
 
-## 🏆 Awards
-- [Grand Award] 2024 AI/SW start-up job fair Issued by Seoul Ai Hub X Modoo.Lab (Feb.23, 2024)
-- [Best-paper Award] Issued by National Conference on Advanced Engineering and ICT-
-Convergence 2023 (NCAEIC-2023), organized by ICT-AES and KSF at Hotel The One, Jeju Island, Korea Republic (Nov.30-Dec.2, 2023)
-- [Capstone project research Excellent Award] Issued by HUFS Data Analysis Academy DAT, HUFS School of Economics and Business (Dec.11, 2023)
-- [Bronze Award (4th)] Issued by International Robot Olympiad(IROC), at DDC convention center, Daejeon, Korea Republic (Aug.5-Aug.6, 2017)
-- [Creative Concept Award] The 4th Australian Robotics Challenge Issued by Griffith University, Google Austrailia, Austrailia Robotics Association at Griffith University Gold Coast Campus, ​Brisbane, Austrailia (OCT.26-OCT.27, 2017)
-- [Creative Award] KRC FLL Final Competition Issued by First ​Foundation, LEGO Foundation at KINTEX, Gyeonggi-do, Korea Republic (Jan.26, 2019)
--  [Creative Award] KRC FLL Final Competition Issued by First ​Foundation, LEGO Foundation at KINTEX, Gyeonggi-do, Korea Republic (Jan.27, 2018)
+  - [Grand Award] 2024 AI/SW start-up job fair Issued by Seoul Ai Hub X Modoo.Lab (Feb. 23, 2024)
+  - [Best-paper Award] Issued by National Conference on Advanced Engineering and ICT-Convergence 2023 (NCAEIC-2023), organized by ICT-AES and KSF at Hotel The One, Jeju Island, Korea Republic (Nov. 30 - Dec. 2, 2023)
+  - [Capstone project research Excellent Award] Issued by HUFS Data Analysis Academy DAT, HUFS School of Economics and Business (Dec. 11, 2023)
+  - [Bronze Award (4th)] Issued by International Robot Olympiad (IROC), at DDC convention center, Daejeon, Korea Republic (Aug. 5 - Aug. 6, 2017)
+  - [Creative Concept Award] The 4th Australian Robotics Challenge Issued by Griffith University, Google Australia, Australia Robotics Association at Griffith University Gold Coast Campus, Brisbane, Australia (Oct. 26 - Oct. 27, 2017)
+  - [Creative Award] KRC FLL Final Competition Issued by First Foundation, LEGO Foundation at KINTEX, Gyeonggi-do, Korea Republic (Jan. 26, 2019)
+  - [Creative Award] KRC FLL Final Competition Issued by First Foundation, LEGO Foundation at KINTEX, Gyeonggi-do, Korea Republic (Jan. 27, 2018)
 
-## 📝 Papers
-- "Investing Mapping 101: Visualization of the Industry through Keywords & Sensitivity Analysis" -  National Conference on Advanced Engineering and ICT-Convergence 2023 (NCAEIC-2023), organized by ICT-AES and KSF at Hotel The One, Jeju Island, Korea Republic (Nov.30-Dec.2, 2023)
-- "Predicting Actual Transaction Prices of Top 5 Korea Apartment Brands Using ML" - Conference Capstone Project Presentation, organized by HUFS Data Analysis Academy DAT, HUFS School of Economics and Business (Dec.07, 2023)
+  <br />
+</details>
+------------
+<details>
+  <summary><h3>📝 Papers</h3></summary>
+  <br />
+
+  - "Investing Mapping 101: Visualization of the Industry through Keywords & Sensitivity Analysis" - National Conference on Advanced Engineering and ICT-Convergence 2023 (NCAEIC-2023), organized by ICT-AES and KSF at Hotel The One, Jeju Island, Korea Republic (Nov. 30 - Dec. 2, 2023)
+  - "Predicting Actual Transaction Prices of Top 5 Korea Apartment Brands Using ML" - Conference Capstone Project Presentation, organized by HUFS Data Analysis Academy DAT, HUFS School of Economics and Business (Dec. 07, 2023)
+
+  <br />
+</details>
 
 ## 🖥️ Skills
 
