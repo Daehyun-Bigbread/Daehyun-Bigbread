@@ -18,13 +18,12 @@
 <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-## 🎓 Education
+### 🎓 Education
 - **Hankuk University of Foreign Studies (HUFS)** (2020 ~ present)
   - Major: Department of Computer Engineering | Minor: Data Science
   - HUFS SW Volunteer (2024 ~ present)
 - **Griffith University (Gold Coast Campus)**
   - Engineering Tec | Visiting Student (2017)
-##
 <details>
   <summary><h3> ⭐ Experience</h3></summary>
   
@@ -71,8 +70,6 @@
   
 </details>
 
-##
-
 <details>
   <summary><h3>🏆 Awards</h3></summary>
 
@@ -85,8 +82,6 @@
   - [Creative Award] KRC FLL Final Competition Issued by First Foundation, LEGO Foundation at KINTEX, Gyeonggi-do, Korea Republic (Jan. 27, 2018)
 
 </details>
-
-##
 
 <details>
   <summary><h3>📝 Papers</h3></summary>
