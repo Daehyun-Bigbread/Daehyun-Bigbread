@@ -35,7 +35,7 @@
 - **SW Venture Startup Academy** (2024)
 
 - **Google Developers Group** (2024 ~ present)
-  - Member of GDG Incheon & Songdo
+  - Member of Google Developer Group in Campus Korea Chapter. South Korea.
   
 - **ICT-Advanced Engineering Society (ICT-AES)**
   - National Conference on Advanced Engineering and ICT-Convergence 2023 (NCAEIC-2023)
