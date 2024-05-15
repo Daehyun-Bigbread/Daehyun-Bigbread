@@ -27,7 +27,7 @@
 <details>
   <summary><h3> ⭐ Experience</h3></summary>
   
-- **Seoul Ai Hub X Modoo.Lab Participating in training** (2023.12 ~ 2024.02)
+- **Seoul Ai Hub X MODULABS Participating in training** (2023.12 ~ 2024.02)
   - "Yum Yum" Service Development Team is participating in the project as an AI part
   
 - **Hack Together: The Microsoft AI Chat App Hack** (2024.01)
