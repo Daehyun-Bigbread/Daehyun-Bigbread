@@ -164,9 +164,8 @@
 <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 
 #### 🌱 Github Stats  
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Daehyun-Bigbread&theme=tokyonight)
 <a href="s">
-<img src="https://github-readme-stats.vercel.app/api?username=Daehyun-Bigbread&theme=tokyonight&show_icons=true&hide_border=true" width="47%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Daehyun-Bigbread&theme=tokyonight&show_icons=true&hide_border=true" width="50%" />
 </a>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kritika-pattalam&theme=tokyonight&hide_border=true" width="50%" > 
 </a>
