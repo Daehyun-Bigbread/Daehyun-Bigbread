@@ -12,13 +12,12 @@
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://www.notion.so/bigbread-1129/Hello-I-m-Daehyun-ad5c33377ba74550b94293fd32c7c6d9?pvs=4">
-</a>
 <img alt="Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />
-<a href="bigdarkgold@gmail.com">
 </a>
+  <a href="https://daehyun-bigbread.tistory.com">
 <img alt="tistory" src="https://img.shields.io/badge/tistory-ff5544?style=for-the-badge&logo=tistory&logoColor=white" />
-<a href="https://daehyun-bigbread.tistory.com">
 </a>
+<a href="bigdarkgold@gmail.com">
 <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 
 ### 🎓 Education
