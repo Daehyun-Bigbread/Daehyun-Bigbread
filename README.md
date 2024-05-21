@@ -20,12 +20,14 @@
 <a href="bigdarkgold@gmail.com">
 <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 
-### 🎓 Education
+
+### 🎓  Education
 - **Hankuk University of Foreign Studies (HUFS)** (2020 ~ present)
   - Major: Department of Computer Engineering | Minor: Data Science
   - HUFS SW Volunteer (2024 ~ present)
 - **Griffith University (Gold Coast Campus)**
   - Engineering Tec | Visiting Student (2017)
+    
 <details>
   <summary><h3> ⭐ Experience</h3></summary>
   
