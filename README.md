@@ -30,7 +30,10 @@
     
 <details>
   <summary><h3> ⭐ Experience</h3></summary>
-  
+
+- **Kakao Corp. X Groom.io | Kakao tech Bootcamp 1st** (2024.07 ~ 2025.01)
+  - participating in AI Developing part.
+
 - **Seoul Ai Hub X MODULABS Participating in training** (2023.12 ~ 2024.02)
   - "Yum Yum" Service Development Team is participating in the project as an AI part
   
