@@ -31,8 +31,20 @@
 <details>
   <summary><h3> ⭐ Experience</h3></summary>
 
-- **Kakao Corp. X Goorm.io | Kakao tech Bootcamp 1st** (2024.07 ~ 2025.01)
+- **Kakao Corp. X Goorm.io | Kakao tech Bootcamp 1st** (2024.06 ~ present)
   - participating in Generative AI Developing part.
+  - LLM-based e-commerce platform development project (Ai Part Manager)
+ 
+- **MODULABS Researcher** (2024.03 ~ present)
+  - Vice Head of MOUDAI Lab.
+  - Research Interest: Analysis of Domain-Specific Dataset Using Vision Pro Model
+
+- **Google Developers Group** (2024 ~ present)
+  - Member of Google Developer Group in South Korea.
+  - Google ML Community Organizers Group
+  
+- **ICT-Advanced Engineering Society (ICT-AES)**
+  - National Conference on Advanced Engineering and ICT-Convergence 2023 (NCAEIC-2023)
 
 - **Seoul Ai Hub X MODULABS Participating in training** (2023.12 ~ 2024.02)
   - "Yum Yum" Service Development Team is participating in the project as an AI part
@@ -40,12 +52,6 @@
 - **Hack Together: The Microsoft AI Chat App Hack** (2024.01)
 
 - **SW Venture Startup Academy** (2024)
-
-- **Google Developers Group** (2024 ~ present)
-  - Member of Google Developer Group in Campus Korea Chapter. South Korea.
-  
-- **ICT-Advanced Engineering Society (ICT-AES)**
-  - National Conference on Advanced Engineering and ICT-Convergence 2023 (NCAEIC-2023)
   
 - **SW/AI University Global Talent Training Program** (2023)
   - at Nanyang Technical University (Singapore), National University of Singapore, Hanoi University of Science and Technology (Vietnam) 
