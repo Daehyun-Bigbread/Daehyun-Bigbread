@@ -88,6 +88,7 @@
 
   - [Grand Award] 2024 AI/SW start-up job fair Issued by Seoul Ai Hub X MODULABS (Feb. 23, 2024)
   - [Best-paper Award] Issued by National Conference on Advanced Engineering and ICT-Convergence 2023 (NCAEIC-2023), organized by ICT-AES and KSF at Hotel The One, Jeju Island, Korea Republic (Nov. 30 - Dec. 2, 2023)
+  - **[Excellence Award]** 2024 HUFS Summer hackathon by GDSC HUFS & TAB, Computer Engineering Society of HUFS, organized by AI Education Center of HUFS (June. 28-29, 2024)
   - [Capstone project research Excellent Award] Issued by HUFS Data Analysis Academy DAT, HUFS School of Economics and Business (Dec. 11, 2023)
   - [Bronze Award (4th)] Issued by International Robot Olympiad (IROC), at DDC convention center, Daejeon, Korea Republic (Aug. 5 - Aug. 6, 2017)
   - [Creative Concept Award] The 4th Australian Robotics Challenge Issued by Griffith University, Google Australia, Australia Robotics Association at Griffith University Gold Coast Campus, Brisbane, Australia (Oct. 26 - Oct. 27, 2017)
