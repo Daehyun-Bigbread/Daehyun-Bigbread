@@ -45,6 +45,8 @@
   
 - **ICT-Advanced Engineering Society (ICT-AES)**
   - National Conference on Advanced Engineering and ICT-Convergence 2023 (NCAEIC-2023)
+ 
+- **JRC.Robotics Enginner** - Arduino & Circuit Designer, Designing Robots (2016.12 ~ 2018.07)
 
 - **Seoul Ai Hub X MODULABS Participating in training** (2023.12 ~ 2024.02)
   - "Yum Yum" Service Development Team is participating in the project as an AI part
@@ -70,8 +72,6 @@
   - Study with AI Study Team Part Leader (2023 ~ 2024.02)
   - Participate in AI study (2020 ~ 2021)
   - Participate in Data Science Study (2021)
-  
-- **JRC.Lab** - Arduino & Circuit Designer, Designing Robots (2017 ~ 2018)
 
 - **Team Insecure** (2017)
   - International Robot Olympiad (IROC)
