@@ -33,7 +33,7 @@
 
 - **Kakao Corp. X Goorm.io | Kakao tech Bootcamp 1st** (2024.06 ~ present)
   - participating in Generative AI Developing part.
-  - LLM-based e-commerce platform development project (Ai Part Manager)
+  - LLM-based e-commerce platform development project (Ai Part Manager, PM)
  
 - **MODULABS Researcher** (2024.03 ~ present)
   - Vice Head of MOUDAI Lab.
