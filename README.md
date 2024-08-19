@@ -40,8 +40,17 @@
   - Research Interest: Analysis of Domain-Specific Dataset Using Vision Pro Model
 
 - **Google Developers Group** (2024 ~ present)
-  - Member of Google Developer Group in South Korea.
   - Google ML Community Organizers Group
+  - Organizing Committee in Gophercon 2024 (GDG Golang Korea)
+    - Staff in Speaker's Management, Recruitment, Coordination
+  - CodeLab Management Staff in Build with AI by GDG Campus Korea
+    - Participate as Staff at Gemini CodeLab(by Python, LLM Part) & Networking Session
+   
+- **Speaker of PyCon KR 2024**
+  - Participate in Speaker (Topic: Analyzing financial data with AI & Python with NLP)
+   
+- **Speaker of YOUTHCON'24**
+  - Participate in Speaker (Topic: Growth from reckless challenges)
   
 - **ICT-Advanced Engineering Society (ICT-AES)**
   - National Conference on Advanced Engineering and ICT-Convergence 2023 (NCAEIC-2023)
@@ -50,10 +59,6 @@
 
 - **Seoul Ai Hub X MODULABS Participating in training** (2023.12 ~ 2024.02)
   - "Yum Yum" Service Development Team is participating in the project as an AI part
-  
-- **Hack Together: The Microsoft AI Chat App Hack** (2024.01)
-
-- **SW Venture Startup Academy** (2024)
   
 - **SW/AI University Global Talent Training Program** (2023)
   - at Nanyang Technical University (Singapore), National University of Singapore, Hanoi University of Science and Technology (Vietnam) 
