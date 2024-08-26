@@ -35,21 +35,21 @@
   - participating in Generative AI Developing part.
   - LLM-based e-commerce platform development project (Ai Part Manager, PM)
  
-- **MODULABS Researcher** (2024.03 ~ present)
+- **MOUDLABS Researcher** (2024.03 ~ present)
   - Vice Head of MOUDAI Lab.
   - Research Interest: Analysis of Domain-Specific Dataset Using Vision Pro Model
 
 - **Google Developers Group** (2024 ~ present)
   - Google ML Community Organizers Group
   - Organizing Committee in Gophercon 2024 (GDG Golang Korea)
-    - Staff in Speaker's Management, Recruitment, Coordination
+    - Staff in Speaker's Management, Recruitment, Coordination
   - CodeLab Management Staff in Build with AI by GDG Campus Korea
     - Participate as Staff at Gemini CodeLab(by Python, LLM Part) & Networking Session
    
-- **Speaker of PyCon KR 2024**
+- **Speaker of PyCon 2024**
   - Participate in Speaker (Topic: Analyzing financial data with AI & Python with NLP)
    
-- **Speaker of YOUTHCON'24**
+- **Speaker of YOUTHCON'24**
   - Participate in Speaker (Topic: Growth from reckless challenges)
   
 - **ICT-Advanced Engineering Society (ICT-AES)**
