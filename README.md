@@ -31,74 +31,40 @@
 <details>
   <summary><h3> ⭐ Experience</h3></summary>
 
-- **Kakao Corp. X Goorm.io | Kakao tech Bootcamp 1st** (2024.06 ~ present)
-  - participating in Generative AI Developing part.
-  - LLM-based e-commerce platform development project (Ai Part Manager, PM)
- 
-- **MOUDLABS Researcher** (2024.03 ~ present)
-  - Vice Head of MOUDAI Lab.
-  - Research Interest: Analysis of Domain-Specific Dataset Using Vision Pro Model
-
-- **Google Developers Group** (2024 ~ present)
-  - Google ML Community Organizers Group
-  - Organizing Committee in Gophercon 2024 (GDG Golang Korea)
-    - Staff in Speaker's Management, Recruitment, Coordination
-  - CodeLab Management Staff in Build with AI by GDG Campus Korea
-    - Participate as Staff at Gemini CodeLab(by Python, LLM Part) & Networking Session
-   
-- **Speaker of PyCon 2024**
-  - Participate in Speaker (Topic: Analyzing financial data with AI & Python with NLP)
-   
-- **Speaker of YOUTHCON'24**
-  - Participate in Speaker (Topic: Growth from reckless challenges)
-  
-- **ICT-Advanced Engineering Society (ICT-AES)**
-  - National Conference on Advanced Engineering and ICT-Convergence 2023 (NCAEIC-2023)
- 
-- **JRC.Robotics Enginner** - Arduino & Circuit Designer, Designing Robots (2016.12 ~ 2018.07)
-
-- **Seoul Ai Hub X MODULABS Participating in training** (2023.12 ~ 2024.02)
-  - "Yum Yum" Service Development Team is participating in the project as an AI part
-  
-- **SW/AI University Global Talent Training Program** (2023)
-  - at Nanyang Technical University (Singapore), National University of Singapore, Hanoi University of Science and Technology (Vietnam) 
-  
-- **Data Analysis Academy DAT(Data Analysis & Technology)** (2023)
-  - Capstone project research, thesis inclusion, Predicting Actual Transaction Pieces of Top 5 Korea Apartment Brands Using ML
-  
-- **Team FindAlpha**
-  - Deep Learning Technology Convergence Process Based on Natural Language Processing (2023)
-    - with Ministry of Science and ICT & Kdata
-  - Participation in the "Mapping 101 Service" development project (Academic connection)
-  
-- **Naver BoostCource Coaching Study 13rd, 14th (DS, AI)** (2023, 24)
-
-- **Passion & Pioneer Academic Society of Computer Engineering PnP** (2020 ~ Present)
-  - Study with AI Study Team Part Leader (2023 ~ 2024.02)
-  - Participate in AI study (2020 ~ 2021)
-  - Participate in Data Science Study (2021)
-
-- **Team Insecure** (2017)
-  - International Robot Olympiad (IROC)
-  - The 4th Australian Robotics Challenge
-  
-- **Team Robotics**
-  - Exclusive Manager (2017 ~ 2019)
-  - KRC FLL Competition (Finals) as Team Leader (2017, 18)
-  
+| **Organization/Team**                              | **Position**                                          | **Duration**                         | **Key Activities/Contributions**                                                                                                                                                    |
+|----------------------------------------------------|------------------------------------------------------|--------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Golla Golla E-Commerce Platform** | AI Part Manager, PM                                  | 2024.06 ~ 2024.09                   | Kakao Corp x Groom - Kakao Tech Bootcamp 1st                                                                              |
+| **TEMU** | Gen AI Part, Lead                                 | 2024.09                   | Kakao Corp x Groom - Kakao Tech Bootcamp 1st (Hackton Project)                                                                              |
+| **MOUDLABS (MOUDAI Lab)**                | Researcher                              | 2024.03 ~ Present                    | Research on the analysis of domain-specific datasets using Vision Pro models.                                                                                                       |
+| **Google Developers Group**                        | Organizer, Staff                                       | 2024 ~ Present                       | 2024 Gophercon (GDG Golang Korea), Speaker's Management and Coordination. Build with AI (GDG Campus Korea), Gemini Codelab                      |
+| **PyCon 2024**                                     | Speaker                                               | 2024.10                                 | Topic: "Analyzing Financial Data with AI & Python using NLP".                                                                                                          |
+| **YOUTHCON'24**                                    | Speaker                                               | 2024.08                                 | Topic: "Growth from Reckless Challenges".                                                                                                                              |
+| **ICT-Advanced Engineering Society (ICT-AES)**      | Participant (Member)                                           | 2023.12                    | National Conference on Advanced Engineering and ICT-Convergence (NCAEIC-2023).                                                                                                      |
+| **JRC Robotics Engineer**                          | Circuit & Robotics Engineer                          | 2016.12 ~ 2018.07                    | Designed robots and circuits for JRC Robotics.                                                                                                                                      |
+| **"Yum Yum" Service**                        | AI Part (Computer Vision)     | 2023.12 ~ 2024.02                    | Participated in "Yum Yum" Service development.                                                                                                                        |
+| **SW/AI University Global Talent Training Program** | Participant                                           | 2023.11                                 | Participated in SW/AI training programs in Nanyang Technical University, National University of Singapore, and Hanoi University of Science and Technology.                     |
+| **DAT(Data Analysis Academy)**                      | ML Team Member                              | 2023.09 ~ 12                                 | Conducted a capstone project on predicting transaction prices of top 5 Korean apartment brands using ML.                                                                             |
+| **Team FindAlpha**                                 | Member                                          | 2023.06 ~ 08                                 | Deep learning NLP projects, participated in "Mapping 101 Service" development project in collaboration with Ministry of Science, ICT & Kdata.                                        |
+| **Naver BoostCourse Coaching Study 13th, 14th**    | Participant                                           | 2023, 2024                          | Participated in Data Science and AI study programs by Naver Connect Foundation                                                                                                                                 |
+| **Passion & Pioneer Academic Society of Computer Engineering (PnP)** | Organizer                                 | 2020 ~ Present                       | Led AI study team (2023 ~ 2024.02), participated in AI and Data Science study groups (2020 ~ 2021).                                                                                  |
+| **Team Insecure**                                  | Member                                  | 2017                                 | Competed in the International Robot Olympiad (IROC) and the 4th Australian Robotics Challenge.                                                                                       |
+| **Team Robotics**                                  | Team Leader                                           | 2017 ~ 2019                          | Led the team in the KRC FLL Competition Finals (2017, 2018).                                                                                                                         |
 </details>
 
 <details>
   <summary><h3>🏆 Awards</h3></summary>
 
-  - [Grand Award] 2024 AI/SW start-up job fair Issued by Seoul Ai Hub X MODULABS (Feb. 23, 2024)
-  - [Best-paper Award] Issued by National Conference on Advanced Engineering and ICT-Convergence 2023 (NCAEIC-2023), organized by ICT-AES and KSF at Hotel The One, Jeju Island, Korea Republic (Nov. 30 - Dec. 2, 2023)
-  - **[Excellence Award]** 2024 HUFS Summer hackathon by GDSC HUFS & TAB, Computer Engineering Society of HUFS, organized by AI Education Center of HUFS (June. 28-29, 2024)
-  - [Capstone project research Excellent Award] Issued by HUFS Data Analysis Academy DAT, HUFS School of Economics and Business (Dec. 11, 2023)
-  - [Bronze Award (4th)] Issued by International Robot Olympiad (IROC), at DDC convention center, Daejeon, Korea Republic (Aug. 5 - Aug. 6, 2017)
-  - [Creative Concept Award] The 4th Australian Robotics Challenge Issued by Griffith University, Google Australia, Australia Robotics Association at Griffith University Gold Coast Campus, Brisbane, Australia (Oct. 26 - Oct. 27, 2017)
-  - [Creative Award] KRC FLL Final Competition Issued by First Foundation, LEGO Foundation at KINTEX, Gyeonggi-do, Korea Republic (Jan. 26, 2019)
-  - [Creative Award] KRC FLL Final Competition Issued by First Foundation, LEGO Foundation at KINTEX, Gyeonggi-do, Korea Republic (Jan. 27, 2018)
+| **Award**                                             | **Issued by**                                                                                                            | **Date**                              | **Details/Location**                                                                                                         |
+|-------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|---------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
+| **Grand Award**                                       | Seoul AI Hub X MODULABS                                                                                                  | Feb. 23, 2024                         | 2024 AI/SW start-up job fair                                                                                                 |
+| **Best-paper Award**                                  | National Conference on Advanced Engineering and ICT-Convergence 2023 (NCAEIC-2023) organized by ICT-AES and KSF          | Nov. 30 - Dec. 2, 2023                | Held at Hotel The One, Jeju Island, Korea Republic                                                                           |
+| **Excellence Award**                                  | HUFS Summer Hackathon by GDSC HUFS & TAB, Computer Engineering Society of HUFS, organized by AI Education Center of HUFS | June 28-29, 2024                      | 2024 HUFS Summer Hackathon                                                                                                   |
+| **Capstone project research Excellent Award**         | HUFS Data Analysis Academy DAT, HUFS School of Economics and Business                                                     | Dec. 11, 2023                         | Capstone project research recognition                                                                                        |
+| **Bronze Award (4th)**                                | International Robot Olympiad (IROC)                                                                                      | Aug. 5 - Aug. 6, 2017                 | Held at DDC Convention Center, Daejeon, Korea Republic                                                                       |
+| **Creative Concept Award**                            | The 4th Australian Robotics Challenge, issued by Griffith University, Google Australia, Australia Robotics Association   | Oct. 26 - Oct. 27, 2017               | Held at Griffith University Gold Coast Campus, Brisbane, Australia                                                           |
+| **Creative Award**                                    | KRC FLL Final Competition, issued by First Foundation, LEGO Foundation                                                   | Jan. 26, 2019                         | Held at KINTEX, Gyeonggi-do, Korea Republic                                                                                  |
+| **Creative Award**                                    | KRC FLL Final Competition, issued by First Foundation, LEGO Foundation                                                   | Jan. 27, 2018                         | Held at KINTEX, Gyeonggi-do, Korea Republic                                                                                  |
+
 
 </details>
 
