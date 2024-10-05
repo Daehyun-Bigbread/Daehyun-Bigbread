@@ -33,8 +33,9 @@
 
 | **Organization/Team**                              | **Position**                                          | **Duration**                         | **Key Activities/Contributions**                                                                                                                                                    |
 |----------------------------------------------------|------------------------------------------------------|--------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Golla Golla E-commerce Platform**  | AI Part Manager, PM                                  | 2024.06 ~ 2024.09                   | Kakao Corp x Groom - Kakao Tech Bootcamp 1st (Team Mission)                                                                             |
-| **TEMU** | Gen AI Part, Lead                                 | 2024.09                   | Kakao Corp x Groom - Kakao Tech Bootcamp 1st (Hackton Project)                                                                              |
+| **"Pitching" AI Based Presentaton Feedback Service**  | Lead(Project Manager), VLM Feedback Part Dev                     | 2024.09 ~ 2024.12                   | Kakao Corp x Groom - Kakao Tech Bootcamp 1st (Team Mission)      
+| **"Golla Golla" E-commerce Platform**  | AI Part, RecSys Dev                                  | 2024.06 ~ 2024.09                   | Kakao Corp x Groom - Kakao Tech Bootcamp 1st (Team Mission)                                                                             |
+| **"TEMU" GenAI based nursery rhyme production service** | Gen AI Part, Lead                                 | 2024.09                   | Kakao Corp x Groom - Kakao Tech Bootcamp 1st (Hackton Project)                                                                              |
 | **MOUDLABS (MOUDAI Lab)**                | Researcher                              | 2024.03 ~ Present                    | Research on the analysis of domain-specific datasets using Vision Pro models.                                                                                                       |
 | **Google Developers Group**                        | Organizer, Staff                                       | 2024 ~ Present                       | 2024 Gophercon Organizer (GDG Golang Korea), Speaker's Management and Coordination. Build with AI (GDG Campus Korea), Gemini Codelab Staff                   |
 | **PyCon 2024**                                     | Speaker                                               | 2024.10                                 | Topic: "Analyzing Financial Data with AI & Python using NLP".                                                                                                          |
@@ -83,7 +84,7 @@
 #### 📚 Interested in & Now Studying
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pytorch,nodejs,kubernetes,docker,gcp" />
+    <img src="https://skillicons.dev/icons?i=pytorch,kubernetes,docker,aws,gcp" />
   </a>
 </p>
   
