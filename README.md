@@ -100,8 +100,7 @@
 <a href="s">
 <img src="https://github-readme-stats.vercel.app/api?username=Daehyun-Bigbread&theme=tokyonight&show_icons=true&hide_border=true" width="45%" />
 </a>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kritika-pattalam&theme=tokyonight&hide_border=true" width="48%" /> 
-</a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daehyun-Bigbread&theme=tokyonight&layout=compact" width="34%" />
 
 <a href="https://github.com/devxb/gitanimals">
 <img
