@@ -77,7 +77,7 @@
 #### 📑 Language & Framework & Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,c,cpp,html,css,figma,md,js,react,anaconda,tensorflow,git,arduino,opencv,sklearn,git" />
+    <img src="https://skillicons.dev/icons?i=py,c,cpp,html,css,figma,md,js,react,anaconda,tensorflow,git,arduino,opencv,sklearn" />
   </a>
 </p>
 
