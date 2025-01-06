@@ -1,9 +1,10 @@
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=Daehyun-Bigbread&&style=flat-square" align="right"/>
+</div>
+
 <div align="left">
-  
-  <!-- 방문자 수 뱃지 & SNS -->
-  <img src="https://komarev.com/ghpvc/?username=Daehyun-Bigbread&&style=flat-square" align="right" />
-  
-  ## 👋 Hello ~ I'm Daehyun!
+
+## 👋 Hello ~ I'm Daehyun!
   
   <a href="https://www.instagram.com/developer._.toby/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23000000?style=for-the-badge&logo=instagram&logoColor=white&color=dd2a7b" alt="Instagram" />
@@ -23,17 +24,31 @@
 
 </div>
 
-### 🎓 Education
-- **Hankuk University of Foreign Studies (HUFS)** (2020 ~ Present)  
-  - Major: Computer Engineering | Minor: Data Science  
-  - HUFS SW Volunteer (2024 ~ Present)
-- **Griffith University (Gold Coast Campus)**  
-  - Engineering Tec | Visiting Student (2017)
+### 🌱 Career
+
+> 🎓 **Hankuk University of Foreign Studies (HUFS)**  
+> 2020.03. ~ Present  
+> Major: Computer Engineering | Minor: Data Science  
+>
+> 🎓 **Griffith University (Gold Coast Campus)**  
+> 2017.10.
+> Engineering Tech | Visiting Student
+>
+> ⛅️ **KakaoTech Bootcamp GenAI 1st**  
+> 2024.07. ~ 2024.12.  
+> AI Model & Data Pipeline Construction, API Development
+> 
+> 🧑‍💻 **Google Developer Groups Korea, GDG Korea**  
+> 2024.01. ~ present.  
+>
+> 🤖 **Moduai Lab (MODULABS)**  
+> 2024.03. ~ 2024.11.  
+> Researcher (Topic: Medical Moe & Multimodal (VLM))
 
 ---
 
 <div align="left">
-    <h3>📋 Projects & Careers</h3>
+    <h3>📋 Projects</h3>
     <table>
         <tr>
             <th>Project Name</th>
@@ -68,9 +83,61 @@
     </table>
 </div>
 
+<details>
+  <summary><h3>🏆 Awards</h3></summary>
+  <table>
+    <thead>
+      <tr>
+        <th>Award</th>
+        <th>Issued by</th>
+        <th>Date</th>
+        <th>Details/Location</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Grand Award</td>
+        <td>Seoul AI Hub X MODULABS</td>
+        <td>2024.02.23</td>
+        <td>2024 AI/SW Start-up Job Fair</td>
+      </tr>
+      <tr>
+        <td>Best-paper Award</td>
+        <td>NCAEIC-2023 (ICT-AES, KSF)</td>
+        <td>2023.11.30 ~ 2023.12.02</td>
+        <td>Hotel The One, Jeju Island, Korea</td>
+      </tr>
+      <tr>
+        <td>Excellence Award</td>
+        <td>HUFS Summer Hackathon (GDSC HUFS & TAB, AI Education Center of HUFS)</td>
+        <td>2024.06.28 ~ 2024.06.29</td>
+        <td>2024 HUFS Summer Hackathon</td>
+      </tr>
+      <tr>
+        <td>Capstone Project Research Excellent Award</td>
+        <td>HUFS Data Analysis Academy (DAT), HUFS School of Economics and Business</td>
+        <td>2023.12.11</td>
+        <td>Capstone project research recognition</td>
+      </tr>
+      <tr>
+        <td>Bronze Award (4th)</td>
+        <td>International Robot Olympiad (IROC)</td>
+        <td>2017.08.05 ~ 2017.08.06</td>
+        <td>DDC Convention Center, Daejeon, Korea</td>
+      </tr>
+      <tr>
+        <td>Creative Concept Award</td>
+        <td>The 4th Australian Robotics Challenge (Griffith University, Google Australia, Australia Robotics Association)</td>
+        <td>2017.10.26 ~ 2017.10.27</td>
+        <td>Griffith University Gold Coast Campus, Brisbane, Australia</td>
+      </tr>
+    </tbody>
+  </table>
+
+</details>
 
 <details>
-  <summary><h3> ⭐ Experience</h3></summary>
+  <summary><h3> ⭐ Activities</h3></summary>
   <div align="center">
   <table>
     <thead>
@@ -82,12 +149,6 @@
       </tr>
     </thead>
     <tbody>
-      <tr>
-        <td>MOUDLABS (MOUDAI Lab)</td>
-        <td>Researcher</td>
-        <td>2024.03 ~ 2024.11</td>
-        <td>Research interest: Medical Moe & Multimodal (VLM)</td>
-      </tr>
       <tr>
         <td>Google Developers Group</td>
         <td>Organizer, Staff</td>
@@ -141,59 +202,6 @@
         <td>Organizer</td>
         <td>2020 ~ Present</td>
         <td>Led AI study team (2023 ~ 2024.02), participated in AI and Data Science study groups (2020 ~ 2021)</td>
-      </tr>
-    </tbody>
-  </table>
-
-</details>
-
-<details>
-  <summary><h3>🏆 Awards</h3></summary>
-  <table>
-    <thead>
-      <tr>
-        <th>Award</th>
-        <th>Issued by</th>
-        <th>Date</th>
-        <th>Details/Location</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>Grand Award</td>
-        <td>Seoul AI Hub X MODULABS</td>
-        <td>2024.02.23</td>
-        <td>2024 AI/SW Start-up Job Fair</td>
-      </tr>
-      <tr>
-        <td>Best-paper Award</td>
-        <td>NCAEIC-2023 (ICT-AES, KSF)</td>
-        <td>2023.11.30 ~ 2023.12.02</td>
-        <td>Hotel The One, Jeju Island, Korea</td>
-      </tr>
-      <tr>
-        <td>Excellence Award</td>
-        <td>HUFS Summer Hackathon (GDSC HUFS & TAB, AI Education Center of HUFS)</td>
-        <td>2024.06.28 ~ 2024.06.29</td>
-        <td>2024 HUFS Summer Hackathon</td>
-      </tr>
-      <tr>
-        <td>Capstone Project Research Excellent Award</td>
-        <td>HUFS Data Analysis Academy (DAT), HUFS School of Economics and Business</td>
-        <td>2023.12.11</td>
-        <td>Capstone project research recognition</td>
-      </tr>
-      <tr>
-        <td>Bronze Award (4th)</td>
-        <td>International Robot Olympiad (IROC)</td>
-        <td>2017.08.05 ~ 2017.08.06</td>
-        <td>DDC Convention Center, Daejeon, Korea</td>
-      </tr>
-      <tr>
-        <td>Creative Concept Award</td>
-        <td>The 4th Australian Robotics Challenge (Griffith University, Google Australia, Australia Robotics Association)</td>
-        <td>2017.10.26 ~ 2017.10.27</td>
-        <td>Griffith University Gold Coast Campus, Brisbane, Australia</td>
       </tr>
     </tbody>
   </table>
