@@ -243,7 +243,7 @@
       <td align="center"><strong>AI</strong></td>
       <td>
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=py,cpp,tensorflow,pytorch,opencv,sklearn" alt="AI Technologies" />
+          <img src="https://skillicons.dev/icons?i=py,fastapi,flask,anaconda,tensorflow,pytorch,opencv,sklearn" alt="AI Technologies" />
         </a>
       </td>
     </tr>
@@ -251,7 +251,7 @@
       <td align="center"><strong>Cloud & Infra</strong></td>
       <td>
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=aws,gcp,docker,linux,git,github" alt="Cloud & Infra Technologies" />
+          <img src="https://skillicons.dev/icons?i=aws,gcp,docker,linux,mongodb,git,github" alt="Cloud & Infra Technologies" />
         </a>
       </td>
     </tr>
