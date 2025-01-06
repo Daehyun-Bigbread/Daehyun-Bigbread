@@ -41,10 +41,13 @@
 > 🧑‍💻 **Google Developer Groups Korea, GDG Korea**  
 > 2024.01. ~ present.  
 >
-> 🤖 **Moduai Lab (MODULABS)**  
+> 🐤 **Moduai Lab (MODULABS)**  
 > 2024.03. ~ 2024.11.  
 > Researcher (Topic: Medical Moe & Multimodal (VLM))
-
+> 
+> 🤖 **JRC Company**  
+> 2016.12. ~ 2018.07.  
+> Robotics Engineer (Arduino, circuit design and fabrication, Part Modeling)
 ---
 
 <div align="left">
