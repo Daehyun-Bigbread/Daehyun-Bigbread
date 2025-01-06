@@ -70,22 +70,34 @@
           <td>Kakao Corp x Goorm - Kakao Tech Bootcamp 1st (Team Mission)</td>
         </tr>
         <tr>
-            <td>"Golla Golla" E-commerce Platform</td>
-            <td>AI Part, RecSys Dev</td>
-            <td>2024.06 ~ 2024.09</td>
-            <td>Kakao Corp x Goorm - Kakao Tech Bootcamp 1st (Team Mission)</td>
+          <td>
+            <a href="https://github.com/Kakaotech-18-Ecommerce" target="_blank">
+              "Golla Golla" E-commerce Platform
+            </a>
+          </td>
+          <td>AI Part, RecSys Dev</td>
+          <td>2024.06 ~ 2024.09</td>
+          <td>Kakao Corp x Goorm - Kakao Tech Bootcamp 1st (Team Mission)</td>
         </tr>
         <tr>
-            <td>"TEMU" GenAI-based Nursery Rhyme Production Service</td>
-            <td>Gen AI Part, Lead</td>
-            <td>2024.09</td>
-            <td>Kakao Corp x Goorm - Kakao Tech Bootcamp 1st (Hackathon Project)</td>
+          <td>
+            <a href="https://github.com/Kakao-Groomton-MusicGen" target="_blank">
+              "TEMU" GenAI-based Nursery Rhyme Production Service
+            </a>
+          </td>
+          <td>Gen AI Part, Lead</td>
+          <td>2024.09</td>
+          <td>Kakao Corp x Goorm - Kakao Tech Bootcamp 1st (Hackathon Project)</td>
         </tr>
         <tr>
-            <td>"Yum Yum" Service</td>
-            <td>AI Part (Computer Vision)</td>
-            <td>2023.12 ~ 2024.02</td>
-            <td>Participated in "Yum Yum" Service development.</td>
+          <td>
+            <a href="https://github.com/Kakao-Groomton-MusicGen" target="_blank">
+              "Yum yum" ai-based diet management service
+            </a>
+          </td>
+          <td>AI Part (Computer Vision)</td>
+          <td>2023.12 ~ 2024.02</td>
+          <td>Participated in "Yum Yum" Service development.</td>
         </tr>
     </table>
 </div>
