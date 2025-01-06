@@ -60,10 +60,14 @@
             <th>Details</th>
         </tr>
         <tr>
-            <td>"Pitching" AI Based Presentation Feedback Service</td>
-            <td>Lead (Project Manager), VLM Feedback Part Dev</td>
-            <td>2024.09 ~ 2024.12</td>
-            <td>Kakao Corp x Goorm - Kakao Tech Bootcamp 1st (Team Mission)</td>
+          <td>
+            <a href="https://github.com/KakaoTech-14-All-in-one-move" target="_blank">
+              "Pitching" AI Based Presentation Feedback Service
+            </a>
+          </td>
+          <td>Lead (Project Manager), VLM Feedback Part Dev</td>
+          <td>2024.09 ~ 2024.12</td>
+          <td>Kakao Corp x Goorm - Kakao Tech Bootcamp 1st (Team Mission)</td>
         </tr>
         <tr>
             <td>"Golla Golla" E-commerce Platform</td>
