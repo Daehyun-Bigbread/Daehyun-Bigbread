@@ -1,66 +1,202 @@
-<div align="right">
-<img src="https://komarev.com/ghpvc/?username=Daehyun-Bigbread&&style=flat-square" align="right"/>
-  
 <div align="left">
   
-## 👋 Hello ~ I'm Daehyun!
-<div style='float:left'>
-<a href="https://www.instagram.com/developer._.toby/" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=dd2a7b alt=instagram style="margin-bottom:5px;"/>
-</a>
-<a href="https://www.linkedin.com/in/daehyun-kim-b6336b291/"/>
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://www.notion.so/bigbread-1129/Hello-I-m-Daehyun-ad5c33377ba74550b94293fd32c7c6d9?pvs=4">
-<img alt="Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />
-</a>
-<a href="https://daehyun-bigbread.tistory.com">
-<img alt="tistory" src="https://img.shields.io/badge/tistory-ff5544?style=for-the-badge&logo=tistory&logoColor=white" />
-</a>
-<a href="bigdarkgold@gmail.com">
-<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <!-- 방문자 수 뱃지 & SNS -->
+  <img src="https://komarev.com/ghpvc/?username=Daehyun-Bigbread&&style=flat-square" align="right" />
+  
+  ## 👋 Hello ~ I'm Daehyun!
+  
+  <a href="https://www.instagram.com/developer._.toby/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23000000?style=for-the-badge&logo=instagram&logoColor=white&color=dd2a7b" alt="Instagram" />
+  </a>
+  <a href="https://www.linkedin.com/in/daehyun-kim-b6336b291/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.notion.so/bigbread-1129/Hello-I-m-Daehyun-ad5c33377ba74550b94293fd32c7c6d9?pvs=4">
+    <img src="https://img.shields.io/badge/Notion-%23000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
+  </a>
+  <a href="https://daehyun-bigbread.tistory.com">
+    <img src="https://img.shields.io/badge/Tistory-ff5544?style=for-the-badge&logo=tistory&logoColor=white" alt="Tistory" />
+  </a>
+  <a href="mailto:bigdarkgold@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
 
+</div>
 
-### 🎓  Education
-- **Hankuk University of Foreign Studies (HUFS)** (2020 ~ present)
-  - Major: Department of Computer Engineering | Minor: Data Science
-  - HUFS SW Volunteer (2024 ~ present)
-- **Griffith University (Gold Coast Campus)**
+### 🎓 Education
+- **Hankuk University of Foreign Studies (HUFS)** (2020 ~ Present)  
+  - Major: Computer Engineering | Minor: Data Science  
+  - HUFS SW Volunteer (2024 ~ Present)
+- **Griffith University (Gold Coast Campus)**  
   - Engineering Tec | Visiting Student (2017)
-    
+
+---
+
+<div align="left">
+    <h3>📋 Projects & Careers</h3>
+    <table>
+        <tr>
+            <th>Project Name</th>
+            <th>Position</th>
+            <th>Duration</th>
+            <th>Details</th>
+        </tr>
+        <tr>
+            <td>"Pitching" AI Based Presentation Feedback Service</td>
+            <td>Lead (Project Manager), VLM Feedback Part Dev</td>
+            <td>2024.09 ~ 2024.12</td>
+            <td>Kakao Corp x Goorm - Kakao Tech Bootcamp 1st (Team Mission)</td>
+        </tr>
+        <tr>
+            <td>"Golla Golla" E-commerce Platform</td>
+            <td>AI Part, RecSys Dev</td>
+            <td>2024.06 ~ 2024.09</td>
+            <td>Kakao Corp x Goorm - Kakao Tech Bootcamp 1st (Team Mission)</td>
+        </tr>
+        <tr>
+            <td>"TEMU" GenAI-based Nursery Rhyme Production Service</td>
+            <td>Gen AI Part, Lead</td>
+            <td>2024.09</td>
+            <td>Kakao Corp x Goorm - Kakao Tech Bootcamp 1st (Hackathon Project)</td>
+        </tr>
+        <tr>
+            <td>"Yum Yum" Service</td>
+            <td>AI Part (Computer Vision)</td>
+            <td>2023.12 ~ 2024.02</td>
+            <td>Participated in "Yum Yum" Service development.</td>
+        </tr>
+    </table>
+</div>
+
+
 <details>
   <summary><h3> ⭐ Experience</h3></summary>
+  <div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th>Organization/Team</th>
+        <th>Position</th>
+        <th>Duration</th>
+        <th>Key Activities/Contributions</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>MOUDLABS (MOUDAI Lab)</td>
+        <td>Researcher</td>
+        <td>2024.03 ~ 2024.11</td>
+        <td>Research interest: Medical Moe & Multimodal (VLM)</td>
+      </tr>
+      <tr>
+        <td>Google Developers Group</td>
+        <td>Organizer, Staff</td>
+        <td>2024 ~ Present</td>
+        <td>GopherCon Korea 2024 Organizer (GDG Golang Korea), Speaker Management, Build with AI (GDG Campus Korea) Staff</td>
+      </tr>
+      <tr>
+        <td>PyCon 2024</td>
+        <td>Speaker</td>
+        <td>2024.10</td>
+        <td>Topic: "Analyzing Financial Data with AI & Python using NLP"</td>
+      </tr>
+      <tr>
+        <td>YOUTHCON'24</td>
+        <td>Speaker</td>
+        <td>2024.08</td>
+        <td>Topic: "Growth from Reckless Challenges"</td>
+      </tr>
+      <tr>
+        <td>ICT-Advanced Engineering Society (ICT-AES)</td>
+        <td>Participant (Member)</td>
+        <td>2023.12</td>
+        <td>National Conference on Advanced Engineering and ICT-Convergence (NCAEIC-2023)</td>
+      </tr>
+      <tr>
+        <td>JRC Robotics Engineer</td>
+        <td>Circuit & Robotics Engineer</td>
+        <td>2016.12 ~ 2018.07</td>
+        <td>Designed robots and circuits for JRC Robotics</td>
+      </tr>
+      <tr>
+        <td>SW/AI University Global Talent Training Program</td>
+        <td>Participant</td>
+        <td>2023.11</td>
+        <td>Training programs in Nanyang Technical University, National University of Singapore, Hanoi University of Science and Technology</td>
+      </tr>
+      <tr>
+        <td>DAT (Data Analysis Academy)</td>
+        <td>ML Team Member</td>
+        <td>2023.09 ~ 2023.12</td>
+        <td>Capstone project: Predicting transaction prices of top 5 Korean apartment brands using ML</td>
+      </tr>
+      <tr>
+        <td>Team FindAlpha</td>
+        <td>Member</td>
+        <td>2023.06 ~ 2023.08</td>
+        <td>Deep learning NLP projects, participated in "Mapping 101 Service" development with Ministry of Science, ICT & Kdata</td>
+      </tr>
+      <tr>
+        <td>Passion & Pioneer Academic Society of Computer Engineering (PnP)</td>
+        <td>Organizer</td>
+        <td>2020 ~ Present</td>
+        <td>Led AI study team (2023 ~ 2024.02), participated in AI and Data Science study groups (2020 ~ 2021)</td>
+      </tr>
+    </tbody>
+  </table>
 
-| **Organization/Team**                              | **Position**                                          | **Duration**                         | **Key Activities/Contributions**                                                                                                                                                    |
-|----------------------------------------------------|------------------------------------------------------|--------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **"Pitching" AI Based Presentaton Feedback Service**  | Lead (Project Manager), VLM Feedback Part Dev                     | 2024.09 ~ 2024.12                   | Kakao Corp x Goorm - Kakao Tech Bootcamp 1st (Team Mission)      
-| **"Golla Golla" E-commerce Platform**  | AI Part, RecSys Dev                                  | 2024.06 ~ 2024.09                   | Kakao Corp x Goorm - Kakao Tech Bootcamp 1st (Team Mission)                                                                             |
-| **"TEMU" GenAI based nursery rhyme production service** | Gen AI Part, Lead                                 | 2024.09                   | Kakao Corp x Goorm - Kakao Tech Bootcamp 1st (Hackton Project)                                                                              |
-| **MOUDLABS (MOUDAI Lab)**                | Researcher                              | 2024.03 ~ 2024.11                    | Research Interest: Medical Moe & Multimodal (VLM)                                                                              |
-| **Google Developers Group**                        | Organizer, Staff                                       | 2024 ~ Present                       | Gophercon Korea 2024 Organizer (GDG Golang Korea), Speaker's Management and Coordination. Build with AI (GDG Campus Korea), Gemini Codelab Staff                   |
-| **PyCon 2024**                                     | Speaker                                               | 2024.10                                 | Topic: "Analyzing Financial Data with AI & Python using NLP".                                                                                                          |
-| **YOUTHCON'24**                                    | Speaker                                               | 2024.08                                 | Topic: "Growth from Reckless Challenges".                                                                                                                              |
-| **ICT-Advanced Engineering Society (ICT-AES)**      | Participant (Member)                                           | 2023.12                    | National Conference on Advanced Engineering and ICT-Convergence (NCAEIC-2023).                                                                                                      |
-| **JRC Robotics Engineer**                          | Circuit & Robotics Engineer                          | 2016.12 ~ 2018.07                    | Designed robots and circuits for JRC Robotics.                                                                                                                                      |
-| **"Yum Yum" Service**                        | AI Part (Computer Vision)     | 2023.12 ~ 2024.02                    | Participated in "Yum Yum" Service development.                                                                                                                        |
-| **SW/AI University Global Talent Training Program** | Participant                                           | 2023.11                                 | Participated in SW/AI training programs in Nanyang Technical University, National University of Singapore, and Hanoi University of Science and Technology.                     |
-| **DAT(Data Analysis Academy)**                      | ML Team Member                              | 2023.09 ~ 12                                 | Conducted a capstone project on predicting transaction prices of top 5 Korean apartment brands using ML.                                                                             |
-| **Team FindAlpha**                                 | Member                                          | 2023.06 ~ 08                                 | Deep learning NLP projects, participated in "Mapping 101 Service" development project in collaboration with Ministry of Science, ICT & Kdata.                                        |                                                                                                                                |
-| **Passion & Pioneer Academic Society of Computer Engineering (PnP)** | Organizer                                 | 2020 ~ Present                       | Led AI study team (2023 ~ 2024.02), participated in AI and Data Science study groups (2020 ~ 2021).                                                                                  |
 </details>
 
 <details>
   <summary><h3>🏆 Awards</h3></summary>
-
-| **Award**                                             | **Issued by**                                                                                                            | **Date**                              | **Details/Location**                                                                                                         |
-|-------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|---------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
-| **Grand Award**                                       | Seoul AI Hub X MODULABS                                                                                                  | Feb. 23, 2024                         | 2024 AI/SW start-up job fair                                                                                                 |
-| **Best-paper Award**                                  | National Conference on Advanced Engineering and ICT-Convergence 2023 (NCAEIC-2023) organized by ICT-AES and KSF          | Nov. 30 - Dec. 2, 2023                | Held at Hotel The One, Jeju Island, Korea Republic                                                                           |
-| **Excellence Award**                                  | HUFS Summer Hackathon by GDSC HUFS & TAB, Computer Engineering Society of HUFS, organized by AI Education Center of HUFS | June 28-29, 2024                      | 2024 HUFS Summer Hackathon                                                                                                   |
-| **Capstone project research Excellent Award**         | HUFS Data Analysis Academy DAT, HUFS School of Economics and Business                                                     | Dec. 11, 2023                         | Capstone project research recognition                                                                                        |
-| **Bronze Award (4th)**                                | International Robot Olympiad (IROC)                                                                                      | Aug. 5 - Aug. 6, 2017                 | Held at DDC Convention Center, Daejeon, Korea Republic                                                                       |
-| **Creative Concept Award**                            | The 4th Australian Robotics Challenge, issued by Griffith University, Google Australia, Australia Robotics Association   | Oct. 26 - Oct. 27, 2017               | Held at Griffith University Gold Coast Campus, Brisbane, Australia                                                           |
-
+  <table>
+    <thead>
+      <tr>
+        <th>Award</th>
+        <th>Issued by</th>
+        <th>Date</th>
+        <th>Details/Location</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Grand Award</td>
+        <td>Seoul AI Hub X MODULABS</td>
+        <td>2024.02.23</td>
+        <td>2024 AI/SW Start-up Job Fair</td>
+      </tr>
+      <tr>
+        <td>Best-paper Award</td>
+        <td>NCAEIC-2023 (ICT-AES, KSF)</td>
+        <td>2023.11.30 ~ 2023.12.02</td>
+        <td>Hotel The One, Jeju Island, Korea</td>
+      </tr>
+      <tr>
+        <td>Excellence Award</td>
+        <td>HUFS Summer Hackathon (GDSC HUFS & TAB, AI Education Center of HUFS)</td>
+        <td>2024.06.28 ~ 2024.06.29</td>
+        <td>2024 HUFS Summer Hackathon</td>
+      </tr>
+      <tr>
+        <td>Capstone Project Research Excellent Award</td>
+        <td>HUFS Data Analysis Academy (DAT), HUFS School of Economics and Business</td>
+        <td>2023.12.11</td>
+        <td>Capstone project research recognition</td>
+      </tr>
+      <tr>
+        <td>Bronze Award (4th)</td>
+        <td>International Robot Olympiad (IROC)</td>
+        <td>2017.08.05 ~ 2017.08.06</td>
+        <td>DDC Convention Center, Daejeon, Korea</td>
+      </tr>
+      <tr>
+        <td>Creative Concept Award</td>
+        <td>The 4th Australian Robotics Challenge (Griffith University, Google Australia, Australia Robotics Association)</td>
+        <td>2017.10.26 ~ 2017.10.27</td>
+        <td>Griffith University Gold Coast Campus, Brisbane, Australia</td>
+      </tr>
+    </tbody>
+  </table>
 
 </details>
 
@@ -74,27 +210,35 @@
 
 ### 🖥️ Skills
 
-#### 📑 Language & Framework & Tools
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,c,cpp,html,css,figma,md,js,react,anaconda,tensorflow,git,arduino,opencv,sklearn" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td><strong>🧠 AI</strong></td>
+    <td>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=py,cpp,tensorflow,pytorch,opencv,sklearn" alt="AI Technologies" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>☁️ Cloud & Infra</strong></td>
+    <td>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=aws,gcp,kubernetes,docker,linux" alt="Cloud & Infra Technologies" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>🔧 Communication </strong></td>
+    <td>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=react,figma,git,arduino,md,notion,discord,gmail,linkedin,github" alt="Other Technologies" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-#### 📚 Interested in & Now Studying
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pytorch,kubernetes,docker,aws,gcp" />
-  </a>
-</p>
-  
-#### 📢 Communication
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,instagram,notion,discord,gmail,linkedin" />
-  </a>
-</p>
 
+---
 
 #### 🌱 Github Stats  
 <p align="center">
