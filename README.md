@@ -210,32 +210,34 @@
 
 ### 🖥️ Skills
 
-<table>
-  <tr>
-    <td><strong>🧠 AI</strong></td>
-    <td>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=py,cpp,tensorflow,pytorch,opencv,sklearn" alt="AI Technologies" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>☁️ Cloud & Infra</strong></td>
-    <td>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=aws,gcp,kubernetes,docker,linux" alt="Cloud & Infra Technologies" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>🔧 Communication </strong></td>
-    <td>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=react,figma,git,arduino,md,notion,discord,gmail,linkedin,github" alt="Other Technologies" />
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><strong>AI</strong></td>
+      <td>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=py,cpp,tensorflow,pytorch,opencv,sklearn" alt="AI Technologies" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Cloud & Infra</strong></td>
+      <td>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=aws,gcp,docker,linux,git,github" alt="Cloud & Infra Technologies" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Communication & Others</strong></td>
+      <td>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=react,figma,arduino,md,notion,discord,gmail,linkedin" alt="Other Technologies" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 
 ---
