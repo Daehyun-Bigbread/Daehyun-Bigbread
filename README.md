@@ -25,6 +25,9 @@
   <!-- 헤더 이미지 -->
   ![github-header-image (1)](https://github.com/user-attachments/assets/6911203d-4efe-4b7d-8ac6-a050a993b08a)
 
+  <div align="left">
+    Hello, I'm a passionate developer with experience in AI agents, machine learning-based recommendation systems, data pipelines, API development using FastAPI, and data analysis. I have successfully led projects through effective communication and collaboration and aim to grow into a recognized expert in development through continuous learning.<br/>
+  </div>
 
 </div>
 
