@@ -30,6 +30,9 @@
 
 #### 🎙️ Video
 > PyCon.KR 2024에서 "인공지능과 파이썬으로 금융 데이터 분석해보기 with 자연어처리 (NLP)" 라는 주제로 진행한 세션 영상입니다.
+> 
+> 세션 자료: [PyCon Korea 2024 PPT - 인공지능과 파이썬으로 금융 데이터 분석해보기 with 자연어처리 (NLP).pdf](https://github.com/user-attachments/files/18330301/PyCon.Korea.2024.PPT.-.with.NLP.pdf)
+
 
 <div align="center">
   
