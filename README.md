@@ -131,32 +131,38 @@
     </thead>
     <tbody>
       <tr>
-        <td>Grand Award</td>
-        <td>Seoul AI Hub X MODULABS</td>
+        <td>2nd Award (최우수상)</td>
+        <td>Kakaotech BootCamp [Kakao Corp. x Goorm]</td>
+        <td>2024.02.23</td>
+        <td>AWS 부하테스트 대회 토너먼트 </td>
+      </tr>
+      <tr>
+        <td>Grand Award (대상)</td>
+        <td>Seoul AI Hub X MODULABS (모두의연구소)</td>
         <td>2024.02.23</td>
         <td>2024 AI/SW Start-up Job Fair</td>
       </tr>
       <tr>
-        <td>Best-paper Award</td>
+        <td>Best-paper Award (Best 논문상)</td>
         <td>NCAEIC-2023 (ICT-AES, KSF)</td>
         <td>2023.11.30 ~ 2023.12.02</td>
         <td>Hotel The One, Jeju Island, Korea</td>
       </tr>
       <tr>
-        <td>Excellence Award</td>
-        <td>HUFS Summer Hackathon (GDSC HUFS & TAB, AI Education Center of HUFS)</td>
+        <td>Excellence Award (우수상, 3rd)</td>
+        <td>HUFS Summer Hackathon (GDSC HUFS & TAB, AI Education Center of HUFS(AI 교육원))</td>
         <td>2024.06.28 ~ 2024.06.29</td>
         <td>2024 HUFS Summer Hackathon</td>
       </tr>
       <tr>
-        <td>Capstone Project Research Excellent Award</td>
-        <td>HUFS Data Analysis Academy (DAT), HUFS School of Economics and Business</td>
+        <td>Capstone Project Research Award (캡스톤 우수상)</td>
+        <td>HUFS Data Analysis Academy (DAT), HUFS School of Economics and Business (한곡외국어대학교 경상대학)</td>
         <td>2023.12.11</td>
         <td>Capstone project research recognition</td>
       </tr>
       <tr>
         <td>Bronze Award (4th)</td>
-        <td>International Robot Olympiad (IROC)</td>
+        <td>International Robot Olympiad (IROC-국제로봇올림피아드 위원회)</td>
         <td>2017.08.05 ~ 2017.08.06</td>
         <td>DDC Convention Center, Daejeon, Korea</td>
       </tr>
