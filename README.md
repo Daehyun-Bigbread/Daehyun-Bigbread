@@ -257,7 +257,7 @@
   <div style="display: flex, height:180px">
     <table>
       <tr>
-        <td align="center"><strong>AI</strong></td>
+        <td align="center"><strong>AI & Backend</strong></td>
         <td>
           <a href="https://skillicons.dev">
             <img src="https://skillicons.dev/icons?i=py,fastapi,flask,anaconda,tensorflow,pytorch,opencv,sklearn" alt="AI Technologies" />
