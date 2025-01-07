@@ -27,7 +27,8 @@
   <div style="margin-top: 20px;"></div>
   
   <!-- 헤더 이미지 -->
-  ![github-header-image](https://github.com/user-attachments/assets/ef79eb69-cd98-450f-b7f8-d3538ffb48bd)
+  ![github-header-image (1)](https://github.com/user-attachments/assets/6911203d-4efe-4b7d-8ac6-a050a993b08a)
+
 
 </div>
 
