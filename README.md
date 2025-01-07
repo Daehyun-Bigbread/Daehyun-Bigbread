@@ -254,52 +254,61 @@
 ### 🖥️ Skills
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center"><strong>AI</strong></td>
-      <td>
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=py,fastapi,flask,anaconda,tensorflow,pytorch,opencv,sklearn" alt="AI Technologies" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center"><strong>Cloud & Infra</strong></td>
-      <td>
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=aws,gcp,docker,linux,mongodb,git,github" alt="Cloud & Infra Technologies" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center"><strong>Communication & Others</strong></td>
-      <td>
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=react,figma,arduino,md,notion,discord,gmail,linkedin" alt="Other Technologies" />
-        </a>
-      </td>
-    </tr>
-  </table>
+  <div style="display: flex, height:180px">
+    <table>
+      <tr>
+        <td align="center"><strong>AI</strong></td>
+        <td>
+          <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=py,fastapi,flask,anaconda,tensorflow,pytorch,opencv,sklearn" alt="AI Technologies" />
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td align="center"><strong>Cloud & Infra</strong></td>
+        <td>
+          <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=aws,gcp,docker,linux,mongodb,git,github" alt="Cloud & Infra Technologies" />
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td align="center"><strong>Communication & Others</strong></td>
+        <td>
+          <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=react,figma,arduino,md,notion,discord,gmail,linkedin" alt="Other Technologies" />
+          </a>
+        </td>
+      </tr>
+    </table>
+  </div>
 </div>
 
 
 ---
 
 ### 🌱 Github Stats  
-<p align="center">
-  <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=Daehyun-Bigbread&theme=tokyonight&show_icons=true&hide_border=true" width="45%"/>
-  </a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daehyun-Bigbread&theme=tokyonight&layout=compact" width="34%"/>
-</p>
 
-<a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/Daehyun-Bigbread"
-  width="1000"
-  height="300"
-/>
-</a>
+<div align="center">
+  <div style="display: flex, height:180px">
+  <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=Daehyun-Bigbread&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="SOKURI's github stats" />
+  <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daehyun-Bigbread&layout=compact&theme=nord&hide_border=true" />
+  </div>
+</div>
+<br />
+<br />
+
+<div align="center">
+  <div style="display: flex, height:180px">
+    <a href="https://github.com/devxb/gitanimals">
+    <img
+      src="https://render.gitanimals.org/farms/Daehyun-Bigbread"
+      width="1000"
+      height="300"
+    />
+    </a>
+  </div>
+</div>
 <!--
 
 **Daehyun-Bigbread/Daehyun-Bigbread** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
