@@ -50,70 +50,92 @@
 > 2017.10.
 > Engineering Tech | Visiting Student
 >
-> ⛅️ **KakaoTech Bootcamp GenAI 1st**  
+> ⛅️ **KakaoTech Bootcamp 1st (in Pangyo)**  
 > 2024.07. ~ 2024.12.  
-> AI Model & Data Pipeline Construction, API Development
+> Gen AI Process | AI Model & Data Pipeline Construction, API Development
 > 
 > 🧑‍💻 **Google Developer Groups Korea, GDG Korea**  
 > 2024.01. ~ present.  
 >
 > 🐤 **Moduai Lab (MODULABS)**  
 > 2024.03. ~ 2024.11.  
-> Researcher (Topic: Medical Moe & Multimodal (VLM))
+> Researcher | Medical Moe & Multimodal (VLM)
 > 
 > 🤖 **JRC Company**  
 > 2016.12. ~ 2018.07.  
-> Robotics Engineer (Arduino, circuit design and fabrication, Part Modeling)
+> Robotics Engineer | Arduino, circuit design and fabrication, Part Modeling
 ---
 
 <div align="left">
-    <h3>📋 Projects</h3>
+    <h3>📋 Projects & Research</h3>
     <table>
         <tr>
-            <th>Project Name</th>
-            <th>Position</th>
+            <th>Name</th>
+            <th>Position & Role</th>
             <th>Duration</th>
             <th>Details</th>
         </tr>
         <tr>
           <td>
             <a href="https://github.com/KakaoTech-14-All-in-one-move" target="_blank">
-              "Pitching" AI Based Presentation Feedback Service
+              "Pitching" AI 기반 실시간 발표 피드백 & 커뮤니케이션 플랫폼
             </a>
           </td>
-          <td>Lead (Project Manager), VLM Feedback Part Dev</td>
+          <td>Lead (PM), AI & Data 처리 파이프라인 구축 및 API 개발</td>
           <td>2024.09 ~ 2024.12</td>
-          <td>Kakao Corp x Goorm - Kakao Tech Bootcamp 1st (Team Mission)</td>
+          <td>kakao x Goorm - kakaotech Bootcamp</td>
         </tr>
         <tr>
           <td>
             <a href="https://github.com/Kakaotech-18-Ecommerce" target="_blank">
-              "Golla Golla" E-commerce Platform
+              "Golla Golla" 개인 맞춤형 E-commerce Platform
             </a>
           </td>
-          <td>AI Part, RecSys Dev</td>
+          <td>추천시스템(RecSys) Model 개발 & 검색엔진 및 API 개발</td>
           <td>2024.06 ~ 2024.09</td>
-          <td>Kakao Corp x Goorm - Kakao Tech Bootcamp 1st (Team Mission)</td>
+          <td>kakao x Goorm - kakaotech Bootcamp</td>
         </tr>
         <tr>
           <td>
             <a href="https://github.com/Kakao-Groomton-MusicGen" target="_blank">
-              "TEMU" GenAI-based Nursery Rhyme Production Service
+              "TEMU" 생성형 AI 기반 교육용 동요 제공 서비스
             </a>
           </td>
-          <td>Gen AI Part, Lead</td>
+          <td>Lead, LLM & 노래 생성 모델 API 개발</td>
           <td>2024.09</td>
-          <td>Kakao Corp x Goorm - Kakao Tech Bootcamp 1st (Hackathon Project)</td>
+          <td>kakao x Goorm - kakaotech Bootcamp (해커톤)</td>
+        </tr>
+        <tr>
+          <td>
+            <a href="https://github.com/FindAlphaa/Mapping101" target="_blank">
+              "Investing Mapping 101" - NLP 기반 투자 지원 플랫폼
+            </a>
+          </td>
+          <td>Prompt Engineering & Dataset 수집 및 처리 파이프라인, FE & UI/UX 개발</td>
+          <td>2023.06 ~ 2024.08</td>
+          <td>과학기술정보통신부, 한국데이터산업진흥원, 한국외국어대학교</td>
         </tr>
         <tr>
           <td>
             <a href="https://github.com/Kakao-Groomton-MusicGen" target="_blank">
-              "Yum yum" ai-based diet management service
+              "Yum yum" AI 기반 식단 관리 서비스
             </a>
           </td>
-          <td>AI Part (Computer Vision)</td>
+          <td>AI (CV - 컴퓨터비전) & BE 파이프라인 구축</td>
           <td>2023.12 ~ 2024.02</td>
-          <td>Participated in "Yum Yum" Service development.</td>
+          <td>[서울 AI 허브 x MODULABS] SW & AI 개발자 양성교육</td>
+        </tr>
+        <tr>
+          <td>Visualization of the Industry Through Keywords & Sensitivity Analysis</td>
+          <td>논문 1저자로 발표 (NCAEIC-2023)</td>
+          <td>2023.10 ~ 2023.12</td>
+          <td>organized by ICT-AES and KSF at Hotel The One, Jeju Island, Korea Republic (Nov.30-Dec.2, 2023)</td>
+        </tr>
+        <tr>
+          <td>Predicting Actual Transaction Prices of Top 5 Korea Apartment Brands Using ML</td>
+          <td>부동산 매매 데이터, 경제지표 수집 & One-Hot Encoding 을 이용한 모델 성능 평가</td>
+          <td>2023.09 ~ 2024.12</td>
+          <td>한국외국어대학교 경상대학, 데이터분석학회 DAT</td>
         </tr>
     </table>
 </div>
