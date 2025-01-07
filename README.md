@@ -3,9 +3,9 @@
 </div>
 
 <div align="left">
-
-## 👋 Hello ~ I'm Daehyun!
   
+## 👋 Hello ~ I'm Daehyun!
+
   <!-- 소셜 배지들 -->
   <a href="https://www.instagram.com/developer._.toby/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23000000?style=for-the-badge&logo=instagram&logoColor=white&color=dd2a7b" alt="Instagram" />
@@ -22,9 +22,6 @@
   <a href="mailto:bigdarkgold@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  
-  <!-- 간격 추가 -->
-  <div style="margin-top: 20px;"></div>
   
   <!-- 헤더 이미지 -->
   ![github-header-image (1)](https://github.com/user-attachments/assets/6911203d-4efe-4b7d-8ac6-a050a993b08a)
