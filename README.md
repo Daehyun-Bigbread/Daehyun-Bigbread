@@ -117,7 +117,7 @@
         </tr>
         <tr>
           <td>
-            <a href="https://github.com/Kakao-Groomton-MusicGen" target="_blank">
+            <a href="https://github.com/Daehyun-Bigbread/yyamyyam" target="_blank">
               "Yum yum" AI 기반 식단 관리 서비스
             </a>
           </td>
