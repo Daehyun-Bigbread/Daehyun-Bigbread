@@ -6,6 +6,7 @@
 
 ## 👋 Hello ~ I'm Daehyun!
   
+  <!-- 소셜 배지들 -->
   <a href="https://www.instagram.com/developer._.toby/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23000000?style=for-the-badge&logo=instagram&logoColor=white&color=dd2a7b" alt="Instagram" />
   </a>
@@ -21,10 +22,14 @@
   <a href="mailto:bigdarkgold@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
+  
+  <!-- 간격 추가 -->
+  <div style="margin-top: 20px;"></div>
+  
+  <!-- 헤더 이미지 -->
+  ![github-header-image](https://github.com/user-attachments/assets/ef79eb69-cd98-450f-b7f8-d3538ffb48bd)
 
 </div>
-
-![github-header-image](https://github.com/user-attachments/assets/ef79eb69-cd98-450f-b7f8-d3538ffb48bd)
 
 #### 🎙️ Video
 > PyCon.KR 2024에서 "인공지능과 파이썬으로 금융 데이터 분석해보기 with 자연어처리 (NLP)" 라는 주제로 진행한 세션 영상입니다.
