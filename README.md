@@ -19,9 +19,6 @@
   <a href="https://daehyun-bigbread.tistory.com">
     <img src="https://img.shields.io/badge/Tistory-ff5544?style=for-the-badge&logo=tistory&logoColor=white" alt="Tistory" />
   </a>
-  <a href="mailto:bigdarkgold@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
   <br />
   <br />
   
