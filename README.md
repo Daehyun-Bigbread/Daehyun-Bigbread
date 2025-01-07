@@ -4,7 +4,7 @@
 
 <div align="left">
   
-## 👋 Hello ~ I'm Daehyun!
+## ⚾ About me!
 
   <!-- 소셜 배지들 -->
   <a href="https://www.instagram.com/developer._.toby/" target="_blank">
