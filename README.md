@@ -22,6 +22,8 @@
   <a href="mailto:bigdarkgold@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
+  <br />
+  <br />
   
   <!-- 헤더 이미지 -->
   ![github-header-image (1)](https://github.com/user-attachments/assets/6911203d-4efe-4b7d-8ac6-a050a993b08a)
