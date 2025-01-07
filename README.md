@@ -8,16 +8,16 @@
 
   <!-- 소셜 배지들 -->
   <a href="https://www.instagram.com/developer._.toby/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23000000?style=flat&logo=instagram&logoColor=white&color=dd2a7b" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-%23000000?style=flat-square&logo=instagram&logoColor=white&color=dd2a7b" alt="Instagram" />
   </a>
   <a href="https://www.linkedin.com/in/daehyun-kim-b6336b291/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=fflat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.notion.so/bigbread-1129/Hello-I-m-Daehyun-ad5c33377ba74550b94293fd32c7c6d9?pvs=4">
-    <img src="https://img.shields.io/badge/Notion-%23000000?style=flat&logo=notion&logoColor=white" alt="Notion" />
+    <img src="https://img.shields.io/badge/Notion-%23000000?style=flat-square&logo=notion&logoColor=white" alt="Notion" />
   </a>
   <a href="https://daehyun-bigbread.tistory.com">
-    <img src="https://img.shields.io/badge/Tistory-ff5544?style=flat&logo=tistory&logoColor=white" alt="Tistory" />
+    <img src="https://img.shields.io/badge/Tistory-ff5544?style=flat-square&logo=tistory&logoColor=white" alt="Tistory" />
   </a>
   <br />
   <br />
