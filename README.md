@@ -279,6 +279,8 @@
 
 </details>
 
+---
+
 ### 🖥️ Skills
 
 <div align="center">
