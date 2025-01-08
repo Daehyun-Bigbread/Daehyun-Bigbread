@@ -73,7 +73,7 @@
             <th>Name</th>
             <th>Position & Role</th>
             <th>Duration</th>
-            <th>Details</th>
+            <th>Organizer</th>
         </tr>
         <tr>
           <td>
@@ -123,13 +123,13 @@
           </td>
           <td>AI (CV - 컴퓨터비전) & BE 파이프라인 구축</td>
           <td>2023.12 ~ 2024.02</td>
-          <td>[서울 AI 허브 x MODULABS] SW & AI 개발자 양성교육</td>
+          <td>[Seoul AI Hub x MODULABS] SW & AI 개발자 양성교육</td>
         </tr>
         <tr>
           <td>Visualization of the Industry Through Keywords & Sensitivity Analysis</td>
           <td>논문 1저자로 발표 (NCAEIC-2023)</td>
           <td>2023.10 ~ 2023.12</td>
-          <td>organized by ICT-AES and KSF at Hotel The One, Jeju Island, Korea Republic (Nov.30-Dec.2, 2023)</td>
+          <td>ICT-AES & KSF at Hotel The One, Jeju Island, Korea Republic (Nov.30-Dec.2, 2023)</td>
         </tr>
         <tr>
           <td>Predicting Actual Transaction Prices of Top 5 Korea Apartment Brands Using ML</td>
