@@ -237,12 +237,6 @@
         <td>National Conference on Advanced Engineering and ICT-Convergence (NCAEIC-2023)</td>
       </tr>
       <tr>
-        <td>JRC Robotics Engineer</td>
-        <td>Circuit & Robotics Engineer</td>
-        <td>2016.12 ~ 2018.07</td>
-        <td>Designed robots and circuits for JRC Robotics</td>
-      </tr>
-      <tr>
         <td>SW/AI University Global Talent Training Program</td>
         <td>Participant</td>
         <td>2023.11</td>
