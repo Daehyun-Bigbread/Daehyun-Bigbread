@@ -81,7 +81,7 @@
               "Pitching" AI 기반 실시간 발표 피드백 & 커뮤니케이션 플랫폼
             </a>
           </td>
-          <td>Lead (PM), AI & Data 처리 파이프라인 구축 및 API 개발</td>
+          <td>Lead (PM), AI (CV & VLM Prompt Engineering) & Data 처리 파이프라인 구축 및 API 개발</td>
           <td>2024.09 ~ 2024.12</td>
           <td>kakao x Goorm - kakaotech Bootcamp</td>
         </tr>
