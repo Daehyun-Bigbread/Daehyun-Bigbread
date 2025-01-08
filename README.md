@@ -326,8 +326,6 @@
   </div>
 </div>
 <br />
-<br />
-
 <div align="center">
   <div style="display: flex, height:180px">
     <a href="https://github.com/devxb/gitanimals">
