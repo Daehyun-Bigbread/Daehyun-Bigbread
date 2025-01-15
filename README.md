@@ -320,7 +320,12 @@
   </div>
 </div>
 <br />
+
+
 <div align="center">
+
+  ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kdh1834)
+  
   <div style="display: flex, height:180px">
     <a href="https://github.com/devxb/gitanimals">
     <img
