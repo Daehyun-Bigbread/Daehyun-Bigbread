@@ -277,36 +277,70 @@
 
 ### 🖥️ Skills
 
-<div align="center">
-  <div style="display: flex, height:180px">
-    <table>
-      <tr>
-        <td align="center"><strong>AI & Backend</strong></td>
-        <td>
-          <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=py,fastapi,flask,anaconda,tensorflow,pytorch,opencv,sklearn" alt="AI Technologies" />
-          </a>
-        </td>
-      </tr>
-      <tr>
-        <td align="center"><strong>Cloud & Infra</strong></td>
-        <td>
-          <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=aws,gcp,docker,linux,mongodb,git,github" alt="Cloud & Infra Technologies" />
-          </a>
-        </td>
-      </tr>
-      <tr>
-        <td align="center"><strong>Communication & Others</strong></td>
-        <td>
-          <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=react,figma,arduino,md,notion,discord,gmail,linkedin" alt="Other Technologies" />
-          </a>
-        </td>
-      </tr>
+   <table>
+        <thead>
+            <tr>
+                <th>Category</th>
+                <th>Tech</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>AI & BE</td>
+                <td>
+                    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" alt="Python">
+                    <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=FastAPI&logoColor=white" alt="FastAPI">
+                    <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white" alt="Flask">
+                    <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=Anaconda&logoColor=white" alt="Anaconda">
+                    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white" alt="PyTorch">
+                    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white" alt="OpenCV">
+                    <img src="https://img.shields.io/badge/Mediapipe-0085CA?style=flat&logo=Mediapipe&logoColor=white" alt="Mediapipe">
+                    <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
+                    <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=OpenAI&logoColor=white" alt="OpenAI">
+                    <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=NumPy&logoColor=white" alt="NumPy">
+                    <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=Pandas&logoColor=white" alt="Pandas">
+                </td>
+            </tr>
+            <tr>
+                <td>Cloud & Infra</td>
+                <td>
+                    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white" alt="Docker">
+                    <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=flat&logo=AmazonEC2&logoColor=white" alt="Amazon EC2">
+                    <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=flat&logo=AmazonS3&logoColor=white" alt="Amazon S3">
+                    <img src="https://img.shields.io/badge/Amazon%20RDS-527FFF?style=flat&logo=AmazonRDS&logoColor=white" alt="Amazon RDS">
+                    <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=black" alt="Linux">
+                    <img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=Google%20Cloud&logoColor=white" alt="Google Cloud Platform">
+                    <img src="https://img.shields.io/badge/Sentry-FF6500?style=flat&logo=Sentry&logoColor=white" alt="Sentry">
+                    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white" alt="MongoDB">
+                    <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white" alt="Git">
+                    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" alt="GitHub">
+                </td>
+            </tr>
+            <tr>
+                <td>FE</td>
+                <td>
+                    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" alt="HTML5">
+                    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" alt="CSS3">
+                    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black" alt="JavaScript">
+                    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" alt="React">
+                    <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white" alt="Figma">
+                </td>
+            </tr>
+            <tr>
+                <td>etc</td>
+                <td>
+                    <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" alt="Notion">
+                    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white" alt="Discord">
+                    <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white" alt="Jira">
+                    <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white" alt="Slack">
+                    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white" alt="Gmail">
+                    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white" alt="LinkedIn">
+                    <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=Markdown&logoColor=white" alt="Markdown">
+                    <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white" alt="Arduino">
+                </td>
+            </tr>
+        </tbody>
     </table>
-  </div>
-</div>
 
 
 ---
