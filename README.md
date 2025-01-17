@@ -299,6 +299,7 @@
                     <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=OpenAI&logoColor=white" alt="OpenAI">
                     <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=NumPy&logoColor=white" alt="NumPy">
                     <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=Pandas&logoColor=white" alt="Pandas">
+                    <img src="https://img.shields.io/badge/Pydantic-FFE873?style=flat&logo=Pydantic&logoColor=black" alt="Pydantic">
                 </td>
             </tr>
             <tr>
