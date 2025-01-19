@@ -297,7 +297,9 @@
                     <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white" alt="OpenCV">
                     <img src="https://img.shields.io/badge/Mediapipe-0085CA?style=flat&logo=Mediapipe&logoColor=white" alt="Mediapipe">
                     <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
+                    <img src="https://img.shields.io/badge/Langchain-1C3C3C?style=flat&logo=langchain&logoColor=white" alt="langchain">
                     <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=OpenAI&logoColor=white" alt="OpenAI">
+                   <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white" alt="Gemini">
                     <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=NumPy&logoColor=white" alt="NumPy">
                     <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=Pandas&logoColor=white" alt="Pandas">
                     <img src="https://img.shields.io/badge/Pydantic-FFE873?style=flat&logo=Pydantic&logoColor=black" alt="Pydantic">
