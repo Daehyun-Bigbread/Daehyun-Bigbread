@@ -350,11 +350,21 @@
 ### 🌱 Github Stats  
 
 <div align="center">
-  <div style="display: flex;">
-    <img align="center" style="height:150px" src="https://github-readme-stats.vercel.app/api?username=Daehyun-Bigbread&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="SOKURI's github stats" />
-    <img align="center" style="height:150px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kdh1834" alt="Solved.ac Profile" />
+  <!-- 상단 그룹화된 박스 -->
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; width: 100%; max-width: 900px; margin: auto;">
+    <img
+      align="center"
+      style="height: auto; max-height: 180px; width: 100%; max-width: 400px; flex: 1;"
+      src="https://github-readme-stats.vercel.app/api?username=Daehyun-Bigbread&show_icons=true&include_all_commits=true&theme=nord&hide_border=true"
+      alt="GitHub Stats"
+    />
+    <img
+      align="center"
+      style="height: auto; max-height: 180px; width: 100%; max-width: 400px; flex: 1;"
+      src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kdh1834"
+      alt="Solved.ac Profile"
+    />
   </div>
-</div>
 <br />
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
