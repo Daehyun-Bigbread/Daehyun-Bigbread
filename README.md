@@ -350,9 +350,9 @@
 ### 🌱 Github Stats  
 
 <div align="center">
-  <div style="display: flex; height:180px;">
-    <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=Daehyun-Bigbread&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="SOKURI's github stats" />
-    <img align="center" style="height:180px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kdh1834" alt="Solved.ac Profile" />
+  <div style="display: flex;">
+    <img align="center" style="height:170px" src="https://github-readme-stats.vercel.app/api?username=Daehyun-Bigbread&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="SOKURI's github stats" />
+    <img align="center" style="height:170px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kdh1834" alt="Solved.ac Profile" />
   </div>
 </div>
 <br />
