@@ -338,6 +338,7 @@
                     <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white" alt="Jira">
                     <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white" alt="Slack">
                     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white" alt="Gmail">
+                     <img src="https://img.shields.io/badge/canva-00C4CC?style=flat&logo=Canva&logoColor=white" alt="Canva">
                     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white" alt="LinkedIn">
                     <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=Markdown&logoColor=white" alt="Markdown">
                     <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white" alt="Arduino">
