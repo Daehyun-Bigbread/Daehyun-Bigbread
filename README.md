@@ -350,18 +350,16 @@
 ### 🌱 Github Stats  
 
 <div align="center">
-  <div style="display: flex, height:180px">
-  <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=Daehyun-Bigbread&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="SOKURI's github stats" />
-  <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daehyun-Bigbread&layout=compact&theme=nord&hide_border=true" />
+  <div style="display: flex; height:180px;">
+    <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=Daehyun-Bigbread&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="SOKURI's github stats" />
+    <img align="center" style="height:180px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kdh1834" alt="Solved.ac Profile" />
   </div>
 </div>
 <br />
 
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 <div align="center">
-
-  ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kdh1834)
-  
   <div style="display: flex, height:180px">
     <a href="https://github.com/devxb/gitanimals">
     <img
@@ -372,8 +370,6 @@
     </a>
   </div>
 </div>
-
-![](.profile-3d-contrib/profile-night-rainbow.svg)
 
 <!--
 
