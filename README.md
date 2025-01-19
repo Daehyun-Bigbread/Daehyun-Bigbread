@@ -350,17 +350,17 @@
 ### 🌱 Github Stats  
 
 <div align="center">
-  <!-- 상단 그룹화된 박스 -->
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; width: 100%; max-width: 900px; margin: auto;">
+  <!-- 상단 그룹화된 박스 (한 줄에 2개) -->
+  <div style="display: flex; justify-content: space-between; align-items: center; width: 100%; max-width: 900px; margin: auto; gap: 20px;">
     <img
       align="center"
-      style="height: auto; max-height: 180px; width: 100%; max-width: 400px; flex: 1;"
+      style="flex: 1; max-height: 170px; width: 50%; object-fit: contain;"
       src="https://github-readme-stats.vercel.app/api?username=Daehyun-Bigbread&show_icons=true&include_all_commits=true&theme=nord&hide_border=true"
       alt="GitHub Stats"
     />
     <img
       align="center"
-      style="height: auto; max-height: 180px; width: 100%; max-width: 400px; flex: 1;"
+      style="flex: 1; max-height: 170px; width: 50%; object-fit: contain;"
       src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kdh1834"
       alt="Solved.ac Profile"
     />
