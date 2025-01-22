@@ -53,7 +53,7 @@
 >
 > 🧑‍💻 **Google Developer Groups, GDG Campus Korea**  
 > 2025.01. ~ present.
-> Organizer
+> Community Organizer
 > 
 > ⛅️ **KakaoTech Bootcamp 1st (in Pangyo)**  
 > 2024.07. ~ 2024.12.  
