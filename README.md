@@ -51,13 +51,13 @@
 > 2017.10.
 > Engineering Tech | Visiting Student
 >
+> > 🧑‍💻 **Google Developer Groups, GDG Campus Korea**  
+> 2025.01. ~ present.
+> Organizer
+> 
 > ⛅️ **KakaoTech Bootcamp 1st (in Pangyo)**  
 > 2024.07. ~ 2024.12.  
 > Gen AI Process | AI Model & Data Pipeline Construction, API Development
-> 
-> 🧑‍💻 **Google Developer Groups Korea, GDG Campus Korea**  
-> 2025.01. ~ present.
-> Organizer
 >
 > 🐤 **Moduai Lab (MODULABS)**  
 > 2024.03. ~ 2024.11.  
