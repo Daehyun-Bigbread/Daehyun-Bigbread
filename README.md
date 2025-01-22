@@ -51,7 +51,7 @@
 > 2017.10.
 > Engineering Tech | Visiting Student
 >
-> > 🧑‍💻 **Google Developer Groups, GDG Campus Korea**  
+> 🧑‍💻 **Google Developer Groups, GDG Campus Korea**  
 > 2025.01. ~ present.
 > Organizer
 > 
