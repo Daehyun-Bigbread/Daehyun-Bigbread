@@ -47,10 +47,6 @@
 > 2020.03. ~ Present  
 > Major: Computer Engineering | Minor: Data Science  
 >
-> 🎓 **Griffith University (Gold Coast Campus)**  
-> 2017.10.
-> Engineering Tech | Visiting Student
->
 > 🧑‍💻 **Google Developer Groups, GDG Campus Korea**  
 > 2025.01. ~ present | Community Organizer
 > 
