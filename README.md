@@ -131,7 +131,7 @@
         <tr>
           <td>Predicting Actual Transaction Prices of Top 5 Korea Apartment Brands Using ML</td>
           <td>부동산 매매 데이터, 경제지표 수집 & One-Hot Encoding 을 이용한 모델 성능 평가</td>
-          <td>2023.09 ~ 2024.12</td>
+          <td>2023.09 ~ 2023.12</td>
           <td>한국외국어대학교 경상대학, 데이터분석학회 DAT</td>
         </tr>
     </table>
