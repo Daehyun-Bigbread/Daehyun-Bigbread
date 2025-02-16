@@ -213,7 +213,7 @@
         <td>Google Developers Group</td>
         <td>Organizer, Staff</td>
         <td>2024 ~ Present</td>
-        <td>GopherCon Korea 2024 Organizer (GDG Golang Korea), Speaker Management, Build with AI (GDG Campus Korea) Staff</td>
+        <td>GDG Campus Korea Organizer (2025~), GopherCon Korea 2024 Organizer (GDG Golang Korea), Speaker Management</td>
       </tr>
       <tr>
         <td>PyCon 2024</td>
@@ -255,7 +255,7 @@
         <td>Passion & Pioneer Academic Society of Computer Engineering (PnP)</td>
         <td>Organizer</td>
         <td>2020 ~ Present</td>
-        <td>Led AI study team (2023 ~ 2024.02), participated in AI and Data Science study groups (2020 ~ 2021)</td>
+        <td> Cheif Operating Officer (2024.03 ~ present), Lead AI study team (2023 ~ 2024.02), AI & DS study (2020 ~ 2021)</td>
       </tr>
     </tbody>
   </table>
