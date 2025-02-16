@@ -165,7 +165,7 @@
         <td>Best-paper Award (Best 논문상)</td>
         <td>NCAEIC-2023 (ICT-AES, KSF)</td>
         <td>2023.11.30 ~ 2023.12.02</td>
-        <td>Hotel The One, Jeju Island, Korea</td>
+        <td>Hotel The One, Jeju Island, Korea. for "Investing Mapping 101: Visualization of the Industry through Keywords & Sensitivity Analysis"</td>
       </tr>
       <tr>
         <td>Excellence Award (우수상, 3rd)</td>
