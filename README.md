@@ -152,7 +152,7 @@
       <tr>
         <td>2nd Award (최우수상)</td>
         <td>Kakaotech BootCamp [Kakao Corp. x Goorm]</td>
-        <td>2024.02.23</td>
+        <td>2024.12.13</td>
         <td>AWS 부하테스트 대회 토너먼트 </td>
       </tr>
       <tr>
