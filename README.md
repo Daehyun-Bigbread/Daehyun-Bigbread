@@ -308,14 +308,15 @@
                     <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white" alt="AWS">
                     <img src="https://img.shields.io/badge/Amazon%20IAM-DD344C?style=flat&logo=amazoniam&logoColor=white" alt="Amazon IAM">
                     <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=flat&logo=AmazonEC2&logoColor=white" alt="Amazon EC2">
+                    <img src="https://img.shields.io/badge/Amazon%20ECS-FF9900?style=flat&logo=AmazonECS&logoColor=white" alt="Amazon ECS">
                     <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=flat&logo=AmazonS3&logoColor=white" alt="Amazon S3">
                     <img src="https://img.shields.io/badge/Amazon%20RDS-527FFF?style=flat&logo=AmazonRDS&logoColor=white" alt="Amazon RDS">
                     <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=black" alt="Linux">
-                    <img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=Google%20Cloud&logoColor=white" alt="Google Cloud Platform">
                     <img src="https://img.shields.io/badge/Sentry-FF6500?style=flat&logo=Sentry&logoColor=white" alt="Sentry">
                     <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white" alt="MongoDB">
                     <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white" alt="Git">
                     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" alt="GitHub">
+                    <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white" alt="GitHub Actions">
                 </td>
             </tr>
             <tr>
