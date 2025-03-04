@@ -315,6 +315,8 @@
                     <img src="https://img.shields.io/badge/Sentry-FF6500?style=flat&logo=Sentry&logoColor=white" alt="Sentry">
                     <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white" alt="MongoDB">
                     <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white" alt="Git">
+                    <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=Prometheus&logoColor=white" alt="Prometheus">
+                    <img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=Grafana&logoColor=white" alt="Grafana">
                     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" alt="GitHub">
                     <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white" alt="GitHub Actions">
                 </td>
