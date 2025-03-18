@@ -322,16 +322,6 @@
                 </td>
             </tr>
             <tr>
-                <td>FE</td>
-                <td>
-                    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" alt="HTML5">
-                    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" alt="CSS3">
-                    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black" alt="JavaScript">
-                    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" alt="React">
-                    <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white" alt="Figma">
-                </td>
-            </tr>
-            <tr>
                 <td>etc</td>
                 <td>
                     <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" alt="Notion">
@@ -339,7 +329,8 @@
                     <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white" alt="Jira">
                     <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white" alt="Slack">
                     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white" alt="Gmail">
-                     <img src="https://img.shields.io/badge/canva-00C4CC?style=flat&logo=Canva&logoColor=white" alt="Canva">
+                    <img src="https://img.shields.io/badge/canva-00C4CC?style=flat&logo=Canva&logoColor=white" alt="Canva">
+                    <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white" alt="Figma">
                     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white" alt="LinkedIn">
                     <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=Markdown&logoColor=white" alt="Markdown">
                     <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white" alt="Arduino">
