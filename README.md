@@ -287,7 +287,6 @@
                 <td>
                     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" alt="Python">
                     <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=FastAPI&logoColor=white" alt="FastAPI">
-                    <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white" alt="Flask">
                     <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=Anaconda&logoColor=white" alt="Anaconda">
                     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white" alt="PyTorch">
                     <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white" alt="OpenCV">
