@@ -74,6 +74,17 @@
         </tr>
         <tr>
           <td>
+            <a href="https://github.com/Trinity-goorm" target="_blank">
+              "Catch-Ping" 개인 사용자 맞춤형 스마트 다이닝 플랫폼
+            </a>
+          </td>
+          <td>식당 추천시스템 개발 (AI) & Infra 설계, 구축 (AWS)</td>
+          <td>2025.01 ~ 2025.04</td>
+          <td>goorm (프로펙트 풀스택 프로젝트 과정 1회차)</td>
+        </tr>
+        </tr>
+        <tr>
+          <td>
             <a href="https://github.com/KakaoTech-14-All-in-one-move" target="_blank">
               "Pitching" AI 기반 실시간 발표 피드백 & 커뮤니케이션 플랫폼
             </a>
