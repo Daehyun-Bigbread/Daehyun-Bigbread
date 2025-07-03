@@ -44,8 +44,8 @@
 ### 🌱 Career
 
 > 🛍️ **Kakaostyle (Zigzag)**  
-> 2025.07. ~ present
-> Search Recommendation Exhibition Manager (Data Quality Management)
+> 2025.07. ~ 2025.12.  
+> Search Recommendation Exhibition Team | Data Quality Manager
 > 
 > 🎓 **Hankuk University of Foreign Studies (HUFS)**  
 > 2020.03. ~ Present  
