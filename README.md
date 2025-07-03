@@ -56,10 +56,6 @@
 > ⛅️ **KakaoTech Bootcamp 1st (in Pangyo)**  
 > 2024.07. ~ 2024.12.  
 > Gen AI Process | AI Model & Data Pipeline Construction, API Development
->
-> 🐤 **Moduai Lab (MODULABS)**  
-> 2024.03. ~ 2024.11.  
-> Researcher | Medical Moe & Multimodal (VLM)
 > 
 > 🤖 **JRC Company**  
 > 2016.12. ~ 2018.07.  
