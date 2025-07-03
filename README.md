@@ -43,6 +43,9 @@
 
 ### 🌱 Career
 
+> 🛍️ **kakaostyle (Zigzag)**  
+> 2025.07. ~ present | Data Quality Manager
+> 
 > 🎓 **Hankuk University of Foreign Studies (HUFS)**  
 > 2020.03. ~ Present  
 > Major: Computer Engineering | Minor: Data Science  
