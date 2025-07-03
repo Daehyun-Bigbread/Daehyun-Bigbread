@@ -44,7 +44,7 @@
 ### 🌱 Career
 
 > 🛍️ **Kakaostyle (Zigzag)**  
-> 2025.07. ~ 2025.12.  
+> 2025.07. ~ Present.  
 > Search Recommendation Exhibition Team | Data Quality Manager
 > 
 > 🎓 **Hankuk University of Foreign Studies (HUFS)**  
