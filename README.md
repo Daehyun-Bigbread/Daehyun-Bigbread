@@ -22,10 +22,6 @@
     <img src="https://img.shields.io/badge/kakao tech bootcamp-FEE500?style=flat&logo=kakao&logoColor=black" alt="kakao" height="21">
   <br />
   <br />
-  
-  <!-- 헤더 이미지 -->
-  ![github_header](https://github.com/user-attachments/assets/189b1620-cdde-4092-b39d-7dafec277b36)
-
 
 </div>
 
