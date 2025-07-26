@@ -131,6 +131,79 @@
 </div>
 
 <details>
+  <summary><h3> ⭐ Activities</h3></summary>
+  <div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th>Organization/Team</th>
+        <th>Position</th>
+        <th>Duration</th>
+        <th>Key Activities/Contributions</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Google Developers Group</td>
+        <td>Organizer</td>
+        <td>2025 ~ Present</td>
+        <td>GDG Campus Korea Organizer</td>
+      </tr>
+      <tr>
+        <td>AUSG (AWSKRUG University Student Group)</td>
+        <td>9th Member</td>
+        <td>2025 ~ Present</td>
+        <td>AWS, Cloud</td>
+      </tr>
+      <td>AUSGCON 2025 : GROWTH</td>
+        <td>Speaker</td>
+        <td>2025.09</td>
+        <td>Topic: TBD</td>
+      <tr>
+      <td>PyCon Korea 2025</td>
+        <td>Speaker</td>
+        <td>2025.08</td>
+        <td>Topic: "VLM, let's meet LLM with eyes!"</td>
+      <tr>
+        <td>PyCon Korea 2024</td>
+        <td>Speaker</td>
+        <td>2024.10</td>
+        <td>
+          <a href="https://youtu.be/pCO04CtCl6c?si=-N4Ls5BJeDuAHebr" target="_blank">
+            Topic: "Analyzing Financial Data with AI & Python using NLP"
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td>YOUTHCON'24</td>
+        <td>Speaker</td>
+        <td>2024.08</td>
+        <td>Topic: "Growth from Reckless Challenges"</td>
+      </tr>
+      <tr>
+        <td>SW/AI University Global Talent Training Program</td>
+        <td>Participant</td>
+        <td>2023.11</td>
+        <td>Training programs in Nanyang Technical University, National University of Singapore, Hanoi University of Science and Technology</td>
+      </tr>
+      <tr>
+        <td>DAT (Data Analysis Academy)</td>
+        <td>ML Team</td>
+        <td>2023.09 ~ 2023.12</td>
+        <td>Capstone project: Predicting transaction prices of top 5 Korean apartment brands using ML</td>
+      </tr>
+      <tr>
+        <td>Passion & Pioneer Academic Society of Computer Engineering (PnP)</td>
+        <td>Organizer</td>
+        <td>2020 ~ Present</td>
+        <td>Cheif Operating Officer (2024.03 ~ 2025.07), AI team Lead (2023 ~ 2024.02), Cloud Squad Lead (2025.03 ~ )</td>
+      </tr>
+    </tbody>
+  </table>
+
+</details>
+
+<details>
   <summary><h3>🏆 Awards</h3></summary>
   <table>
     <thead>
@@ -183,82 +256,6 @@
         <td>The 4th Australian Robotics Challenge (Griffith University, Google Australia, Australia Robotics Association)</td>
         <td>2017.10.26 ~ 2017.10.27</td>
         <td>Griffith University Gold Coast Campus, Brisbane, Australia</td>
-      </tr>
-    </tbody>
-  </table>
-
-</details>
-
-<details>
-  <summary><h3> ⭐ Activities</h3></summary>
-  <div align="center">
-  <table>
-    <thead>
-      <tr>
-        <th>Organization/Team</th>
-        <th>Position</th>
-        <th>Duration</th>
-        <th>Key Activities/Contributions</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>Google Developers Group</td>
-        <td>Organizer</td>
-        <td>2025 ~ Present</td>
-        <td>GDG Campus Korea Organizer</td>
-      </tr>
-      <tr>
-        <td>AUSG (AWSKRUG University Student Group)</td>
-        <td>9th Member</td>
-        <td>2025 ~ Present</td>
-        <td>AWS, Cloud</td>
-      </tr>
-      <tr>
-        <td>PyCon 2024</td>
-        <td>Speaker</td>
-        <td>2024.10</td>
-        <td>
-          <a href="https://youtu.be/pCO04CtCl6c?si=-N4Ls5BJeDuAHebr" target="_blank">
-            Topic: "Analyzing Financial Data with AI & Python using NLP"
-          </a>
-        </td>
-      </tr>
-      <tr>
-        <td>YOUTHCON'24</td>
-        <td>Speaker</td>
-        <td>2024.08</td>
-        <td>Topic: "Growth from Reckless Challenges"</td>
-      </tr>
-      <tr>
-        <td>ICT-Advanced Engineering Society (ICT-AES)</td>
-        <td>Participant (Member)</td>
-        <td>2023.12</td>
-        <td>National Conference on Advanced Engineering and ICT-Convergence (NCAEIC-2023)</td>
-      </tr>
-      <tr>
-        <td>SW/AI University Global Talent Training Program</td>
-        <td>Participant</td>
-        <td>2023.11</td>
-        <td>Training programs in Nanyang Technical University, National University of Singapore, Hanoi University of Science and Technology</td>
-      </tr>
-      <tr>
-        <td>DAT (Data Analysis Academy)</td>
-        <td>ML Team Member</td>
-        <td>2023.09 ~ 2023.12</td>
-        <td>Capstone project: Predicting transaction prices of top 5 Korean apartment brands using ML</td>
-      </tr>
-      <tr>
-        <td>Team FindAlpha</td>
-        <td>Member</td>
-        <td>2023.06 ~ 2023.08</td>
-        <td>Deep learning NLP projects, participated in "Mapping 101 Service" development with Ministry of Science, ICT & Kdata</td>
-      </tr>
-      <tr>
-        <td>Passion & Pioneer Academic Society of Computer Engineering (PnP)</td>
-        <td>Organizer</td>
-        <td>2020 ~ Present</td>
-        <td> Cheif Operating Officer (2024.03 ~ present), Lead AI study team (2023 ~ 2024.02), AI & DS study (2020 ~ 2021)</td>
       </tr>
     </tbody>
   </table>
