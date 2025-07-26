@@ -206,13 +206,17 @@
         <td>Google Developers Group</td>
         <td>Organizer, Staff</td>
         <td>2024 ~ Present</td>
-        <td>GDG Campus Korea Organizer (2025~), GopherCon Korea 2024 Organizer (GDG Golang Korea), Speaker Management</td>
+        <td>GDG Campus Korea Organizer (2025~)</td>
       </tr>
       <tr>
         <td>PyCon 2024</td>
         <td>Speaker</td>
         <td>2024.10</td>
-        <td>Topic: "Analyzing Financial Data with AI & Python using NLP"</td>
+        <td>
+          <a href="https://youtu.be/pCO04CtCl6c?si=-N4Ls5BJeDuAHebr" target="_blank">
+            Topic: "Analyzing Financial Data with AI & Python using NLP"
+          </a>
+        </td>
       </tr>
       <tr>
         <td>YOUTHCON'24</td>
