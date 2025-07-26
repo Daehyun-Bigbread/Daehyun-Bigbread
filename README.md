@@ -204,9 +204,15 @@
     <tbody>
       <tr>
         <td>Google Developers Group</td>
-        <td>Organizer, Staff</td>
-        <td>2024 ~ Present</td>
-        <td>GDG Campus Korea Organizer (2025~)</td>
+        <td>Organizer</td>
+        <td>2025 ~ Present</td>
+        <td>GDG Campus Korea Organizer</td>
+      </tr>
+      <tr>
+        <td>AUSG (AWSKRUG University Student Group)</td>
+        <td>9th Member</td>
+        <td>2025 ~ Present</td>
+        <td>AWS, Cloud</td>
       </tr>
       <tr>
         <td>PyCon 2024</td>
