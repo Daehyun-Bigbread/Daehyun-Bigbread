@@ -67,7 +67,7 @@
         </tr>
         <tr>
           <td>
-            <a href="https://github.com/KakaoTech-14-All-in-one-move" target="_blank">
+            <a href="https://github.com/All-in-one-move" target="_blank">
               "Pitching" AI 기반 실시간 발표 피드백 & 커뮤니케이션 플랫폼
             </a>
           </td>
