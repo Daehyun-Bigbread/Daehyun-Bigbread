@@ -25,7 +25,7 @@
 
 ### 🌱 Career
 
-> 🛍️ **Kakaostyle (Zigzag)**  
+> 🛍️ **Kakaostyle (카카오스타일)**  
 > 2025.07. ~ Present.  
 > Data Quality Manager | Search Recommendation Exhibition DQ Part (Vision & NLP)
 > 
