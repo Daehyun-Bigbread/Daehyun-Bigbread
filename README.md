@@ -27,7 +27,7 @@
 
 > 🛍️ **Kakaostyle (Zigzag)**  
 > 2025.07. ~ Present.  
-> Search Recommendation Exhibition Team | Data Quality Manager (Intern)
+> Data Quality Manager | Search Recommendation Exhibition DQ Part (Vision & NLP)
 > 
 > 🎓 **Hankuk University of Foreign Studies (HUFS)**  
 > 2020.03. ~ Present  
