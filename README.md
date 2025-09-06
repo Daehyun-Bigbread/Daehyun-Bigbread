@@ -27,7 +27,7 @@
 
 > 🛍️ **Kakaostyle (카카오스타일)**  
 > 2025.07. ~ Present.  
-> Data Quality Manager | Search Recommendation Exhibition (Vision & NLP)
+> Data Quality Assurance | Vision & NLP Part.
 > 
 > 🎓 **Hankuk University of Foreign Studies (HUFS)**  
 > 2020.03. ~ Present  
