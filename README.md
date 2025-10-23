@@ -27,7 +27,7 @@
 
 > 🛍️ **Kakaostyle (카카오스타일)**  
 > 2025.07. ~ 2025.10.  
-> Data Quality Assurance (Intern)| Vision & NLP Part.
+> Data Quality Assurance (Intern) | Vision & NLP Part.
 > 
 > 🎓 **Hankuk University of Foreign Studies (HUFS)**  
 > 2020.03. ~ Present  
