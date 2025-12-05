@@ -5,6 +5,7 @@
 <div align="left">
   
 ## ⚾ About me!
+> <a href="https://youtu.be/d8y3QCiI4_0?si=axVAwCLtrK_l1eDF" target="blank"> 🎶 Maxx Power & Carte Blanq -  Checo (Sergio Perez) 🏎 💨
 
   <!-- 소셜 배지들 -->
   <a href="https://www.instagram.com/developer._.toby/" target="_blank">
@@ -22,6 +23,7 @@
     <img src="https://img.shields.io/badge/kakao tech bootcamp-FEE500?style=flat&logo=kakao&logoColor=black" alt="kakao" height="21">
   <br />
   <br />
+  
 
 ### 🌱 Career
 
