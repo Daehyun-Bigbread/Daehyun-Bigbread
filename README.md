@@ -22,8 +22,6 @@
   </a>
     <img src="https://img.shields.io/badge/kakao tech bootcamp-FEE500?style=flat&logo=kakao&logoColor=black" alt="kakao" height="21">
   <br />
-  <br />
-  
 
 ### 🌱 Career
 
