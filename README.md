@@ -31,13 +31,13 @@
 > 2025.07. ~ 2025.10.  
 > Data Quality Assurance | Vision & NLP Part.
 > 
+> 🧑‍💻 **Google Developer Groups, GDG Campus Korea**  
+> 2025.01. ~ present | Community Organizer
+> 
 > 🎓 **Hankuk University of Foreign Studies (HUFS)**  
 > 2020.03. ~ Present  
 > Major: Computer Engineering | Minor: Data Science  
 >
-> 🧑‍💻 **Google Developer Groups, GDG Campus Korea**  
-> 2025.01. ~ present | Community Organizer
-> 
 > ⛅️ **KakaoTech Bootcamp 1st (in Pangyo)**  
 > 2024.07. ~ 2024.12.  
 > Gen AI Process | AI Model & Data Pipeline Construction, API Development
