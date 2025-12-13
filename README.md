@@ -106,8 +106,15 @@
           <td>과학기술정보통신부, 한국데이터산업진흥원, 한국외국어대학교</td>
         </tr>
         <tr>
+          <td>Design and Implementation of a Parallel Multimodal Input-Based Behavior Feedback System for Online Presentation Behavior Analysis</td>
+          <td>Fisrt Author, Korea Software Congress 2025 (KSC2025) </td>
+          <td>2025.10 ~ 2025.12</td>
+          <td>KSC2025 at Yeosu Expo Convention Center, Yeosu, Korea Republic (Dec.16-Dec.19, 2025)</td>
+        </tr>
+        <tr>
           <td>Visualization of the Industry Through Keywords & Sensitivity Analysis</td>
-          <td>논문 1저자로 발표 (NCAEIC-2023)</td>
+          <td>Fisrt Author, National Conference on Advanced Engineering and ICT-Convergence
+(NCAEIC 2023) </td>
           <td>2023.10 ~ 2023.12</td>
           <td>ICT-AES & KSF at Hotel The One, Jeju Island, Korea Republic (Nov.30-Dec.2, 2023)</td>
         </tr>
