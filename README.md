@@ -29,8 +29,6 @@ Passionate about leveraging AI & Data to unlock new possibilities & create a bet
 > 🤖 **JRC Company**  
 > 2016.12. ~ 2018.07.  
 > Robotics Engineer | Arduino, circuit design and fabrication, Part Modeling
----
-
 <div align="left">
   <details>
     <summary><h4>📋 Projects & Research</h4></summary>
@@ -173,7 +171,6 @@ Passionate about leveraging AI & Data to unlock new possibilities & create a bet
       </tr>
     </tbody>
   </table>
-
 </details>
 
 <details>
@@ -232,18 +229,16 @@ Passionate about leveraging AI & Data to unlock new possibilities & create a bet
       </tr>
     </tbody>
   </table>
-
 </details>
 
 <details>
   <summary><h4>📝 Papers</h4></summary>
-
+  
   - "Investing Mapping 101: Visualization of the Industry through Keywords & Sensitivity Analysis" - National Conference on Advanced Engineering and ICT-Convergence 2023 (NCAEIC-2023), organized by ICT-AES and KSF at Hotel The One, Jeju Island, Korea Republic (Nov. 30 - Dec. 2, 2023)
   - "Predicting Actual Transaction Prices of Top 5 Korea Apartment Brands Using ML" - Conference Capstone Project Presentation, organized by HUFS Data Analysis Academy DAT, HUFS School of Economics and Business (Dec. 07, 2023)
 
 </details>
 
----
 
 ### 🖥️ Skills
 
