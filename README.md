@@ -46,7 +46,8 @@
 ---
 
 <div align="left">
-    <h3>📋 Projects & Research</h3>
+  <details>
+    <summary><h3>📋 Projects & Research</h3></summary>
     <table>
         <tr>
             <th>Name</th>
@@ -119,6 +120,7 @@
           <td>ICT-AES & KSF at Hotel The One, Jeju Island, Korea Republic (Nov.30-Dec.2, 2023)</td>
         </tr>
     </table>
+    </details>
 </div>
 
 <details>
