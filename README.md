@@ -27,7 +27,7 @@
 
 > 🛍️ **Kakaostyle (카카오스타일)**  
 > 2025.07. ~ 2025.10.  
-> Data Quality Assurance | Vision & NLP Part.
+> Data Quality Assurance (Vision & NLP) | Data Construction, validate & evaluation for improving data quality of Zigzag Recommendation Model.
 > 
 > 🧑‍💻 **Google Developer Groups, GDG Campus Korea**  
 > 2025.01. ~ present | Community Organizer
