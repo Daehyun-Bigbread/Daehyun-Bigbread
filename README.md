@@ -7,21 +7,7 @@
 ## ⚾ About me!
 > <a href="https://youtu.be/d8y3QCiI4_0?si=axVAwCLtrK_l1eDF" target="blank"> 🎶 Maxx Power & Carte Blanq -  Checo (Sergio Perez) 🏁 🏎 💨
 
-  <!-- 소셜 배지들 -->
-  <a href="https://www.instagram.com/developer._.toby/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23000000?style=flat&logo=instagram&logoColor=white&color=dd2a7b" alt="Instagram" />
-  </a>
-  <a href="https://www.linkedin.com/in/daehyun-kim-b6336b291/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.notion.so/bigbread-1129/Hello-I-m-Daehyun-ad5c33377ba74550b94293fd32c7c6d9?pvs=4">
-    <img src="https://img.shields.io/badge/Notion-%23000000?style=flat&logo=notion&logoColor=white" alt="Notion" />
-  </a>
-  <a href="https://daehyun-bigbread.tistory.com">
-    <img src="https://img.shields.io/badge/Tistory-ff5544?style=flat&logo=tistory&logoColor=white" alt="Tistory" />
-  </a>
-    <img src="https://img.shields.io/badge/kakao tech bootcamp-FEE500?style=flat&logo=kakao&logoColor=black" alt="kakao" height="21">
-  <br />
+Passionate about leveraging AI & Data to unlock new possibilities & create a better, more connected world.
 
 ### 🌱 Career
 
