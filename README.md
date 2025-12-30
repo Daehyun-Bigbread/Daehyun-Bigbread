@@ -11,7 +11,7 @@ Passionate about leveraging AI & Data to unlock new possibilities & create a bet
 
 ### 🌱 Career
 
-> 🛍️ **Kakaostyle (카카오스타일)**  
+> 🛍️ **Kakaostyle (카카오스타일, @croquiscom)**  
 > 2025.07. ~ 2025.10.  
 > Data Quality Assurance (Vision & NLP) | Data Construction, validate & evaluation for improving data quality of Zigzag Recommendation Model.
 > 
