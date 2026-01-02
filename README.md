@@ -25,10 +25,6 @@ Passionate about leveraging AI & Data to unlock new possibilities & create a bet
 > ⛅️ **KakaoTech Bootcamp 1st (in Pangyo)**  
 > 2024.07. ~ 2024.12.  
 > Gen AI Process | AI Model & Data Pipeline Construction, API Development
-> 
-> 🤖 **JRC Company**  
-> 2016.12. ~ 2018.07.  
-> Robotics Engineer | Arduino, circuit design and fabrication, Part Modeling
 <div align="left">
   <details>
     <summary><h4>📋 Projects & Research</h4></summary>
