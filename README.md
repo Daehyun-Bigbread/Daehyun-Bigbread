@@ -20,11 +20,11 @@ Passionate about leveraging AI & Data to unlock new possibilities & create a bet
 > 
 > 🎓 **Hankuk University of Foreign Studies (HUFS)**  
 > 2020.03. ~ Present  
-> Major: Computer Engineering | Minor: Data Science  
+> Computer Engineering, Data Science (Minor)
 >
-> ⛅️ **KakaoTech Bootcamp 1st (in Pangyo)**  
+> ⛅️ **Kakaotech Bootcamp 1st (Pangyo, kakao corp)**  
 > 2024.07. ~ 2024.12.  
-> Gen AI Process | AI Model & Data Pipeline Construction, API Development
+> Generative AI | AI Model & Data Pipeline Construction, API Development
 
 ## 👀 Interests
 ☁️ Cloud Native & Machine Learning (LLM, RAG)<br/>
