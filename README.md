@@ -200,8 +200,9 @@ Passionate about leveraging AI & Data to unlock new possibilities & create a bet
 <details>
   <summary><h4>📝 Papers</h4></summary>
   
-  - "Investing Mapping 101: Visualization of the Industry through Keywords & Sensitivity Analysis" - National Conference on Advanced Engineering and ICT-Convergence 2023 (NCAEIC-2023), organized by ICT-AES and KSF at Hotel The One, Jeju Island, Korea Republic (Nov. 30 - Dec. 2, 2023)
-  - "Predicting Actual Transaction Prices of Top 5 Korea Apartment Brands Using ML" - Conference Capstone Project Presentation, organized by HUFS Data Analysis Academy DAT, HUFS School of Economics and Business (Dec. 07, 2023)
+- **"Design and Implementation of a Parallel Multimodal Input-Based Behavior Feedback System for Online Presentation Behavior Analysis"** - Korea Software Congress 2025 (KSC2025), organized by Korean Institute of Information Science and Engineers, Yeosu, Korea Republic (Dec. 16 - Dec. 19, 2025)
+- **"Investing Mapping 101: Visualization of the Industry through Keywords & Sensitivity Analysis"** - National Conference on Advanced Engineering and ICT-Convergence 2023 (NCAEIC-2023), organized by ICT-AES and KSF at Hotel The One, Jeju Island, Korea Republic (Nov. 30 - Dec. 2, 2023)
+- **"Predicting Actual Transaction Prices of Top 5 Korea Apartment Brands Using ML"** - Conference Capstone Project Presentation, organized by HUFS Data Analysis Academy DAT, HUFS School of Economics and Business (Dec. 07, 2023)
 
 </details>
 
