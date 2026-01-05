@@ -43,7 +43,7 @@ Passionate about leveraging AI & Data to unlock new possibilities & create a bet
 
   
 ### ⭐ Activities
-| Presentation | Date | etc |
+| Session | Date | etc |
 | ------------ | ------------- | ------------- |
 | 우리가 성장하는 방법. Code, Grow, Connect with 커뮤니티 (AUSGCON 2025 : GROWTH) | 25.09.13. | [Intro Page](https://2025.ausg.me/) |
 | VLM, 눈 달린 LLM을 만나보자! (Pycon Korea 2025) | 25.08.16. | [Session Page](https://2025.pycon.kr/presentations/ae847a02-4470-42a8-a383-9fed6bbdedda#VLM-%EB%88%88-%EB%8B%AC%EB%A6%B0-LLM%EC%9D%84-%EB%A7%8C%EB%82%98%EB%B3%B4%EC%9E%90) |
