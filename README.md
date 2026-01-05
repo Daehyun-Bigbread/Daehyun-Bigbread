@@ -54,7 +54,6 @@ Passionate about leveraging AI & Data to unlock new possibilities & create a bet
 | Club | Desc. | Role | Period |
 | ------------ | ------------- | ------------- | ------------- |
 | **[AUSG](https://2025.ausg.me/)** | AWS(AWSKRUG) Community for Student Developers | 9th Member | 2025.08 ~ |
-| **[BOAZ](https://www.bigdataboaz.com/)** | Study & Project Association Club on Big Data | 26th Member (DE) | 2026.01 ~ |
 | **[LG Aimers](https://www.lgaimers.ai/)** | LG Group's AI Expert Training Program | 8th Member | 2026.01 ~ |
 | **[PnP](https://hufs-pnp.github.io/)** | Academic Club of Computer Engineering in HUFS | Regulator (ML, Cloud) | 2020.03 ~ 2025.11 |
 
