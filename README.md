@@ -42,6 +42,7 @@ Passionate about leveraging AI & Data to unlock new possibilities & create a bet
 | **☁️ Cloud & Infra** | <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white" alt="Docker"> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white" alt="AWS"> <img src="https://img.shields.io/badge/Sentry-FF6500?style=flat&logo=Sentry&logoColor=white" alt="Sentry"> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white" alt="MongoDB"> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white" alt="Git"> <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=Prometheus&logoColor=white" alt="Prometheus"> <img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=Grafana&logoColor=white" alt="Grafana"> <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white" alt="GitHub Actions"> |
 | **🧩 Tools** | <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" alt="Notion"> <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white" alt="Jira"> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white" alt="Slack"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white" alt="Figma"> <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=Markdown&logoColor=white" alt="Markdown"> |
 </div>
+
   
 ### ⭐ Activities
 | Presentation | Date | etc |
@@ -59,8 +60,8 @@ Passionate about leveraging AI & Data to unlock new possibilities & create a bet
 | **[LG Aimers](https://www.lgaimers.ai/)** | LG Group's AI Expert Training Program | 8th Member | 2026.01 ~ |
 | **[PnP](https://hufs-pnp.github.io/)** | Academic Club of Computer Engineering in HUFS | Regulator (ML, Cloud) | 2020.03 ~ 2025.11 |
 
-  <div align="left">
 
+<div align="left">
 
   <details>
     <summary><h4>📋 Projects & Research</h4></summary>
@@ -139,6 +140,8 @@ Passionate about leveraging AI & Data to unlock new possibilities & create a bet
     </details>
 </div>
 
+<div align="left">
+
 <details>
   <summary><h4>🏆 Awards</h4></summary>
   <table>
@@ -196,6 +199,8 @@ Passionate about leveraging AI & Data to unlock new possibilities & create a bet
     </tbody>
   </table>
 </details>
+
+<div align="left">
 
 <details>
   <summary><h4>📝 Papers</h4></summary>
