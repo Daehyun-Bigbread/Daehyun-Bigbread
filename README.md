@@ -33,56 +33,35 @@ Passionate about leveraging AI & Data to unlock new possibilities & create a bet
 🙏 believe data makes new possibilities<br/>
 
 
-<div align="left">
-
-   <table>
-        <tbody>
-            <tr>
-                <td>AI & BE</td>
-                <td>
-                    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" alt="Python">
-                    <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=FastAPI&logoColor=white" alt="FastAPI">
-                    <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=Anaconda&logoColor=white" alt="Anaconda">
-                    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white" alt="PyTorch">
-                    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white" alt="OpenCV">
-                    <img src="https://img.shields.io/badge/Mediapipe-0085CA?style=flat&logo=Mediapipe&logoColor=white" alt="Mediapipe">
-                    <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
-                    <img src="https://img.shields.io/badge/Langchain-1C3C3C?style=flat&logo=langchain&logoColor=white" alt="langchain">
-                  <img src="https://img.shields.io/badge/MLflow-1C3C3C?style=flat&logo=mlflow&logoColor=white" alt="MLflow">
-                  <img src="https://img.shields.io/badge/Amazon_SageMaker-1C3C3C?style=flat&logo=amazon-aws&logoColor=white" alt="Amazon SageMaker">
-                </td>
-            </tr>
-            <tr>
-                <td>Cloud & Infra</td>
-                <td>
-                    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white" alt="Docker">
-                    <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white" alt="AWS">
-                    <img src="https://img.shields.io/badge/Sentry-FF6500?style=flat&logo=Sentry&logoColor=white" alt="Sentry">
-                    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white" alt="MongoDB">
-                    <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white" alt="Git">
-                    <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=Prometheus&logoColor=white" alt="Prometheus">
-                    <img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=Grafana&logoColor=white" alt="Grafana">
-                    <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white" alt="GitHub Actions">
-                </td>
-            </tr>
-            <tr>
-                <td>etc</td>
-                <td>
-                    <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" alt="Notion">
-                    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white" alt="Discord">
-                    <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white" alt="Jira">
-                    <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white" alt="Slack">
-                    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white" alt="Gmail">
-                    <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white" alt="Figma">
-                    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white" alt="LinkedIn">
-                    <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=Markdown&logoColor=white" alt="Markdown">
-                </td>
-            </tr>
-        </tbody>
-    </table>
+<div align="center">
 
 
-<div align="left">
+| Category | Stacks |
+| :-- | :-- |
+| **🤖 AI & BE** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=FastAPI&logoColor=white" alt="FastAPI"> <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=Anaconda&logoColor=white" alt="Anaconda"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white" alt="PyTorch"> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white" alt="OpenCV"> <img src="https://img.shields.io/badge/Mediapipe-0085CA?style=flat&logo=Mediapipe&logoColor=white" alt="Mediapipe"> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit-learn"> <img src="https://img.shields.io/badge/Langchain-1C3C3C?style=flat&logo=langchain&logoColor=white" alt="langchain"> <img src="https://img.shields.io/badge/MLflow-1C3C3C?style=flat&logo=mlflow&logoColor=white" alt="MLflow"> <img src="https://img.shields.io/badge/Amazon_SageMaker-1C3C3C?style=flat&logo=amazon-aws&logoColor=white" alt="Amazon SageMaker"> |
+| **☁️ Cloud & Infra** | <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white" alt="Docker"> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white" alt="AWS"> <img src="https://img.shields.io/badge/Sentry-FF6500?style=flat&logo=Sentry&logoColor=white" alt="Sentry"> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white" alt="MongoDB"> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white" alt="Git"> <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=Prometheus&logoColor=white" alt="Prometheus"> <img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=Grafana&logoColor=white" alt="Grafana"> <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white" alt="GitHub Actions"> |
+| **🧩 Tools** | <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" alt="Notion"> <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white" alt="Discord"> <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white" alt="Jira"> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white" alt="Slack"> <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white" alt="Gmail"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white" alt="Figma"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white" alt="LinkedIn"> <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=Markdown&logoColor=white" alt="Markdown"> |
+</div>
+  
+### ⭐ Activities
+| Presentation | Date | etc |
+| ------------ | ------------- | ------------- |
+| 우리가 성장하는 방법. Code, Grow, Connect with 커뮤니티 (AUSGCON 2025 : GROWTH) | 25.09.13. | [Intro Page](https://2025.ausg.me/) |
+| VLM, 눈 달린 LLM을 만나보자! (Pycon Korea 2025) | 25.08.16. | [Session Page](https://2025.pycon.kr/presentations/ae847a02-4470-42a8-a383-9fed6bbdedda#VLM-%EB%88%88-%EB%8B%AC%EB%A6%B0-LLM%EC%9D%84-%EB%A7%8C%EB%82%98%EB%B3%B4%EC%9E%90) |
+| 참견도 능력이다. 제너럴 엔지니어가 각광받는 개발 세상 (GDGoC HUFS, Invitation Session) | 25.07.28. | [Youtube](https://youtu.be/6CyBTNfWmHw?si=D0C35Q8Db0p-Ja7_) |
+| 인공지능과 파이썬으로 금융 데이터 분석해보기 with 자연어처리 (NLP) (Pycon Korea 2024) | 24.10.26. | [Youtube](https://youtu.be/pCO04CtCl6c?si=CTA3gKv0TYfHRuCE) |
+| 무모한 도전으로부터 얻은 성장 (YOUTHCON'24) | 24.08.31. | [Intro Page](https://frost-witch-afb.notion.site/YOUTHCON-24-49177aa1b828435f98046912c6debc78) |
+
+| Club | Desc. | Role | Period |
+| ------------ | ------------- | ------------- | ------------- |
+| **[AUSG](https://2025.ausg.me/)** | AWS(AWSKRUG) Community for Student Developers | 9th Member | 2025.08 ~ |
+| **[BOAZ](https://www.bigdataboaz.com/)** | Study & Project Association Club on Big Data | 26th Member (DE) | 2026.01 ~ |
+| **[LG Aimers](https://www.lgaimers.ai/)** | LG Group's AI Expert Training Program | 8th Member | 2026.01 ~ |
+| **[PnP](https://hufs-pnp.github.io/)** | Academic Club of Computer Engineering in HUFS | Regulator (ML, Cloud) | 2020.03 ~ 2025.11 |
+
+  <div align="left">
+
+
   <details>
     <summary><h4>📋 Projects & Research</h4></summary>
     <table>
@@ -159,72 +138,6 @@ Passionate about leveraging AI & Data to unlock new possibilities & create a bet
     </table>
     </details>
 </div>
-
-<details>
-  <summary><h4> ⭐ Activities</h4></summary>
-  <div align="center">
-  <table>
-    <thead>
-      <tr>
-        <th>Organization/Team</th>
-        <th>Position</th>
-        <th>Duration</th>
-        <th>Key Activities/Contributions</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>Google Developers Group</td>
-        <td>Organizer</td>
-        <td>25 ~ Present</td>
-        <td>GDG Organizer, Campus korea</td>
-      </tr>
-      <tr>
-        <td>AUSG (AWSKRUG University Student Group)</td>
-        <td>9th Member</td>
-        <td>25 ~ Present</td>
-        <td>AWS, Cloud</td>
-      </tr>
-      <td>AUSGCON 2025 : GROWTH</td>
-        <td>Speaker</td>
-        <td>25.09</td>
-        <td>Topic: How We Grow. Code, Grow, Connect with Community</td>
-      <tr>
-      <td>PyCon Korea 2025</td>
-        <td>Speaker</td>
-        <td>25.08</td>
-        <td>Topic: "VLM, let's meet LLM with eyes!"</td>
-      <tr>
-        <td>PyCon Korea 2024</td>
-        <td>Speaker</td>
-        <td>24.10</td>
-        <td>
-          <a href="https://youtu.be/pCO04CtCl6c?si=-N4Ls5BJeDuAHebr" target="_blank">
-            Topic: "Analyzing Financial Data with AI & Python using NLP"
-          </a>
-        </td>
-      </tr>
-      <tr>
-        <td>SW/AI University Global Talent Training Program</td>
-        <td>Participant</td>
-        <td>23.11</td>
-        <td>Training programs in Nanyang Technical University, National University of Singapore, Hanoi University of Science and Technology</td>
-      </tr>
-      <tr>
-        <td>DAT (Data Analysis Academy)</td>
-        <td>ML Team</td>
-        <td>23.09 ~ 23.12</td>
-        <td>Capstone project: Predicting transaction prices of top 5 Korean apartment brands using ML</td>
-      </tr>
-      <tr>
-        <td>Passion & Pioneer Academic Society of Computer Engineering (PnP)</td>
-        <td>Organizer</td>
-        <td>20.03 ~ 26.08</td>
-        <td>regulator (24.03 ~ 25.07), AI team Lead (23 ~ 24.02), Cloud Squad Lead (25.03 ~ 11)</td>
-      </tr>
-    </tbody>
-  </table>
-</details>
 
 <details>
   <summary><h4>🏆 Awards</h4></summary>
