@@ -9,7 +9,7 @@
 
 Passionate about leveraging AI & Data to unlock new possibilities & create a better, more connected world.
 
-### 🌱 Career
+## 🌱 Career
 
 > 🛍️ **Kakaostyle (카카오스타일)**  
 > 2025.07. ~ 2025.10.  
@@ -25,6 +25,67 @@ Passionate about leveraging AI & Data to unlock new possibilities & create a bet
 > ⛅️ **KakaoTech Bootcamp 1st (in Pangyo)**  
 > 2024.07. ~ 2024.12.  
 > Gen AI Process | AI Model & Data Pipeline Construction, API Development
+
+## 👀 Interests
+☁️ Cloud Native & Machine Learning<br/>
+🛠️ ML Platform Engineering<br/>
+😗 Developer Relations<br/>
+🙏 believe data makes new possibilities<br/>
+
+
+<div align="left">
+
+   <table>
+        <tbody>
+            <tr>
+                <td>AI & BE</td>
+                <td>
+                    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" alt="Python">
+                    <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=FastAPI&logoColor=white" alt="FastAPI">
+                    <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=Anaconda&logoColor=white" alt="Anaconda">
+                    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white" alt="PyTorch">
+                    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white" alt="OpenCV">
+                    <img src="https://img.shields.io/badge/Mediapipe-0085CA?style=flat&logo=Mediapipe&logoColor=white" alt="Mediapipe">
+                    <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
+                    <img src="https://img.shields.io/badge/Langchain-1C3C3C?style=flat&logo=langchain&logoColor=white" alt="langchain">
+                   <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white" alt="Gemini">
+                    <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=NumPy&logoColor=white" alt="NumPy">
+                    <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=Pandas&logoColor=white" alt="Pandas">
+                    <img src="https://img.shields.io/badge/Pydantic-FFE873?style=flat&logo=Pydantic&logoColor=black" alt="Pydantic">
+                </td>
+            </tr>
+            <tr>
+                <td>Cloud & Infra</td>
+                <td>
+                    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white" alt="Docker">
+                    <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white" alt="AWS">
+                    <img src="https://img.shields.io/badge/Sentry-FF6500?style=flat&logo=Sentry&logoColor=white" alt="Sentry">
+                    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white" alt="MongoDB">
+                    <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white" alt="Git">
+                    <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=Prometheus&logoColor=white" alt="Prometheus">
+                    <img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=Grafana&logoColor=white" alt="Grafana">
+                    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" alt="GitHub">
+                    <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white" alt="GitHub Actions">
+                </td>
+            </tr>
+            <tr>
+                <td>etc</td>
+                <td>
+                    <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" alt="Notion">
+                    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white" alt="Discord">
+                    <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white" alt="Jira">
+                    <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white" alt="Slack">
+                    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white" alt="Gmail">
+                    <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white" alt="Figma">
+                    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white" alt="LinkedIn">
+                    <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=Markdown&logoColor=white" alt="Markdown">
+                    <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white" alt="Arduino">
+                </td>
+            </tr>
+        </tbody>
+    </table>
+
+
 <div align="left">
   <details>
     <summary><h4>📋 Projects & Research</h4></summary>
@@ -234,66 +295,6 @@ Passionate about leveraging AI & Data to unlock new possibilities & create a bet
   - "Predicting Actual Transaction Prices of Top 5 Korea Apartment Brands Using ML" - Conference Capstone Project Presentation, organized by HUFS Data Analysis Academy DAT, HUFS School of Economics and Business (Dec. 07, 2023)
 
 </details>
-
-
-### 🖥️ Skills
-
-   <table>
-        <thead>
-            <tr>
-                <th>Category</th>
-                <th>Tech</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td>AI & BE</td>
-                <td>
-                    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" alt="Python">
-                    <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=FastAPI&logoColor=white" alt="FastAPI">
-                    <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=Anaconda&logoColor=white" alt="Anaconda">
-                    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white" alt="PyTorch">
-                    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white" alt="OpenCV">
-                    <img src="https://img.shields.io/badge/Mediapipe-0085CA?style=flat&logo=Mediapipe&logoColor=white" alt="Mediapipe">
-                    <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
-                    <img src="https://img.shields.io/badge/Langchain-1C3C3C?style=flat&logo=langchain&logoColor=white" alt="langchain">
-                   <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white" alt="Gemini">
-                    <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=NumPy&logoColor=white" alt="NumPy">
-                    <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=Pandas&logoColor=white" alt="Pandas">
-                    <img src="https://img.shields.io/badge/Pydantic-FFE873?style=flat&logo=Pydantic&logoColor=black" alt="Pydantic">
-                </td>
-            </tr>
-            <tr>
-                <td>Cloud & Infra</td>
-                <td>
-                    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white" alt="Docker">
-                    <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white" alt="AWS">
-                    <img src="https://img.shields.io/badge/Sentry-FF6500?style=flat&logo=Sentry&logoColor=white" alt="Sentry">
-                    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white" alt="MongoDB">
-                    <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white" alt="Git">
-                    <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=Prometheus&logoColor=white" alt="Prometheus">
-                    <img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=Grafana&logoColor=white" alt="Grafana">
-                    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" alt="GitHub">
-                    <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white" alt="GitHub Actions">
-                </td>
-            </tr>
-            <tr>
-                <td>etc</td>
-                <td>
-                    <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" alt="Notion">
-                    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white" alt="Discord">
-                    <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white" alt="Jira">
-                    <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white" alt="Slack">
-                    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white" alt="Gmail">
-                    <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white" alt="Figma">
-                    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white" alt="LinkedIn">
-                    <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=Markdown&logoColor=white" alt="Markdown">
-                    <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white" alt="Arduino">
-                </td>
-            </tr>
-        </tbody>
-    </table>
-
 
 ---
 
