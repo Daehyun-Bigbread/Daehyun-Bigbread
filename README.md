@@ -48,10 +48,8 @@ Passionate about leveraging AI & Data to unlock new possibilities & create a bet
                     <img src="https://img.shields.io/badge/Mediapipe-0085CA?style=flat&logo=Mediapipe&logoColor=white" alt="Mediapipe">
                     <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
                     <img src="https://img.shields.io/badge/Langchain-1C3C3C?style=flat&logo=langchain&logoColor=white" alt="langchain">
-                   <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white" alt="Gemini">
-                    <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=NumPy&logoColor=white" alt="NumPy">
-                    <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=Pandas&logoColor=white" alt="Pandas">
-                    <img src="https://img.shields.io/badge/Pydantic-FFE873?style=flat&logo=Pydantic&logoColor=black" alt="Pydantic">
+                  <img src="https://img.shields.io/badge/MLflow-1C3C3C?style=flat&logo=mlflow&logoColor=white" alt="MLflow">
+                  <img src="https://img.shields.io/badge/Amazon_SageMaker-1C3C3C?style=flat&logo=amazon-aws&logoColor=white" alt="Amazon SageMaker">
                 </td>
             </tr>
             <tr>
@@ -64,7 +62,6 @@ Passionate about leveraging AI & Data to unlock new possibilities & create a bet
                     <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white" alt="Git">
                     <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=Prometheus&logoColor=white" alt="Prometheus">
                     <img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=Grafana&logoColor=white" alt="Grafana">
-                    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" alt="GitHub">
                     <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white" alt="GitHub Actions">
                 </td>
             </tr>
@@ -79,7 +76,6 @@ Passionate about leveraging AI & Data to unlock new possibilities & create a bet
                     <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white" alt="Figma">
                     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white" alt="LinkedIn">
                     <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=Markdown&logoColor=white" alt="Markdown">
-                    <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white" alt="Arduino">
                 </td>
             </tr>
         </tbody>
