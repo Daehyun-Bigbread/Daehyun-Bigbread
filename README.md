@@ -11,11 +11,11 @@ Passionate about leveraging AI & Data to unlock new possibilities & create a bet
 
 ## 🌱 Career
 
-> 🛍️ **Kakaostyle (@croquiscom)**  
+> 🛍️ **[Kakaostyle (카카오스타일)](https://github.com/croquiscom)**  
 > 2025.07. ~ 2025.10.  
 > Data Quality Assurance (Vision & NLP) | Data Construction, validate & evaluation for improving data quality of Zigzag Recommendation Model.
 > 
-> 🧑‍💻 **Google Developer Groups, GDG Campus Korea**  
+> 🧑‍💻 **[Google Developer Groups, GDG Campus Korea](https://gdg.community.dev/gdg-campus-korea/)**  
 > 2025.01. ~ present | Community Organizer
 > 
 > 🎓 **Hankuk University of Foreign Studies (HUFS)**  
@@ -27,15 +27,13 @@ Passionate about leveraging AI & Data to unlock new possibilities & create a bet
 > Gen AI Process | AI Model & Data Pipeline Construction, API Development
 
 ## 👀 Interests
-☁️ Cloud Native & Machine Learning<br/>
+☁️ Cloud Native & Machine Learning(LLM)<br/>
 🛠️ ML Platform Engineering<br/>
 😗 Developer Relations<br/>
-🙏 believe data makes new possibilities<br/>
-
+🙏 believe technology makes new possibilities<br/>
 
 <div align="center">
-
-
+  
 | Category | Stacks |
 | :-- | :-- |
 | **🤖 AI & BE** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=FastAPI&logoColor=white" alt="FastAPI"> <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=Anaconda&logoColor=white" alt="Anaconda"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white" alt="PyTorch"> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white" alt="OpenCV"> <img src="https://img.shields.io/badge/Mediapipe-0085CA?style=flat&logo=Mediapipe&logoColor=white" alt="Mediapipe"> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit-learn"> <img src="https://img.shields.io/badge/Langchain-1C3C3C?style=flat&logo=langchain&logoColor=white" alt="langchain"> <img src="https://img.shields.io/badge/MLflow-1C3C3C?style=flat&logo=mlflow&logoColor=white" alt="MLflow"> |
