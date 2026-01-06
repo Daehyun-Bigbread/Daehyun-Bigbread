@@ -51,11 +51,11 @@ Passionate about leveraging AI & Data to unlock new possibilities & create a bet
 | 인공지능과 파이썬으로 금융 데이터 분석해보기 with 자연어처리 (NLP) (Pycon Korea 2024) | 24.10.26. | [Youtube](https://youtu.be/pCO04CtCl6c?si=CTA3gKv0TYfHRuCE) |
 | 무모한 도전으로부터 얻은 성장 (YOUTHCON'24) | 24.08.31. | [Page](https://frost-witch-afb.notion.site/YOUTHCON-24-49177aa1b828435f98046912c6debc78) |
 
-| Club | Desc. | Role | Period |
+| Club | Desc | Role | Period |
 | ------------ | ------------- | ------------- | ------------- |
-| **[AUSG](https://2025.ausg.me/)** | AWS(AWSKRUG) Community for Student Developers | 9th Member | 2025.08 ~ |
-| **[LG Aimers](https://www.lgaimers.ai/)** | LG Group's AI Expert Training Program | 8th Member | 2026.01 ~ |
-| **[PnP](https://hufs-pnp.github.io/)** | Academic Club of Computer Engineering in HUFS | Regulator (ML, Cloud) | 2020.03 ~ 2025.11 |
+| **[AUSG](https://2025.ausg.me/)** | AWS(AWSKRUG) Community for Student Developers | 9th Member | 25.08 ~ |
+| **[LG Aimers](https://www.lgaimers.ai/)** | LG Group's AI Expert Training Program | 8th Member | 26.01 ~ |
+| **[PnP](https://hufs-pnp.github.io/)** | Academic Club of Computer Engineering in HUFS | Regulator (ML, Cloud) | 20.03 ~ 25.11 |
 
 
 <div align="left">
