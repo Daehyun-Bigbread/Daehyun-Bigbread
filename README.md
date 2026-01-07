@@ -16,7 +16,8 @@ Passionate about leveraging AI & Data to unlock new possibilities & create a bet
 > Data Quality Assurance (Vision & NLP) | Data Construction, validate & evaluation for improving data quality of Zigzag Recommendation Model.
 > 
 > 🧑‍💻 **[Google Developer Groups, GDG Campus Korea](https://gdg.community.dev/gdg-campus-korea/)**  
-> 2025.01. ~ present | Community Organizer
+> 2025.01. ~ Present.  
+> Community Organizer
 > 
 > 🎓 **Hankuk University of Foreign Studies (HUFS)**  
 > 2020.03. ~ Present  
