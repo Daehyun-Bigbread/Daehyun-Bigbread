@@ -17,7 +17,7 @@ Passionate about leveraging AI & Data to unlock new possibilities & create a bet
 > 
 > 🧑‍💻 **[Google Developer Groups, GDG Campus Korea](https://gdg.community.dev/gdg-campus-korea/)**  
 > 2025.01. ~ Present.  
-> Community Organizer
+> Community Organizer | Planning & Operation of Google Global Developer Campaign in Korea
 > 
 > 🎓 **Hankuk University of Foreign Studies (HUFS)**  
 > 2020.03. ~ Present  
