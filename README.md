@@ -47,7 +47,7 @@ Passionate about leveraging AI & Data to unlock new possibilities & create a bet
 | Session | Date | etc |
 | ------------ | ------------- | ------------- |
 | 우리가 성장하는 방법. Code, Grow, Connect with 커뮤니티 (AUSGCON 2025 : GROWTH) | 25.09.13. | [Page](https://2025.ausg.me/) |
-| VLM, 눈 달린 LLM을 만나보자! (Pycon Korea 2025) | 25.08.16. | [Page](https://2025.pycon.kr/presentations/ae847a02-4470-42a8-a383-9fed6bbdedda#VLM-%EB%88%88-%EB%8B%AC%EB%A6%B0-LLM%EC%9D%84-%EB%A7%8C%EB%82%98%EB%B3%B4%EC%9E%90) |
+| VLM, 눈 달린 LLM을 만나보자! (Pycon Korea 2025) | 25.08.16. | [Youtube](https://youtu.be/g4NrEAYXb7E?si=jXQCP3G16LMfINjX) |
 | 참견도 능력이다. 제너럴 엔지니어가 각광받는 개발 세상 (GDGoC HUFS, Invitation Session) | 25.07.28. | [Youtube](https://youtu.be/6CyBTNfWmHw?si=D0C35Q8Db0p-Ja7_) |
 | 인공지능과 파이썬으로 금융 데이터 분석해보기 with 자연어처리 (NLP) (Pycon Korea 2024) | 24.10.26. | [Youtube](https://youtu.be/pCO04CtCl6c?si=CTA3gKv0TYfHRuCE) |
 | 무모한 도전으로부터 얻은 성장 (YOUTHCON'24) | 24.08.31. | [Page](https://frost-witch-afb.notion.site/YOUTHCON-24-49177aa1b828435f98046912c6debc78) |
