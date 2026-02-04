@@ -10,7 +10,7 @@
 Passionate about leveraging AI & Data to unlock new possibilities & create a better, more connected world.
 
 ## 🌱 Career
-> 🗃️ **[Megazone Soft (메가존소프트)](https://www.megazone.com/)**  
+> 🗃️ **[MegazoneSoft (메가존소프트)](https://www.megazone.com/)**  
 > 2026.02. ~ present.  
 > AI/ML Engineer
 >
