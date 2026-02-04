@@ -10,7 +10,10 @@
 Passionate about leveraging AI & Data to unlock new possibilities & create a better, more connected world.
 
 ## 🌱 Career
-
+> 🗃️ **[Megazone Soft (메가존소프트)](https://www.megazone.com/)**  
+> 2026.02. ~ present.  
+> AI/ML Engineer
+>
 > 🛍️ **[Kakaostyle (카카오스타일)](https://github.com/croquiscom)**  
 > 2025.07. ~ 2025.10.  
 > Data Quality Assurance (Vision & NLP) | Data Construction, validate & evaluation for improving data quality of Zigzag Recommendation Model.
