@@ -22,11 +22,11 @@ Passionate about leveraging AI & Data to unlock new possibilities & create a bet
 > 2025.01. ~ Present.  
 > Community Organizer | Planning & Operation of Google Global Developer Campaign in Korea
 > 
-> 🎓 **Hankuk University of Foreign Studies (HUFS)**  
+> 🎓 **[Hankuk University of Foreign Studies (HUFS)](https://www.hufs.ac.kr/sites/hufs/index.do)**  
 > 2020.03. ~ Present  
 > Computer Engineering, Data Science (Minor)
 >
-> ⛅️ **Kakaotech Bootcamp 1st (Pangyo, kakao corp)**  
+> ⛅️ **[Kakaotech Bootcamp 1st (Pangyo, kakao corp)](https://kakaotechbootcamp.com/)**  
 > 2024.07. ~ 2024.12.  
 > Generative AI | AI Model & Data Pipeline Construction, API Development
 
