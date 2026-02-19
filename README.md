@@ -162,16 +162,21 @@ Passionate about leveraging AI & Data to unlock new possibilities & create a bet
         <td>AWS 부하테스트 대회 토너먼트 </td>
       </tr>
       <tr>
-        <td>Grand Award (대상)</td>
-        <td>Seoul AI Hub X MODULABS (모두의연구소)</td>
-        <td>24.02.23</td>
-        <td>2024 AI/SW Start-up Job Fair</td>
-      </tr>
-      <tr>
         <td>Best-paper Award (Best 논문상)</td>
         <td>NCAEIC-2023 (ICT-AES, KSF)</td>
         <td>23.11.30 ~ 23.12.02</td>
         <td>Hotel The One, Jeju Island, Korea. for "Investing Mapping 101: Visualization of the Industry through Keywords & Sensitivity Analysis"</td>
+      </tr>
+        <td>participation Prize (장려상 - 학부생부분)</td>
+        <td>Korea Software Congress 2025 (KSC2025)</td>
+        <td>25.12.16 ~ 25.12.19</td>
+        <td> Yeosu Expo Convention Center, Yeosu, Korea Republic. for "Design and Implementation of a Parallel Multimodal Input-Based Behavior Feedback System for Online Presentation Behavior Analysis”"</td>
+      </tr>
+      <tr>
+        <td>Grand Award (대상)</td>
+        <td>Seoul AI Hub X MODULABS (모두의연구소)</td>
+        <td>24.02.23</td>
+        <td>2024 AI/SW Start-up Job Fair</td>
       </tr>
       <tr>
         <td>Excellence Award (우수상, 3rd)</td>
