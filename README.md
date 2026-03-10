@@ -31,7 +31,7 @@ Passionate about leveraging AI & Data to unlock new possibilities & create a bet
 > Generative AI | AI Model & Data Pipeline Construction, API Development
 
 ## 👀 Interests
-☁️ Cloud Native & Machine Learning (LLM, RAG)<br/>
+☁️ Cloud Native, AI Engineering & Ops (LLM, RAG)<br/>
 🛠️ ML Platform Engineering<br/>
 😗 Developer Relations<br/>
 🙏 believe technology makes new possibilities<br/>
