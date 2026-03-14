@@ -49,7 +49,7 @@ Passionate about leveraging AI & Data to unlock new possibilities & create a bet
 ### ⭐ Activities
 | Session | Date | etc |
 | ------------ | ------------- | ------------- |
-| 우리가 성장하는 방법. Code, Grow, Connect with 커뮤니티 (AUSGCON 2025 : GROWTH) | 25.09.13. | [Page](https://2025.ausg.me/) |
+| 우리가 성장하는 방법. Code, Grow, Connect with 커뮤니티 (AUSGCON 2025 : GROWTH) | 25.09.13. | [Youtube](https://youtu.be/b55_iv0X0zY?si=zoclq7m7stEO-i5X) |
 | VLM, 눈 달린 LLM을 만나보자! (Pycon Korea 2025) | 25.08.16. | [Youtube](https://youtu.be/g4NrEAYXb7E?si=jXQCP3G16LMfINjX) |
 | 참견도 능력이다. 제너럴 엔지니어가 각광받는 개발 세상 (GDGoC HUFS, Invitation Session) | 25.07.28. | [Youtube](https://youtu.be/6CyBTNfWmHw?si=D0C35Q8Db0p-Ja7_) |
 | 인공지능과 파이썬으로 금융 데이터 분석해보기 with 자연어처리 (NLP) (Pycon Korea 2024) | 24.10.26. | [Youtube](https://youtu.be/pCO04CtCl6c?si=CTA3gKv0TYfHRuCE) |
