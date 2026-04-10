@@ -12,7 +12,7 @@ Passionate about leveraging AI & Data to unlock new possibilities & create a bet
 ## 🌱 Career
 > 🗃️ **[MegazoneSoft (메가존소프트)](https://www.megazone.com/)**  
 > 2026.02. ~ present.  
-> AI Engineering | Google Cloud Platform (GCP) Tech Solution Architect
+> AI, Cloud Architect | Google Cloud Platform (GCP) Tech Solution Architect
 >
 > 🛍️ **[Kakaostyle (카카오스타일)](https://github.com/croquiscom)**  
 > 2025.07. ~ 2025.10.  
